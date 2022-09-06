@@ -1,3 +1,45 @@
 // Change default font family
 $body-font-family: "Inter", system-ui, -apple-system, blinkmacsystemfont,
   "Segoe UI", roboto, "Helvetica Neue", arial, sans-serif;
+// Typography
+// `-sm` suffix is the size at the small (and above) media query
+$root-font-size: 15px; // Base font-size for rems
+$body-line-height: 1.5;
+$content-line-height: 1.5;
+$body-heading-line-height: 1.25;
+$font-size-1: 11px;
+$font-size-1-sm: 11px;
+$font-size-2: 11px; // h4 - uppercased!, h6 not uppercased, text-small
+$font-size-3: 11px; // h5
+$font-size-4: 15px;
+$font-size-5: 15px; // h3
+$font-size-6: 18px; // h2
+$font-size-7: 23px;
+$font-size-8: 35px; // h1
+$font-size-9: 40px;
+$font-size-10: 45px;
+$font-size-10-sm: 50px;
+// Colors
+$black-memo: #18191b;
+$blue-memo: #0b5dd0;
+$blue-dark: #0d4189;
+$blue-light: #f0f6fe;
+$grey: #e1e1e6;
+$grey-light: #f9f9fa;
+$sidebar-color: $blue-light;
+$body-text-color: $black-memo;
+$body-heading-color: $blue-memo;
+$link-color: $blue-memo;
+$btn-primary-color: $blue-memo;
+$feedback-color: darken($sidebar-color, 3%);
+$search-result-preview-color: $blue-memo;
+$nav-child-link-color: $grey;
+// Grid system
+$header-height: 80px;
+$content-width: 820px;
+$nav-width: 248px;
+$nav-width-md: 232px;
+$nav-list-item-height: $sp-7;
+// Borders
+$border: 0.5px solid;
+$border-color: $grey;
