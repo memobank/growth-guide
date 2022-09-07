@@ -88,7 +88,7 @@ Cela signifie que vous avez perdu 90 % de vos clients en un an. Pour garder le 
 
 Que déduire du pourcentage de votre churn ? Votre situation est-elle inquiétante, normale ou avantageuse, par rapport à la moyenne des entreprises SaaS ?
 
-Il est difficile de dire ce qu’est un « bon » churn pour votre entreprise. Il faudrait pouvoir comparer votre entreprise à d’autres entreprises du même secteur, avec la même ancienneté, avec un niveau de [MRR]({% link indicateurs/monthly-recurring-revenue.md %}) comparable, dans la même région… Malheureusement, trop peu d’entreprises publient leur churn.
+Il est difficile de dire ce qu’est un « bon » churn pour votre entreprise. Il faudrait pouvoir comparer votre entreprise à d’autres entreprises du même secteur, avec la même ancienneté, avec un niveau de [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}) comparable, dans la même région… Malheureusement, trop peu d’entreprises publient leur churn.
 
 Des études permettent toutefois de disposer de fourchettes de churn qui vous aideront à vous faire une idée. L’agence Cobloom a publié en juillet 2020 un [article](https://www.cobloom.com/blog/churn-rate-how-high-is-too-high#) qui synthétise des études menées aux États-Unis auprès de quelques centaines d’entreprises SaaS.
 
@@ -112,7 +112,7 @@ Le churn de revenu mesure le montant de revenu récurrent que vous perdez sur un
 - Le MRR est votre « revenu mensuel récurrent », et l’ARR votre « revenu annuel récurrent » : c’est-à-dire la somme des revenus récurrents sur un mois ou une année donnés. En général, pour une entreprise SaaS, ces revenus récurrents sont la somme des abonnements en ligne, et des éventuelles options récurrentes payées par les clients.
 - Le Churn MRR, ou le Churn ARR, mesurent les pertes de revenu récurrent causées par le départ de vos clients, sur un mois ou une année.
 
-Si vous souhaitez en savoir plus sur le MRR et l’ARR, et leurs sous-indicateurs, consultez les articles que nous avons consacrés au [MRR]({% link indicateurs/monthly-recurring-revenue.md %}) et à [l’ARR]({% link indicateurs/annual-recurring-revenue.md %}).
+Si vous souhaitez en savoir plus sur le MRR et l’ARR, et leurs sous-indicateurs, consultez les articles que nous avons consacrés au [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}) et à [l’ARR]({{ 'indicateurs/annual-recurring-revenue' | relative_url }}).
 
 Le churn du revenu d’une période donnée est le rapport entre le Churn MRR/ARR de cette période, et le MRR/ARR de votre entreprise au début de cette période.
 
