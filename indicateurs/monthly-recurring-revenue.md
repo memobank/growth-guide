@@ -108,7 +108,7 @@ Au mois de mars, 5 de vos clients qui étaient en période d’essai, souscriven
 
 Votre Expansion MRR est donc :
 
-Expansion MRR = 5 _ 50 + 10 _ (100 - 50) = 1 000 €.
+Expansion MRR = 5 _ 50 + 10 _ (100 - 50) = 1 000 €.
 
 Ne prenez en compte dans votre Expansion MRR que les revenus _additionnels_. Si certains de vos clients sont passés d’un abonnement à 50 € à un abonnement à 100 €, ne comptez pas les 100 € dans votre Expansion MRR, mais le revenu additionnel de ce passage à plan supérieur, soit 100 - 50 = 50 €.
 

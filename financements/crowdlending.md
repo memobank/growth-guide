@@ -52,7 +52,7 @@ Les montants auxquels vous pouvez prétendre dans le cadre d’une campagne de _
 D’après les chiffres du [baromètre du crowdfunding en France](https://www.mazars.fr/Accueil/Insights/Publications-et-evenements/Etudes/Barometre-2021-du-crowdfunding-en-France), les entreprises lèvent en moyenne :
 
 - 175 000 € sous la forme de prêts contractés par des particuliers ;
-- 390 000 € sous la forme d’actions cédées à des particuliers.
+- 390 000 € sous la forme d’actions cédées à des particuliers.
 
 ### Délais d’octroi
 

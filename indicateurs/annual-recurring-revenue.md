@@ -43,7 +43,7 @@ Vous avez 100 clients : 50 de vos clients sont abonnés à votre formule Simple
 
 Votre MRR est :
 
-MRR = 50 _ 50 € + 50 _ 100 € = 7 500 €.
+MRR = 50 _ 50 € + 50 _ 100 € = 7 500 €.
 
 Votre ARR est donc :
 

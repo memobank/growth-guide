@@ -44,7 +44,7 @@ Pour vous aider à calculer votre CAC, vous trouverez ci-dessous une liste non e
 
 - salaires de vos équipes marketing ;
 - salaires de vos équipes commerciales (hors account managers) ;
-- coûts des freelances et des consultants.
+- coûts des _freelances_ et des consultants.
 
 #### Outils (ensemble des outils utilisés par vos équipes commerciales et marketing)
 
@@ -58,7 +58,7 @@ Pour vous aider à calculer votre CAC, vous trouverez ci-dessous une liste non e
 #### Relations presse
 
 - agences de relations presse ;
-- coûts des freelances et des consultants.
+- coûts des _freelances_ et des consultants.
 
 #### Exemple de calcul
 
@@ -67,7 +67,7 @@ Vous souhaitez calculer votre CAC sur le mois de mars. Commencez par faire la li
 - publicité en ligne et hors ligne : 5 000 € ;
 - salaires mensuels de votre équipe marketing : 15 000 € ;
 - salaires mensuels de votre équipe commerciale consacrée à l’acquisition : 20 000 € ;
-- coûts des outils : 2 000 €.
+- coûts des outils : 2 000 €.
 
 Sur le mois de mars, vous avez conquis 12 nouveaux clients. Votre CAC est donc égal à :
 
@@ -133,7 +133,7 @@ Ce résultat signifie que la marge qu’il vous reste effectivement après avoir
 
 Vous devez considérer le CPP comme une mesure de risque, et non comme une mesure de profitabilité. Le nombre de mois que vous obtenez comme résultat de votre CPP ne signifie pas qu’au bout de tel nombre de mois, vous aurez *forcément *obtenu un retour sur investissement. Pourquoi ? Parce que le CPP ne prend pas en compte le churn de votre entreprise. Le CPP mesure le temps que mettent en moyenne vos clients à vous rembourser — mais encore faut-il qu’ils soient encore vos clients à la fin de la période déterminée par le CPP.
 
-Imaginons que vous êtes une entreprise SaaS, et que vous souhaitez calculer votre CAC Payback Period. Vous avez acquis 10 clients lors du mois de mars, qui paient chacun un abonnement mensuel de 700 €. Votre coût d’acquisition est de 10 000 €.
+Imaginons que vous êtes une entreprise SaaS, et que vous souhaitez calculer votre CAC Payback Period. Vous avez acquis 10 clients lors du mois de mars, qui paient chacun un abonnement mensuel de 700 €. Votre coût d’acquisition est de 10 000 €.
 
 Votre CAC Payback Period est :
 

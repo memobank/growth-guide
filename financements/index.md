@@ -18,7 +18,7 @@ Quand vous faites appel à un financement « dilutif », vous échangez des pa
 
 - **Description** : des _business angels_, qui sont souvent d’anciens entrepreneurs, placent leurs propres fonds dans votre entreprise en échange de participations.
 - **Phase idéale pour vous** : phase d’amorçage, avec ou sans revenus.
-- **Taille du financement** : 25 000 € à 2 millions d’euros (au total).
+- **Taille du financement** : 25 000 € à 2 millions d’euros (au total).
 - **Durée du financement** : 3 à 8 ans.
 - **Délai d’octroi du financement** : 2 à 6 mois.
 - **Contreparties** : vous devez céder des parts.
@@ -94,7 +94,7 @@ Quand vous faites appel à un financement « non-dilutif », vous empruntez de
 
 - **Description** : vous piochez dans votre épargne personnelle et dans les économies que vos proches acceptent de vous confier pour financer les premières dépenses de votre entreprise.
 - **Phase idéale pour vous** : phase de lancement, sans revenus.
-- **Taille du financement** : 1 000 € à 100 000 €.
+- **Taille du financement** : 1 000 € à 100 000 €.
 - **Durée du financement** : 5 à 10 ans (si prise de participation)
 - **Délai d’octroi du financement** : 1 à 2 mois.
 - **Contreparties** : aucune (ou cession de participation)
@@ -105,7 +105,7 @@ Quand vous faites appel à un financement « non-dilutif », vous empruntez de
 
 - **Description** : vous touchez un chèque en remportant un concours d’entrepreneuriat organisé par une collectivité, une entreprise, ou une organisation publique.
 - **Phase idéale pour vous** : lancement.
-- **Taille du financement** : 1 000 € à 50 000 €.
+- **Taille du financement** : 1 000 € à 50 000 €.
 - **Durée du financement** : indifférente (le chèque est un don).
 - **Délai d’octroi du financement** : 1 à 4 semaines.
 - **Contreparties** : aucune.

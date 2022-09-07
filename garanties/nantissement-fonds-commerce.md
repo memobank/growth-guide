@@ -34,9 +34,9 @@ Que la banque exerce ces droits sur votre fonds de commerce ne signifie pas qu�
 
 Le nantissement du fonds de commerce ne porte pas forcément sur l’ensemble de votre fonds de commerce. Certains éléments peuvent être donnés en garantie séparément, indépendamment. Par exemple, vous pourriez donner les marques de votre entreprise en nantissement à une banque, et vos brevets à une autre banque.
 
-Par défaut, si un contrat de nantissement de fonds de commerce ne porte pas de mention particulière quant aux éléments du fonds de commerce concernés par le nantissement, ce nantissement portera uniquement sur les éléments suivants : l'enseigne, le nom commercial, le droit au bail, la clientèle et l'achalandage.
+Par défaut, si un contrat de nantissement de fonds de commerce ne porte pas de mention particulière quant aux éléments du fonds de commerce concernés par le nantissement, ce nantissement portera uniquement sur les éléments suivants : l’enseigne, le nom commercial, le droit au bail, la clientèle et l’achalandage.
 
-L’ensemble des éléments du fonds de commerce sur lesquels peut porter le nantissement sont : l'enseigne, le nom commercial, le droit au bail, la clientèle, l'achalandage, le mobilier commercial, le matériel ou l'outillage servant à l'exploitation du fonds de commerce, les brevets d'invention, les licences, les marques, les dessins et modèles industriels, et les droits de propriété intellectuelle qui y sont attachés.
+L’ensemble des éléments du fonds de commerce sur lesquels peut porter le nantissement sont : l’enseigne, le nom commercial, le droit au bail, la clientèle, l’achalandage, le mobilier commercial, le matériel ou l’outillage servant à l’exploitation du fonds de commerce, les brevets d’invention, les licences, les marques, les dessins et modèles industriels, et les droits de propriété intellectuelle qui y sont attachés.
 
 Un nantissement de fonds de commerce est valable 10 ans.
 
