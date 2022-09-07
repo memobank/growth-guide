@@ -31,7 +31,7 @@ Pensez bien à :
 - mensualiser les valeurs de contrats que vous percevriez à l’année : divisez par 12 les abonnements payés à l’année ;
 - inclure des remises permanentes que vous auriez octroyées à certains clients.
 
-Pour plus d’informations sur le calcul du MRR, consultez [notre article]({% link indicateurs/monthly-recurring-revenue.md %}) sur le sujet.
+Pour plus d’informations sur le calcul du MRR, consultez [notre article]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}) sur le sujet.
 
 Une fois que vous avez votre MRR, multipliez-le simplement par 12 pour obtenir votre ARR :
 

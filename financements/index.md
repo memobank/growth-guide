@@ -23,7 +23,7 @@ Quand vous faites appel à un financement « dilutif », vous échangez des pa
 - **Délai d’octroi du financement** : 2 à 6 mois.
 - **Contreparties** : vous devez céder des parts.
 
-[{{ site.read_more }}]({% link financements/business-angels.md %})
+[{{ site.read_more }}]({{ 'financements/business-angels' | relative_url }})
 
 ### Fonds de capital-risque (_venture capital_)
 
@@ -34,7 +34,7 @@ Quand vous faites appel à un financement « dilutif », vous échangez des pa
 - **Délai d’octroi du financement** : 6 à 12 mois.
 - **Contreparties** : vous devez céder des parts et accueillir de nouveaux membres dans votre conseil d’administration.
 
-[{{ site.read_more }}]({% link financements/fonds-capital-risque.md %})
+[{{ site.read_more }}]({{ 'financements/fonds-capital-risque' | relative_url }})
 
 ## Comparaison des financements dilutifs
 
@@ -56,7 +56,7 @@ Quand vous faites appel à un financement « non-dilutif », vous empruntez de
 - **Délai d’octroi du financement** : 10 jours à 3 mois.
 - **Contreparties** : vous devez rembourser la somme qui vous a été prêtée tout en payant des intérêts dessus.
 
-[{{ site.read_more }}]({% link financements/credits-bancaires.md %})
+[{{ site.read_more }}]({{ 'financements/credits-bancaires' | relative_url }})
 
 ### Financement participatif (_crowdlending_)
 
@@ -67,7 +67,7 @@ Quand vous faites appel à un financement « non-dilutif », vous empruntez de
 - **Délai d’octroi du financement** : 1 à 2 mois.
 - **Contreparties** : vous devez payer des mensualités de remboursement ou céder des parts.
 
-[{{ site.read_more }}]({% link financements/crowdlending.md %})
+[{{ site.read_more }}]({{ 'financements/crowdlending' | relative_url }})
 
 ### Aides publiques
 
@@ -78,7 +78,7 @@ Quand vous faites appel à un financement « non-dilutif », vous empruntez de
 - **Délai d’octroi du financement** : 1 à 6 mois.
 - **Contreparties** : vous devez payer des mensualités de remboursement (mais sans intérêts ni garanties).
 
-[{{ site.read_more }}]({% link financements/aides-publiques.md %})
+[{{ site.read_more }}]({{ 'financements/aides-publiques' | relative_url }})
 
 ## Comparaison des financements non-dilutifs
 
@@ -99,7 +99,7 @@ Quand vous faites appel à un financement « non-dilutif », vous empruntez de
 - **Délai d’octroi du financement** : 1 à 2 mois.
 - **Contreparties** : aucune (ou cession de participation)
 
-[{{ site.read_more }}]({% link financements/famille-amis.md %})
+[{{ site.read_more }}]({{ 'financements/famille-amis' | relative_url }})
 
 ### Concours d’entrepreneuriat
 
@@ -110,7 +110,7 @@ Quand vous faites appel à un financement « non-dilutif », vous empruntez de
 - **Délai d’octroi du financement** : 1 à 4 semaines.
 - **Contreparties** : aucune.
 
-[{{ site.read_more }}]({% link financements/concours.md %})
+[{{ site.read_more }}]({{ 'financements/concours' | relative_url }})
 
 ## Complémentarité des financements
 
