@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   développement, garantir leurs crédits, et mesurer leurs progrès à l’aide
   d’indicateurs financiers.
 baseurl: "/growth-guide" # the subpath of your site, e.g. /blog
-url: "htts://guide.memo.bank" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://guide.memo.bank" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: memobank
 github_username: memobank
 
