@@ -125,7 +125,7 @@ Votre coût d’acquisition est de 10 000 €, et votre ARPU est de 700 €. 
 
 Votre CAC Payback Period calculé à partir de la marge brute est donc :
 
-- CPP = CAC / (ARPU _ 70 %) = 10 000 / (700 _ 70 %) = 20,4 mois
+- CPP = CAC / (ARPU \* 70 %) = 10 000 / (700 \* 70 %) = 20,4 mois
 
 Ce résultat signifie que la marge qu’il vous reste effectivement après avoir soustrait les coûts d’exploitation de votre revenu moyen par utilisateur, met plus de 20 mois à couvrir votre coût d’acquisition.
 
@@ -143,9 +143,9 @@ Au bout de 14,3 mois, en théorie, le revenu moyen généré par l’un de vos c
 
 Supposons maintenant que votre churn mensuel soit égal à 5 %. Sur la cohorte de 10 clients que vous avez acquis lors du mois de mars, combien vous en reste-t-il au bout de 15 mois ?
 
-- Nombre de clients au bout de 15 mois = (Nombre de clients au 31 mars) _ (1 - Churn)^15 = 10 _ (1 - 5 %)^15 = 10 \* 0,49 = 4 clients
+- Nombre de clients au bout de 15 mois = (Nombre de clients au 31 mars) \* (1 - Churn)^15 = 10 \* (1 - 5 %)^15 = 10 \* 0,49 = 4 clients
 
-Vous avez donc dépensé 100 000 € au mois de mars pour acquérir 10 clients. Au bout de 15 mois, ces 10 clients auraient pu vous générer 15 _ 700 _ 10 = 105 000 €, soit davantage que le coût que vous avez payé pour acquérir ces 10 clients. Sauf qu’en raison de votre churn de 5 %, vous n’avez plus au bout de 15 mois que 4 clients, qui vous rapportent 15 _ 700 _ 4 = 42 000 €.
+Vous avez donc dépensé 100 000 € au mois de mars pour acquérir 10 clients. Au bout de 15 mois, ces 10 clients auraient pu vous générer 15 \* 700 \* 10 = 105 000 €, soit davantage que le coût que vous avez payé pour acquérir ces 10 clients. Sauf qu’en raison de votre churn de 5 %, vous n’avez plus au bout de 15 mois que 4 clients, qui vous rapportent 15 \* 700 \* 4 = 42 000 €.
 
 Plutôt qu’un indicateur du retour sur investissement que vous pouvez espérer de la part de vos clients acquis (ROI qui dépend fortement de votre churn), le CAC Payback Period est une mesure de risque. Il vous montre le niveau de risque que vous prenez en engageant un montant donné de coût d’acquisition. Plus votre CPP s’allonge, plus votre risque financier augmente, parce que vous devez « tenir » plus longtemps sans retour sur investissement — et parce que vos clients pourraient vous quitter.
 

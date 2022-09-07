@@ -62,7 +62,7 @@ Pendant le mois de mars, vous avez subi un _churn_ client de 3 %.
 
 Nous avons donc :
 
-- MRR (mars) = 50 _ 50 € + 50 _ 100 € = 7 500 €
+- MRR (mars) = 50 \* 50 € + 50 \* 100 € = 7 500 €
 - ARPU (mars) = MRR / Nombre de clients sur le mois = 7 500 / 100 = 75 €
 - LTV = ARPU / Churn = 75 € / 3 % = 2 500 €
 

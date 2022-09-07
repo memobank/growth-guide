@@ -43,11 +43,11 @@ Vous avez 100 clients : 50 de vos clients sont abonnés à votre formule Simple
 
 Votre MRR est :
 
-MRR = 50 _ 50 € + 50 _ 100 € = 7 500 €.
+MRR = 50 \* 50 € + 50 \* 100 € = 7 500 €.
 
 Votre ARR est donc :
 
-ARR = MRR _ 12 = 7 500 € _ 12 = 90 000 €.
+ARR = MRR \* 12 = 7 500 € \* 12 = 90 000 €.
 
 ### Calcul de l’ARR si vos clients paient à l’année
 
@@ -65,7 +65,7 @@ Votre entreprise compte aujourd’hui 15 clients :
 
 Votre ARR est donc :
 
-ARR = 5 _ 600 € + 5 _ 1 200 € + (5 \* 3 000 €) / 3 = 14 000 €.
+ARR = 5 \* 600 € + 5 \* 1 200 € + (5 \* 3 000 €) / 3 = 14 000 €.
 
 ## Différences entre MRR et ARR
 
