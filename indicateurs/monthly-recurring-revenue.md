@@ -142,7 +142,7 @@ Contraction MRR = 10 \* (50 € - 0 €) + 15 \* (100 - 50) = 1 250 €.
 
 #### Intérêt du contraction MRR
 
-Utilisez le _Contraction MRR_ et l’*Expansion MRR *pour étudier le comportement de vos clients existants. Le _Contraction MRR_ est supérieur à l’*Expansion MRR* ? Cela signifie que sur un mois donné, vos clients se sont davantage désengagés de vos services qu’ils n’y ont adhéré. Si l’_Expansion MRR_ est supérieur au _Contraction MRR_, alors c’est l’inverse. Cela signifie aussi que vos revenus récurrents augmentent même sans l’arrivée de nouveaux clients.
+Utilisez le _Contraction MRR_ et l’_Expansion MRR_ pour étudier le comportement de vos clients existants. Le _Contraction MRR_ est supérieur à l’*Expansion MRR* ? Cela signifie que sur un mois donné, vos clients se sont davantage désengagés de vos services qu’ils n’y ont adhéré. Si l’_Expansion MRR_ est supérieur au _Contraction MRR_, alors c’est l’inverse. Cela signifie aussi que vos revenus récurrents augmentent même sans l’arrivée de nouveaux clients.
 
 ### Churn MRR
 

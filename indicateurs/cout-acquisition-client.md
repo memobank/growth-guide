@@ -131,7 +131,7 @@ Ce résultat signifie que la marge qu’il vous reste effectivement après avoir
 
 ### Le CAC Payback Period est un indicateur de risque
 
-Vous devez considérer le CPP comme une mesure de risque, et non comme une mesure de profitabilité. Le nombre de mois que vous obtenez comme résultat de votre CPP ne signifie pas qu’au bout de tel nombre de mois, vous aurez *forcément *obtenu un retour sur investissement. Pourquoi ? Parce que le CPP ne prend pas en compte le churn de votre entreprise. Le CPP mesure le temps que mettent en moyenne vos clients à vous rembourser — mais encore faut-il qu’ils soient encore vos clients à la fin de la période déterminée par le CPP.
+Vous devez considérer le CPP comme une mesure de risque, et non comme une mesure de profitabilité. Le nombre de mois que vous obtenez comme résultat de votre CPP ne signifie pas qu’au bout de tel nombre de mois, vous aurez _forcément_ obtenu un retour sur investissement. Pourquoi ? Parce que le CPP ne prend pas en compte le churn de votre entreprise. Le CPP mesure le temps que mettent en moyenne vos clients à vous rembourser — mais encore faut-il qu’ils soient encore vos clients à la fin de la période déterminée par le CPP.
 
 Imaginons que vous êtes une entreprise SaaS, et que vous souhaitez calculer votre CAC Payback Period. Vous avez acquis 10 clients lors du mois de mars, qui paient chacun un abonnement mensuel de 700 €. Votre coût d’acquisition est de 10 000 €.
 
