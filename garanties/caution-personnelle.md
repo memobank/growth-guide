@@ -24,7 +24,7 @@ Le recouvrement par la banque des dettes de votre entreprise est-il automatique�
 
 ### Le cautionnement simple
 
-Si vous avez opté pour un cautionnement simple, le remboursement des dettes que votre entreprise a contractées auprès de la banque n’est pas automatique. Avant d’exiger que vous remboursiez les dettes de votre entreprise avec votre patrimoine personnel, la banque doit d’abord avoir épuisé toutes les voies de recouvrement auprès de votre entreprise (comme la poursuite en justice). Cette obligation pour la banque de poursuivre en premier lieu son débiteur (votre entreprise) a un nom dans le Code civil : le « bénéfice de discussion ».
+Si vous avez opté pour un cautionnement simple, le remboursement des dettes que votre entreprise a contractées auprès de la banque n’est pas automatique. Avant d’exiger que vous remboursiez les dettes de votre entreprise avec votre patrimoine personnel, la banque doit d’abord avoir épuisé toutes les voies de recouvrement auprès de votre entreprise (comme la poursuite en justice). Cette obligation pour la banque de poursuivre en premier lieu son débiteur (votre entreprise) a un nom dans le Code civil : le « bénéfice de discussion ».
 
 Autre avantage du cautionnement simple, défini lui aussi dans le Code civil : le « bénéfice de division », qui s’applique dans le cas où plusieurs personnes (par exemple plusieurs associés) se sont portées caution pour la même dette de l’entreprise. Si vous et vos associés vous êtes chacun porté caution d’une partie de la dette de votre entreprise, et que celle-ci est en défaut de paiement, vous pourrez contraindre votre banque à diviser ses poursuites entre les différentes parties qui se sont portées caution. La banque ne pourra vous réclamer que la part de la dette que vous aviez cautionnée.
 
@@ -55,14 +55,14 @@ Si votre banquier vous demande de souscrire un cautionnement personnel, il devra
 
 Avant le 1er janvier 2022, les contrats de cautionnement devaient contenir un certain nombre de champs, rédigés à la main par le dirigeant, comme un certain nombre de mentions inscrites dans un article du Code de la consommation.
 
-Depuis le 1er janvier 2022, vous n’avez plus besoin de recopier ces mentions à la main. En revanche, vous devez toujours indiquer (mais pas forcément à la main) les éléments suivants :
+Depuis le 1er janvier 2022, vous n’avez plus besoin de recopier ces mentions à la main. En revanche, vous devez toujours indiquer (mais pas forcément à la main) les éléments suivants :
 
-- le montant de l’engagement financier couvert par la caution ;
+- le montant de l’engagement financier couvert par la caution ;
 - la durée de la caution.
 
 ## Durée de la caution
 
-Le cautionnement auquel vous souscrivez peut être de deux types : à durée déterminée, ou à durée indéterminée.
+Le cautionnement auquel vous souscrivez peut être de deux types : à durée déterminée, ou à durée indéterminée.
 
 Le cautionnement à durée déterminée s’applique pour garantir un financement donné, comme un crédit de 7 ans. Vous restez caution de votre entreprise pendant toute la durée de vie du crédit. Vous ne pouvez pas résilier votre engagement.
 

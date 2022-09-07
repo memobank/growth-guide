@@ -8,7 +8,7 @@ nav_order: 1
 
 ## Ceci n’est pas un guide pour les start-up
 
-Le web est plein de guides destinés aux _start-up_, des guides qui expliquent comment passer de 0 à 1 client, de 0 à 1 employé, et de 0 à 1 € de chiffre d’affaires, et ainsi de suite. Mais peu de guides parlent de ce qui vient après, juste après le « stade *start-up* », quand une entreprise en croissance doit passer de 15 à 25 salariés par exemple, où quand son chiffre d’affaires annuel passe de 1 à 2 millions d’euros. Cette différence de traitement tient sans doute au fait que beaucoup de _start-up_ se lancent chaque année, alors que peu accèdent au statut d’entreprises en croissance. Les conseils adressés aux entrepreneurs se focalisent donc sur la phase de lancement d’une entreprise, plus que sur la phase de structuration et de développement.
+Le web est plein de guides destinés aux _start-up_, des guides qui expliquent comment passer de 0 à 1 client, de 0 à 1 employé, et de 0 à 1 € de chiffre d’affaires, et ainsi de suite. Mais peu de guides parlent de ce qui vient après, juste après le « stade *start-up* », quand une entreprise en croissance doit passer de 15 à 25 salariés par exemple, où quand son chiffre d’affaires annuel passe de 1 à 2 millions d’euros. Cette différence de traitement tient sans doute au fait que beaucoup de _start-up_ se lancent chaque année, alors que peu accèdent au statut d’entreprises en croissance. Les conseils adressés aux entrepreneurs se focalisent donc sur la phase de lancement d’une entreprise, plus que sur la phase de structuration et de développement.
 
 ## Ceci est un guide pour les entreprises qui se structurent
 

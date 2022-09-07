@@ -12,13 +12,13 @@ La garantie bancaire est un dispositif qui permet aux banque de se protéger con
 
 ## Caution personnelle du dirigeant
 
-Si la banque qui vous finance prend une « caution personnelle », alors elle pourra vous demander de vous porter caution pour le compte de votre entreprise. Avec cette garantie, la banque pourra piocher dans votre patrimoine personnel si votre entreprise ne peut pas honorer ses remboursements.
+Si la banque qui vous finance prend une « caution personnelle », alors elle pourra vous demander de vous porter caution pour le compte de votre entreprise. Avec cette garantie, la banque pourra piocher dans votre patrimoine personnel si votre entreprise ne peut pas honorer ses remboursements.
 
 [{{ site.read_more }}]({% link garanties/caution-personnelle.md %})
 
 ## Gage-espèces
 
-Comme son nom l’indique, avec le gage-espèces, la banque prend « en gage » une partie des fonds qu’elle vous octroie, c’est-à-dire qu’elle conserve une partie du montant de votre crédit dans ses caisses en attendant que vous ayez intégralement remboursé votre prêt.
+Comme son nom l’indique, avec le gage-espèces, la banque prend « en gage » une partie des fonds qu’elle vous octroie, c’est-à-dire qu’elle conserve une partie du montant de votre crédit dans ses caisses en attendant que vous ayez intégralement remboursé votre prêt.
 
 [{{ site.read_more }}]({% link garanties/gage-especes.md %})
 

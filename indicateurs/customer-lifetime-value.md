@@ -23,7 +23,7 @@ Calculer la LTV historique d’un client donné revient simplement à sommer l�
 
 - LTV (client A) = Somme des revenus générés par le client
 
-Si vous souhaitez calculer votre LTV historique moyenne, divisez simplement l’ensemble des revenus générés par vos clients jusqu’ici, par le nombre de clients que vous avez eus depuis la création de votre entreprise :
+Si vous souhaitez calculer votre LTV historique moyenne, divisez simplement l’ensemble des revenus générés par vos clients jusqu’ici, par le nombre de clients que vous avez eus depuis la création de votre entreprise :
 
 - LTV (moyenne) = Revenus / Nombre de clients
 
@@ -35,23 +35,23 @@ Depuis votre création, vous avez dégagé 315 000 euros de revenus, et avez, o
 
 Votre LTV historique est :
 
-- LTV (historique) = 315 000 € / 90 = 3 500 €
+- LTV (historique) = 315 000 € / 90 = 3 500 €
 
 ## La Customer Lifetime Value prédictive
 
-La Customer Lifetime Value dite « prédictive » s’intéresse au montant moyen de nouveau revenu que chacun de vos clients générera, du moment où votre client devient votre client jusqu’au moment où il cesse de l’être — ou au montant de revenu que chaque nouveau client qui vous rejoint générera. Contrairement à la LTV historique, la LTV prédictive intègre donc également les revenus futurs (théoriques) de vos clients.
+La Customer Lifetime Value dite « prédictive » s’intéresse au montant moyen de nouveau revenu que chacun de vos clients générera, du moment où votre client devient votre client jusqu’au moment où il cesse de l’être — ou au montant de revenu que chaque nouveau client qui vous rejoint générera. Contrairement à la LTV historique, la LTV prédictive intègre donc également les revenus futurs (théoriques) de vos clients.
 
 L’un des principaux intérêts de la LTV prédictive est de vous permettre de vous rendre compte si le coût que vous payez pour attirer vos nouveaux clients est justifié : si vous dépensez plus pour conquérir un client, que ce que ce client vous apportera tout au long de sa relation commerciale avec vous, vous avez un problème.
 
 La LTV prédictive peut se calculer de différentes manières, plus ou moins complexes. Certains modèles de LTV prédictive sont fondés sur des modèles statistiques, ou intègrent des algorithmes de science des données. Le modèle de LTV prédictive que nous vous proposons ici est un modèle simple, adopté par de nombreuses entreprises innovantes. Revers de cette simplicité, ce modèle est une approximation de votre LTV prédictive qui peut être assez volatile, notamment si votre _churn_ varie fortement de mois en mois.
 
-La LTV prédictive se calcule comme suit :
+La LTV prédictive se calcule comme suit :
 
 - LTV = ARPU / Churn
 
-Où :
+Où :
 
-- L’ARPU désigne le revenu moyen par utilisateur, sur une période donnée. La formule de calcul de l’ARPU est : ARPU = (Revenu total sur une période donnée) / (Nombre d’utilisateurs sur cette période). Si vous êtes une entreprise SaaS, calculez votre ARPU d’après votre revenu récurrent, comme votre MRR : ARPU (mois donné) = (MRR sur le mois donné) / (Nombre d’utilisateurs sur le mois donné.)
+- L’ARPU désigne le revenu moyen par utilisateur, sur une période donnée. La formule de calcul de l’ARPU est : ARPU = (Revenu total sur une période donnée) / (Nombre d’utilisateurs sur cette période). Si vous êtes une entreprise SaaS, calculez votre ARPU d’après votre revenu récurrent, comme votre MRR : ARPU (mois donné) = (MRR sur le mois donné) / (Nombre d’utilisateurs sur le mois donné.)
 - Le churn client mesure la perte de vos clients sur une période donnée. Ce churn est un pourcentage, résultat du rapport entre le nombre de clients que vous perdez sur la période choisie (un mois, un trimestre, une année), et le nombre de clients que vous aviez au début de cette période.
 
 #### Exemple de calcul
@@ -60,13 +60,13 @@ Vous dirigez une entreprise SaaS, et souhaitez calculer la LTV de vos clients. V
 
 Pendant le mois de mars, vous avez subi un _churn_ client de 3 %.
 
-Nous avons donc :
+Nous avons donc :
 
-- MRR (mars) = 50 _ 50 € + 50 _ 100 € = 7 500 €
-- ARPU (mars) = MRR / Nombre de clients sur le mois = 7 500 / 100 = 75 €
-- LTV = ARPU / Churn = 75 € / 3 % = 2 500 €
+- MRR (mars) = 50 _ 50 € + 50 _ 100 € = 7 500 €
+- ARPU (mars) = MRR / Nombre de clients sur le mois = 7 500 / 100 = 75 €
+- LTV = ARPU / Churn = 75 € / 3 % = 2 500 €
 
-Vous pouvez vous attendre à ce que les clients qui sont les vôtres au mois de mars vous apportent dans le futur un revenu de 2 500 €.
+Vous pouvez vous attendre à ce que les clients qui sont les vôtres au mois de mars vous apportent dans le futur un revenu de 2 500 €.
 
 ### Limites de l’indicateur
 
@@ -76,7 +76,7 @@ Par ailleurs, la LTV que vous calculez à une date T sur la base de vos clients 
 
 #### Exemple de calcul
 
-Reprenons notre exemple précédent : vous avez subi au mois de mars un _churn_ de 3 %. Imaginons que le mois suivant, votre _churn_ passe à 5 %. Pour un même nombre de clients, votre nouvelle LTV devient : LTV = 75 € / 5 % = 1 500 €, au lieu de 2 500 €. Votre LTV a baissé théoriquement de 40 %. En réalité, il est probable que votre LTV n’ait pas autant baissé pour l’instant. Vous devez la calculer de mois en mois et suivre son évolution sur le long terme.
+Reprenons notre exemple précédent : vous avez subi au mois de mars un _churn_ de 3 %. Imaginons que le mois suivant, votre _churn_ passe à 5 %. Pour un même nombre de clients, votre nouvelle LTV devient : LTV = 75 € / 5 % = 1 500 €, au lieu de 2 500 €. Votre LTV a baissé théoriquement de 40 %. En réalité, il est probable que votre LTV n’ait pas autant baissé pour l’instant. Vous devez la calculer de mois en mois et suivre son évolution sur le long terme.
 
 ## Utilité de l’indicateur
 
@@ -95,5 +95,5 @@ La LTV que vous calculez grâce à la formule décrite ci-dessus est une LTV moy
 Pour effectuer cette analyse, vous devez créer des cohortes de clients, c’est-à-dire regrouper vos clients en fonction d’une caractéristique commune, et calculer les LTV de ces cohortes. C’est le même processus que vous utilisez peut-être pour comparer votre _churn_ auprès de différents profils de clients. Vous pouvez créer vos cohortes de clients en fonction des critères suivants :
 
 - la date à laquelle vos clients vous ont rejoint (en général le mois ou le trimestre) ;
-- la formule d’abonnement choisie, si vous êtes une entreprise SaaS ;
+- la formule d’abonnement choisie, si vous êtes une entreprise SaaS ;
 - la souscription à des fonctionnalités payantes.

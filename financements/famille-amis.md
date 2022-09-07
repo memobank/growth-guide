@@ -10,21 +10,21 @@ Comme beaucoup d’entrepreneurs, vous avez peut-être pioché dans votre éparg
 
 ## Avantages
 
-Les fonds que vous pouvez tirer de votre épargne ou de votre réseau familial ont l’avantage d’être :
+Les fonds que vous pouvez tirer de votre épargne ou de votre réseau familial ont l’avantage d’être :
 
-- **disponibles** : personne ne peut vous refuser un financement que vous possédez déjà ;
-- **accessibles** : vos proches accueilleront sans doute votre projet avec moins de perplexité que ne le ferait un banquier ;
-- **patients** : votre famille et vos amis pourront vous laisser du temps si votre projet met du temps à décoller.
+- **disponibles** : personne ne peut vous refuser un financement que vous possédez déjà ;
+- **accessibles** : vos proches accueilleront sans doute votre projet avec moins de perplexité que ne le ferait un banquier ;
+- **patients** : votre famille et vos amis pourront vous laisser du temps si votre projet met du temps à décoller.
 
 Au-delà du soutien financier, vos proches peuvent bien sûr vous apporter un soutien psychologique, d’éventuels locaux, et quelques contacts.
 
 ## Inconvénients
 
-Revers de la médaille, les financements familiaux sont généralement :
+Revers de la médaille, les financements familiaux sont généralement :
 
-- **limités** : vos proches ne pourront vous soutenir que jusqu’à un certain point et ils ne connaissent pas forcément bien le secteur dans lequel vous vous lancez ;
-- **délicats** : en cédant des parts à vos proches, vous embarquez votre famille ou vos amis dans votre affaire, ce qui peut être fabuleux (si ça marche) ou délicat (si ça rate) ;
-- **asymétriques** : vos proches ne savent peut-être pas faire la différence entre de bonnes et de mauvaises conditions d’investissement, contrairement à vous.
+- **limités** : vos proches ne pourront vous soutenir que jusqu’à un certain point et ils ne connaissent pas forcément bien le secteur dans lequel vous vous lancez ;
+- **délicats** : en cédant des parts à vos proches, vous embarquez votre famille ou vos amis dans votre affaire, ce qui peut être fabuleux (si ça marche) ou délicat (si ça rate) ;
+- **asymétriques** : vos proches ne savent peut-être pas faire la différence entre de bonnes et de mauvaises conditions d’investissement, contrairement à vous.
 
 ## Caractéristiques du financement
 
@@ -36,11 +36,11 @@ Tout dépend des ressources dont vous disposez et dont disposent vos proches. Ce
 
 ### Contreparties
 
-Dans le cas d’un don pur et simple, vous n’avez aucune contrepartie à fournir. Dans le cas d’une prise de participation de vos proches dans votre entreprise, vous pouvez envisager de céder 10 % de votre entreprise à vos proches, environ.
+Dans le cas d’un don pur et simple, vous n’avez aucune contrepartie à fournir. Dans le cas d’une prise de participation de vos proches dans votre entreprise, vous pouvez envisager de céder 10 % de votre entreprise à vos proches, environ.
 
-Comme la plupart des entreprises innovantes ne décollent hélas jamais vraiment, si vous décidez d’embarquer vos proches dans votre aventure, nous vous conseillons :
+Comme la plupart des entreprises innovantes ne décollent hélas jamais vraiment, si vous décidez d’embarquer vos proches dans votre aventure, nous vous conseillons :
 
-- de leur présenter très clairement les risques qu’ils prennent en vous soutenant ;
+- de leur présenter très clairement les risques qu’ils prennent en vous soutenant ;
 - de n’accepter des fonds que de la part de personnes qui ont les reins solides et peuvent se permettre de perdre intégralement leur mise.
 
 ### Documents de référence

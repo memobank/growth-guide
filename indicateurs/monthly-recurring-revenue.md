@@ -8,7 +8,7 @@ parent: Indicateurs
 
 MRR est l’acronyme de _Monthly Recurring Revenue_, ou « revenu mensuel récurrent » en français. Si vous dirigez une entreprise SaaS, le MRR d’un mois donné correspond à la somme des revenus récurrents sur le mois en cours. Si vous dirigez une entreprise SaaS, ces revenus récurrents seront essentiellement les abonnements en ligne de vos clients. Selon ce que commercialise votre entreprise, il est possible que votre MRR inclut d’autres revenus récurrents, en plus des abonnements de vos clients.
 
-La formule générale du MRR est donc :
+La formule générale du MRR est donc :
 
 - MRR du mois M = Somme des revenus récurrents sur le mois M.
 
@@ -16,9 +16,9 @@ La formule générale du MRR est donc :
 
 Vous souhaitez calculer le MRR de votre entreprise sur le mois de février. Vous avez à l’heure actuelle 100 clients, qui ont payé leur abonnement le 5 février. 50 de vos clients sont abonnés à votre formule Simple à 50€ par mois, et 50 de vos clients sont abonnés à votre formule Premium à 100€ par mois.
 
-Votre MRR est donc :
+Votre MRR est donc :
 
-MRR = 50 _ 50 € + 50 _ 100 € = 7 500 €.
+MRR = 50 _ 50 € + 50 _ 100 € = 7 500 €.
 
 ## Choses à ignorer dans votre MRR
 
@@ -62,7 +62,7 @@ Suivre l’évolution de votre MRR de mois en mois ne suffit pas à refléter la
 
 D’autres indicateurs complètent donc le chiffre global du MRR, pour affiner l’analyse de votre activité :
 
-- le Nouveau MRR : le MRR généré par vos nouveaux clients ;
+- le Nouveau MRR : le MRR généré par vos nouveaux clients ;
 - l’*Expansion MRR* : le MRR généré par les revenus additionnels de vos clients existants ;
 - le _Contraction MRR _: la moins-value de revenu récurrent causée par le désengagement de vos clients ;
 - le _Churn MRR _: la moins-value de revenu récurrent causée par le départ de vos clients.
@@ -79,7 +79,7 @@ Nouveau MRR du mois M = Somme des revenus récurrents générés par de nouveau
 
 Dans notre exemple précédent, vous aviez sur le mois de février 100 clients : 50 clients avec un abonnement Simple à 50 €, et 50 clients avec un abonnement Premium à 100 €. Supposons que parmi ces 100 clients, 10 soient des nouveaux clients, qui n’étaient pas là au mois de janvier. Ces 10 nouveaux clients se répartissent ainsi : 5 nouveaux clients sur votre formule Simple, et 5 nouveaux clients sur votre formule Premium.
 
-Votre Nouveau MRR est donc : Nouveau MRR : 5 _ 50 € + 5 _ 100 € : 750 €.
+Votre Nouveau MRR est donc : Nouveau MRR : 5 _ 50 € + 5 _ 100 € : 750 €.
 
 #### Intérêt du nouveau MRR
 
@@ -93,10 +93,10 @@ Le Nouveau MRR vous permet aussi de mesurer la performance des équipes commerci
 
 « L’*Expansion MRR* » est un indicateur qui mesure, sur un mois donné, l’augmentation de revenu récurrent de la part de vos clients existants. L’_Expansion MRR_ ne prend donc pas en compte l’augmentation de revenu récurrent provenant de nouveaux clients qui ont souscrit à des abonnements à votre service.
 
-L’_Expansion MRR_ inclut l’ensemble des revenus récurrents additionnels générés par vos clients existants au cours d’un mois donné (revenus additionnels parfois exprimés sous les termes anglais _upsell_ et _cross-sell_) :
+L’_Expansion MRR_ inclut l’ensemble des revenus récurrents additionnels générés par vos clients existants au cours d’un mois donné (revenus additionnels parfois exprimés sous les termes anglais _upsell_ et _cross-sell_) :
 
-- revenus issus des passages de formules d’abonnement gratuites, ou de périodes d’essai gratuites, à des formules d’abonnement payantes ;
-- revenus issus des passages à des formules d’abonnement supérieures : par exemple d’une formule « Basique » à une formule « Premium » ;
+- revenus issus des passages de formules d’abonnement gratuites, ou de périodes d’essai gratuites, à des formules d’abonnement payantes ;
+- revenus issus des passages à des formules d’abonnement supérieures : par exemple d’une formule « Basique » à une formule « Premium » ;
 
 - souscription d’options payantes.
 
@@ -106,9 +106,9 @@ Reprenons notre exemple. Parmi vos 100 clients du mois de février, 50 clients o
 
 Au mois de mars, 5 de vos clients qui étaient en période d’essai, souscrivent à un abonnement Simple. Par ailleurs, 10 clients qui étaient abonnés à votre formule Simple décident de passer à un abonnement Premium.
 
-Votre Expansion MRR est donc :
+Votre Expansion MRR est donc :
 
-Expansion MRR = 5 _ 50 + 10 _ (100 - 50) = 1 000 €.
+Expansion MRR = 5 _ 50 + 10 _ (100 - 50) = 1 000 €.
 
 Ne prenez en compte dans votre Expansion MRR que les revenus _additionnels_. Si certains de vos clients sont passés d’un abonnement à 50 € à un abonnement à 100 €, ne comptez pas les 100 € dans votre Expansion MRR, mais le revenu additionnel de ce passage à plan supérieur, soit 100 - 50 = 50 €.
 
@@ -138,7 +138,7 @@ Sur le mois de mars, 10 de vos clients abonnés à votre formule Simple passent 
 
 Votre _Contraction MRR_ est donc :
 
-Contraction MRR = 10 _ (50 € - 0 €) + 15 _ (100 - 50) = 1 250 €.
+Contraction MRR = 10 _ (50 € - 0 €) + 15 _ (100 - 50) = 1 250 €.
 
 #### Intérêt du contraction MRR
 
@@ -166,17 +166,17 @@ Reprenons notre exemple précédent : vous avez 100 clients au mois de février
 
 Toutefois, votre perte de revenu sera très différentes en fonction du type de clients que vous avez perdus — alors que le _churn_ restera le même.
 
-Vous avez perdu 10 clients Simple et 0 client Premium :
+Vous avez perdu 10 clients Simple et 0 client Premium :
 
-Churn MRR = 10 _ 50 + 0 _ 100 = 500 €.
+Churn MRR = 10 _ 50 + 0 _ 100 = 500 €.
 
-Vous avez perdu 5 clients Simple et 5 clients Premium :
+Vous avez perdu 5 clients Simple et 5 clients Premium :
 
-Churn MRR : 5 _ 50 + 5 _ 100 = 750 €.
+Churn MRR : 5 _ 50 + 5 _ 100 = 750 €.
 
-Vous avez perdu 0 client Simple et 10 clients Premium :
+Vous avez perdu 0 client Simple et 10 clients Premium :
 
-Churn MRR = 0 _ 50 + 10 _ 100 = 1 000 €.
+Churn MRR = 0 _ 50 + 10 _ 100 = 1 000 €.
 
 ### Net New MRR (Nouveau MRR net)
 

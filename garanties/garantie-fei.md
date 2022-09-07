@@ -10,7 +10,7 @@ La garantie FEI est un type de garantie bancaire qui a la particularité d’êt
 
 ## Fonctionnement
 
-La garantie FEI couvre 70 % d’un crédit bancaire. Supposons que votre entreprise bénéficie d’un financement de 1,5 million d’euros, assorti d’une garantie FEI. Au bout de quelques mois, votre entreprise se retrouve malheureusement en défaut de paiement. Vous avez déjà remboursé 500 000 € à votre banque : il vous reste donc 1 000 000 € à rembourser — on dit que votre crédit a un « encours » de 1 000 000 €. Le FEI devra rembourser 70 % de l’encours du crédit à votre banque, soit 700 000 €. Les 30 % restants, soit 300 000 €, seront enregistrés comme une perte par la banque. Au lieu de subir une perte de 1 000 000 €, votre banque subira une perte de 300 000 €.
+La garantie FEI couvre 70 % d’un crédit bancaire. Supposons que votre entreprise bénéficie d’un financement de 1,5 million d’euros, assorti d’une garantie FEI. Au bout de quelques mois, votre entreprise se retrouve malheureusement en défaut de paiement. Vous avez déjà remboursé 500 000 € à votre banque : il vous reste donc 1 000 000 € à rembourser — on dit que votre crédit a un « encours » de 1 000 000 €. Le FEI devra rembourser 70 % de l’encours du crédit à votre banque, soit 700 000 €. Les 30 % restants, soit 300 000 €, seront enregistrés comme une perte par la banque. Au lieu de subir une perte de 1 000 000 €, votre banque subira une perte de 300 000 €.
 
 ### La garantie FEI diminue le coût de votre crédit
 
@@ -26,15 +26,15 @@ Seules les banques avec lesquelles le FEI a signé un partenariat peuvent accord
 
 Pour obtenir un crédit avec une garantie FEI, vous devez vous adresser directement à une banque partenaire du FEI. Ce n’est pas le FEI qui analyse les dossiers de financement des PME, et décide de leur accorder sa garantie. Le FEI a établi des critères d’éligibilité, et délègue l’attribution des garanties à ses partenaires bancaires, parmi lesquels Memo Bank, donc.
 
-Pour prétendre à la garantie FEI, votre entreprise doit :
+Pour prétendre à la garantie FEI, votre entreprise doit :
 
-- être à la fois établie et active dans un pays membre de l’Union européenne ;
+- être à la fois établie et active dans un pays membre de l’Union européenne ;
 
-- employer moins de 250 salariés ;
+- employer moins de 250 salariés ;
 
-- faire moins de 50 millions d’euros de chiffre d’affaires par an, ou avoir un bilan inférieur à 43 millions d’euros ;
+- faire moins de 50 millions d’euros de chiffre d’affaires par an, ou avoir un bilan inférieur à 43 millions d’euros ;
 
-- être en bonne santé financière (et le prouver avec de solides ratios) ;
+- être en bonne santé financière (et le prouver avec de solides ratios) ;
 - ne pas avoir bénéficié d’une garantie FEI par le passé.
 
 ## La garantie FEI chez Memo Bank

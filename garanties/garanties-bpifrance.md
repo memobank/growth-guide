@@ -8,13 +8,13 @@ parent: Garanties
 
 Les garanties bancaires proposées par Bpifrance sont en réalité des _contre-garanties_. On parle de contre-garantie lorsque la garantie n’est pas apportée par votre entreprise mais par une entité tierce. Cette entité s’engage, en cas de faillite de votre entreprise, à rembourser à la banque un pourcentage prédéfini de l'encours du crédit — du montant du crédit qu’il reste à rembourser.
 
-Les contre-garanties de Bpifrance (que nous abrégerons dans cet article en _garanties)_, participent à l’une des missions principales de Bpifrance : favoriser le financement des TPE-PME françaises. Lorsqu’une entreprise bénéficie d’une garantie de Bpifrance, la banque qui octroie un crédit à l’entreprise prend moins de risque que si l’entreprise ne bénéficiait pas de garantie — puisque si l’entreprise fait faillite, une partie de l’encours de crédit sera remboursé par Bpifrance. Comme Bpifrance partage le risque avec la banque, celle-ci peut prendre plus de risque, et octroyer des crédits à des entreprises à qui elle n’aurait normalement pas octroyé de crédit — parce que la banque estimait que le risque que l’entreprise fasse faillite et ne puisse pas la rembourser était trop important. _In fine_, grâce aux garanties de Bpifrance, les banques octroient donc des crédits à davantage d’entreprises — et peuvent s’engager sur des montants plus élevés.
+Les contre-garanties de Bpifrance (que nous abrégerons dans cet article en _garanties)_, participent à l’une des missions principales de Bpifrance : favoriser le financement des TPE-PME françaises. Lorsqu’une entreprise bénéficie d’une garantie de Bpifrance, la banque qui octroie un crédit à l’entreprise prend moins de risque que si l’entreprise ne bénéficiait pas de garantie — puisque si l’entreprise fait faillite, une partie de l’encours de crédit sera remboursé par Bpifrance. Comme Bpifrance partage le risque avec la banque, celle-ci peut prendre plus de risque, et octroyer des crédits à des entreprises à qui elle n’aurait normalement pas octroyé de crédit — parce que la banque estimait que le risque que l’entreprise fasse faillite et ne puisse pas la rembourser était trop important. _In fine_, grâce aux garanties de Bpifrance, les banques octroient donc des crédits à davantage d’entreprises — et peuvent s’engager sur des montants plus élevés.
 
 ## Critères d’éligibilité
 
 Bpifrance n’octroie des garanties que dans certaines conditions.
 
-Tout d’abord, l’entreprise bénéficiaire doit être une TPE-PME, selon les normes du [droit européen](https://ec.europa.eu/growth/smes/sme-definition_fr), c’est-à-dire une entreprise qui :
+Tout d’abord, l’entreprise bénéficiaire doit être une TPE-PME, selon les normes du [droit européen](https://ec.europa.eu/growth/smes/sme-definition_fr), c’est-à-dire une entreprise qui :
 
 - a moins de 250 salariés ;
 - réalise un chiffre d’affaires de moins de 50 millions d’euros, ou possède un bilan inférieur à 43 millions d’euros.
@@ -40,7 +40,7 @@ Plus votre entreprise est dans une mauvaise situation financière, plus l’opé
 
 Si vous souhaitez bénéficier d’une garantie Bpifrance pour faciliter votre projet de financement bancaire, deux solutions s’offrent à vous :
 
-1. En parler à votre banquier (la plupart des banques peuvent faire bénéficier à leurs clients de garanties de Bpifrance) ;
+1. En parler à votre banquier (la plupart des banques peuvent faire bénéficier à leurs clients de garanties de Bpifrance) ;
 
 2. Contacter le [bureau de Bpifrance de votre région](https://www.bpifrance.fr/contactez-nous).
 

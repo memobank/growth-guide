@@ -15,7 +15,7 @@ Pour compléter votre apport personnel, vous pouvez demander un prêt d’honneu
 
 Bien que les montants accordés dans le cadre de prêts d’honneur ou à taux zéro dépassent rarement 50 000 €, l’obtention de ce type de crédit peut faciliter l’obtention de crédits traditionnels par la suite, car ils sont considérés comme des fonds propres, ce qui donne du poids à votre dossier. Un prêt d’honneur de 50 000 € peut par exemple vous aider à décrocher un crédit bancaire de 200 000 €.
 
-Plus généralement, les aides publiques ont souvent l’avantage d’être « gratuites », dans le sens où elles ne vous contraignent pas à payer des intérêts ou des dividendes en retour. Vous n’avez pas non plus besoin de céder une part de votre capital pour en bénéficier.
+Plus généralement, les aides publiques ont souvent l’avantage d’être « gratuites », dans le sens où elles ne vous contraignent pas à payer des intérêts ou des dividendes en retour. Vous n’avez pas non plus besoin de céder une part de votre capital pour en bénéficier.
 
 ## Inconvénients
 
@@ -27,7 +27,7 @@ Les caractéristiques des aides publiques varient grandement d’une aide à une
 
 ### Montant du financement
 
-Les prêts d’honneur et prêts à taux zéro dépassent rarement les 50 000 €, mais vous pouvez les cumuler pour aller au-delà de ce montant. De leur côté, les dispositifs fiscaux incitatifs peuvent vous permettre de déduire jusqu’à 30 % de vos dépenses annuelles, pour ne payer des impôts que sur 70 % de vos dépenses — ce qui revient à vous accorder un financement sous la forme de fonds qui ne vous sont pas ponctionnés.
+Les prêts d’honneur et prêts à taux zéro dépassent rarement les 50 000 €, mais vous pouvez les cumuler pour aller au-delà de ce montant. De leur côté, les dispositifs fiscaux incitatifs peuvent vous permettre de déduire jusqu’à 30 % de vos dépenses annuelles, pour ne payer des impôts que sur 70 % de vos dépenses — ce qui revient à vous accorder un financement sous la forme de fonds qui ne vous sont pas ponctionnés.
 
 ### Contreparties
 
