@@ -18,16 +18,43 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+lang: fr
 title: Le guide Memo Bank des entreprises en croissance
-email: contact@memo.bank
+tagline: >- # the tagline is a short description
+  Un guide pratique destiné aux entreprises qui grandissent vite.
 description: >- # this means to ignore newlines until "baseurl:"
   Ce guide s’adresse aux entreprises qui souhaitent financer leur
   développement, garantir leurs crédits, et mesurer leurs progrès à l’aide
   d’indicateurs financiers.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://guide.memo.bank" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: memobank
 github_username: memobank
+email: contact@memo.bank
+
+# SEO
+## Twitter metadata
+twitter:
+  username: memobank
+  card: summary_large_image
+## Facebook metadata
+facebook:
+  publisher: "https://www.facebook.com/getmemobank/"
+## Social metadata
+social:
+name: Memo Bank
+links:
+  - "https://twitter.com/memobank"
+  - "https://www.facebook.com/getmemobank"
+  - "https://www.linkedin.com/company/11089856/"
+  - "https://github.com/memobank"
+## Locale
+locale: fr_FR
+## Default card image
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /assets/images/cards/card-default.png
 
 # Conversion
 markdown: kramdown
@@ -39,15 +66,24 @@ kramdown:
   auto_ids: true
   syntax_highlighter: rouge
 
+# Permalin
 permalink: /:path
 
-# Locales
+# Snippets
+# Snippets avoid repetitions by storing messages in variables that can be used
+# as shortcuts in Markdown file. Just add the name of the variable to your
+# Markdown file and Jekyll will replace it with the content of the variable.
 read_more: Lire notre article
 
 # Build settings
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc1
 plugins:
   - jekyll-feed
+  - jekyll-github-metadata
+  - jekyll-seo-tag
+  - rouge
+  - kramdown
+  - jekyll-sitemap
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
