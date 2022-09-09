@@ -1,2 +1,8 @@
 // Add Inter typeface using Inter's CDN
 @import url("https://rsms.me/inter/inter.css");
+
+// Increase the size of external navigation link and search input
+.aux-nav-list-item,
+.search-input {
+  font-size: $font-size-4;
+}
