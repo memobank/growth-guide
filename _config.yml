@@ -80,7 +80,6 @@ read_more: Lire notre article
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc2
 # The list of Jekyll plugins we rely on.
 plugins:
-  - jekyll-feed
   - jekyll-github-metadata
   - jekyll-seo-tag
   - rouge
