@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Famille et amis
+image: /assets/images/cards/card-financements-famille-amis.png
 parent: Financements
 ---
 

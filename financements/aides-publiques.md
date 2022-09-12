@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Aides publiques
+image: /assets/images/cards/card-financements-aides-publiques.png
 parent: Financements
 ---
 

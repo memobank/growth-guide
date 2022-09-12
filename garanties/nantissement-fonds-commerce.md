@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Nantissement
+image: /assets/images/cards/card-garanties-nantissement-fonds-commerce.png
 parent: Garanties
 ---
 

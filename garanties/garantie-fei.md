@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Garantie FEI
+image: /assets/images/cards/card-garanties-garantie-fei.png
 parent: Garanties
 ---
 

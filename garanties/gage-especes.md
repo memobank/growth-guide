@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Gage-espèces
+image: /assets/images/cards/card-garanties-gage-especes.png
 parent: Garanties
 ---
 

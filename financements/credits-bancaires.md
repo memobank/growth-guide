@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Crédits bancaires
+image: /assets/images/cards/card-financements-credits-bancaires.png
 parent: Financements
 ---
 

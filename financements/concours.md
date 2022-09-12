@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Concours
+image: /assets/images/cards/card-financements-concours.png
 parent: Financements
 ---
 

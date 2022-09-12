@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Caution personnelle
+image: /assets/images/cards/card-garanties-caution-personnelle.png
 parent: Garanties
 ---
 

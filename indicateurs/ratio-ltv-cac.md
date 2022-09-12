@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Ratio LTV/CAC
+image: /assets/images/cards/card-indicateurs-ratio-ltv-cac.png
 parent: Indicateurs
 ---
 

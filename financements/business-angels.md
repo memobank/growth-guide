@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Business Angels
+image: /assets/images/cards/card-financements-business-angels.png
 parent: Financements
 ---
 
@@ -33,7 +34,7 @@ En fonction de la maturité de votre projet, deux cas de figure sont possibles 
 Obtenir un financement de la part de _business angels_ présente plusieurs avantages :
 
 - vous n’avez rien à rembourser en fin de mois, contrairement à un crédit bancaire ;
-- vous bénéficiez de l’expérience, des conseils, et des contacts de vos _business angels_ ;
+- vous bénéficiez de l’expérience, des conseils, et des contacts de vos *business angels* ;
 - vous cédez assez peu de contrôle, car les _business angels_ s’en tiennent à une participation minoritaire ;
 - vous donnez du poids et de la crédibilité à votre projet, ce qui peut vous permettre d’aller chercher d’autres financements.
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: MRR
+image: /assets/images/cards/card-indicateurs-monthly-recurring-revenue.png
 parent: Indicateurs
 ---
 

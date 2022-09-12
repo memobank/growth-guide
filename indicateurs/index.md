@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Indicateurs
+image: /assets/images/cards/card-indicateurs-index.png
 nav_order: 4
 has_children: true
 has_toc: false
