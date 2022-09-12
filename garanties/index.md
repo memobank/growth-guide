@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Garanties
+image: /assets/images/cards/card-garanties-index.png
 nav_order: 3
 has_children: true
 has_toc: false

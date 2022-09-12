@@ -1,6 +1,7 @@
 ---
 layout: default
 title: LTV
+image: /assets/images/cards/card-indicateurs-customer-lifetime-value.png
 parent: Indicateurs
 ---
 

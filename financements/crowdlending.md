@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Crowdlending
+image: /assets/images/cards/card-financements-crowdlending.png
 parent: Financements
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Churn
+image: /assets/images/cards/card-indicateurs-churn.png
 parent: Indicateurs
 ---
 

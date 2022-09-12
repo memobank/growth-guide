@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Garanties Bpifrance
+image: /assets/images/cards/card-garanties-garanties-bpifrance.png
 parent: Garanties
 ---
 

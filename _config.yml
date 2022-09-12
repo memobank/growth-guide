@@ -76,9 +76,10 @@ permalink: /:path
 read_more: Lire notre article
 
 # Build settings
-remote_theme: just-the-docs/just-the-docs@v0.4.0.rc1
+# Jekyll feature allowing to build sites with GitHub-hosted themes.
+remote_theme: just-the-docs/just-the-docs@v0.4.0.rc2
+# The list of Jekyll plugins we rely on.
 plugins:
-  - jekyll-feed
   - jekyll-github-metadata
   - jekyll-seo-tag
   - rouge

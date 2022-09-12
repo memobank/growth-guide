@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Fonds de capital-risque
+image: /assets/images/cards/card-financements-fonds-capital-risque.png
 parent: Financements
 ---
 
@@ -78,7 +79,7 @@ Le montant qu’un fonds de capital-risque peut injecter dans votre entreprise d
 
 En France, vous pouvez tabler sur les ordres de grandeur suivants lors des différents tours de financement possibles :
 
-- _Seed round_ : entre 300 000 € et 1 million d’euros ;
+- *Seed round* : entre 300 000 € et 1 million d’euros ;
 - Série A : entre 1 et 5 millions d’euros ;
 - Série B : entre 5 et 50 millions d’euros ;
 - Série C : entre 5 millions et plus l’infini (environ).

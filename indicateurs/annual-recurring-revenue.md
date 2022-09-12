@@ -1,6 +1,7 @@
 ---
 layout: default
 title: ARR
+image: /assets/images/cards/card-indicateurs-annual-recurring-revenue.png
 parent: Indicateurs
 ---
 

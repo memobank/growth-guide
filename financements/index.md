@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Financements
+image: /assets/images/cards/card-financements-index.png
 nav_order: 2
 has_children: true
 has_toc: false
