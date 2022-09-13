@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Crowdlending
+description: Le crowdlending est un type de financement participatif.
 image: /assets/images/cards/card-financements-crowdlending.png
 parent: Financements
 ---

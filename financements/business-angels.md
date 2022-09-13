@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Business Angels
+decription: Les business angels proposent des financements dilutifs.
 image: /assets/images/cards/card-financements-business-angels.png
 parent: Financements
 ---

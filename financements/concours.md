@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Concours
+decription: Les concours d’entrepreneuriat peuvent vous aider à vous financer.
 image: /assets/images/cards/card-financements-concours.png
 parent: Financements
 ---

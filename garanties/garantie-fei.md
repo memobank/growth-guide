@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Garantie FEI
+description: Définition de la garantie FEI, une garantie bancaire euroépenne.
 image: /assets/images/cards/card-garanties-garantie-fei.png
 parent: Garanties
 ---

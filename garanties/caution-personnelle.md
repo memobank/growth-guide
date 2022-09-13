@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Caution personnelle
+description: Définition de la caution personnelle simple ou solidaire.
 image: /assets/images/cards/card-garanties-caution-personnelle.png
 parent: Garanties
 ---

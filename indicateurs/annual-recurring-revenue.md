@@ -1,6 +1,7 @@
 ---
 layout: default
 title: ARR
+description: Découvrez comment calculer votre revenu annuel récurrent.
 image: /assets/images/cards/card-indicateurs-annual-recurring-revenue.png
 parent: Indicateurs
 ---

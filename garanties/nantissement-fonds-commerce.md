@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Nantissement
+description: Définition du nantissement de fonds de commerce.
 image: /assets/images/cards/card-garanties-nantissement-fonds-commerce.png
 parent: Garanties
 ---

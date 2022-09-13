@@ -1,6 +1,7 @@
 ---
 layout: default
 title: CAC
+description: Découvrez comment calculer votre coût d’acquisition client (CAC).
 image: /assets/images/cards/card-indicateurs-cout-acquisition-client.png
 parent: Indicateurs
 ---

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Indicateurs
+description: Découvrez comment calculter votre ARR, MRR, CAC, churn et LTV…
 image: /assets/images/cards/card-indicateurs-index.png
 nav_order: 4
 has_children: true
