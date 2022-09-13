@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 lang: fr
-title: Le guide Memo Bank des entreprises en croissance
+title: Guide Memo Bank
 tagline: >- # the tagline is a short description
-  Un guide pratique destiné aux entreprises qui grandissent vite.
+  Le guide Memo Bank des entreprises en croissance
 description: >- # this means to ignore newlines until "baseurl:"
   Ce guide s’adresse aux entreprises qui souhaitent financer leur
   développement, garantir leurs crédits, et mesurer leurs progrès à l’aide
