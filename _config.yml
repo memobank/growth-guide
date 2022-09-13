@@ -56,16 +56,6 @@ defaults:
     values:
       image: /assets/images/cards/card-default.png
 
-# Conversion
-markdown: kramdown
-highlighter: rouge
-
-# Markdown Processors
-kramdown:
-  input: GFM
-  auto_ids: true
-  syntax_highlighter: rouge
-
 # Permalink
 permalink: /:path
 
@@ -82,9 +72,8 @@ remote_theme: just-the-docs/just-the-docs@v0.4.0.rc2
 plugins:
   - jekyll-github-metadata
   - jekyll-seo-tag
-  - rouge
-  - kramdown
   - jekyll-sitemap
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
