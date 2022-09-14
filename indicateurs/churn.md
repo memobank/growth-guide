@@ -40,7 +40,7 @@ Vous souhaitez calculer votre _churn_ client du mois d’avril. Le 31 mars, vous
 Votre _churn_ mensuel est donc :
 
 ```
-Churn client (avril) = 4 / 120 \* 100 = 3 %
+Churn client (avril) = 4 / 120 * 100 = 3 %
 ```
 
 ### Période de calcul idéale
@@ -69,7 +69,7 @@ Vous souhaitez calculer votre _churn_ mensuel au mois d’avril. Vous avez au 31
 Votre _churn_ mensuel est donc :
 
 ```
-Churn (avril) = 9 / 120 \* 100 = 7,5 %
+Churn (avril) = 9 / 120 * 100 = 7,5 %
 ```
 
 Lorsque vos clients vous rejoignent, ils s’engagent à payer leurs abonnements pour trois mois minimum. Sur votre base de clients, un certain nombre de clients ne pouvaient donc pas résilier leurs abonnements en avril : les clients qui vous ont rejoint en février et en mars sont au nombre de 15.
@@ -77,7 +77,7 @@ Lorsque vos clients vous rejoignent, ils s’engagent à payer leurs abonnements
 Votre _churn_ mensuel ajusté devient donc :
 
 ```
-Churn (avril) = 9 / (120 - 15) \* 100 = 8,6 %
+Churn (avril) = 9 / (120 - 15) * 100 = 8,6 %
 ```
 
 ### Limites du churn mensuel
@@ -91,7 +91,7 @@ Reprenons notre exemple précédent. Vous avez donc perdu 9 clients au mois d’
 Ce _churn_ semble tout à fait acceptable. Pourtant, il devient beaucoup plus inquiétant lorsqu’il est rapporté à l’année. Imaginons que vous continuiez à perdre 9 clients tous les mois, pendant les douze prochains mois. Votre _churn_ annuel sera donc :
 
 ```
-Churn annuel = (9 \* 12) / 120 \* 100 = 90 %.
+Churn annuel = (9 * 12) / 120 * 100 = 90 %.
 ```
 
 Cela signifie que vous avez perdu 90 % de vos clients en un an. Pour garder le même niveau de revenu, vous devriez donc attirer presque autant de nouveaux clients que ce que vous en avez aujourd’hui.
@@ -126,8 +126,8 @@ Le _churn_ de revenu mesure le montant de revenu récurrent que vous perdez sur 
 Le _churn_ du revenu d’une période donnée est le rapport entre le _churn_ MRR/ARR de cette période, et le MRR/ARR de votre entreprise au début de cette période.
 
 ```
-Churn de revenu (mois) = Churn MRR / MRR \* 100
-Churn de revenu (année) = Churn ARR / ARR \* 100
+Churn de revenu (mois) = Churn MRR / MRR * 100
+Churn de revenu (année) = Churn ARR / ARR * 100
 ```
 
 #### Exemple de calcul
@@ -139,15 +139,15 @@ Durant le mois d’avril, vous perdez 9 clients : 6 clients sur votre formule S
 Votre Churn MRR en avril et votre MRR en mars sont :
 
 ```
-Churn MRR (avril) = 6 \* 50 € + 3 \* 100 € = 600 €
-MRR (mars) = 60 \* 50 € + 60 \* 100 € = 9 000 €
+Churn MRR (avril) = 6 * 50 € + 3 * 100 € = 600 €
+MRR (mars) = 60 * 50 € + 60 * 100 € = 9 000 €
 ```
 
 Votre _churn_ de revenu sur le mois d’avril est donc :
 
 ```
-Churn de revenu (avril) = Churn MRR (avril) / MRR (mars) \* 100
-			= 600 / 9 000 \* 100
+Churn de revenu (avril) = Churn MRR (avril) / MRR (mars) * 100
+			= 600 / 9 000 * 100
 			= 6,7 %
 ```
 
@@ -156,13 +156,13 @@ Nous n’incluons dans le _churn_ du revenu, que les pertes de revenu récurrent
 Vous pouvez utiliser le Contraction MRR pour calculer le pourcentage de revenu récurrent qui diminue en raison du passage de vos clients à des formules d’abonnement inférieures, ou de la résiliation d’options payantes :
 
 ```
-Contraction du revenu (mois) = Contraction MRR / MRR \* 100
+Contraction du revenu (mois) = Contraction MRR / MRR * 100
 ```
 
 Vous pouvez utiliser le Churn MRR et le Contraction MRR pour évaluer un _churn_ « global », qui inclut à la fois la perte de revenus issue de la résiliation de vos clients, et la perte de revenus issue des _downgrades_ de vos clients existants — qui restent vos clients.
 
 ```
-Churn de revenu global (mois) = (Churn MRR + Contraction MRR) / MRR \* 100
+Churn de revenu global (mois) = (Churn MRR + Contraction MRR) / MRR * 100
 ```
 
 ### Le churn du revenu net
@@ -194,10 +194,10 @@ Au mois d’avril :
 Nous avons donc :
 
 ```
-MRR (mars) = (60 \* 50 € + 60 \* 100 €) \* 100 = 9 000 €
-Churn MRR (avril) = 6 \* 50 € + 3 \* 100 € = 600 €
-Contraction MRR (avril) = 5 \* (100 € - 50 €) = 250 €
-Expansion MRR (avril) = 20 \* (100 € - 50 €) = 1 000 €
+MRR (mars) = (60 * 50 € + 60 * 100 €) * 100 = 9 000 €
+Churn MRR (avril) = 6 * 50 € + 3 * 100 € = 600 €
+Contraction MRR (avril) = 5 * (100 € - 50 €) = 250 €
+Expansion MRR (avril) = 20 * (100 € - 50 €) = 1 000 €
 ```
 
 Votre churn de revenu net est donc :
