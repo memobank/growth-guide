@@ -27,10 +27,10 @@ Le calcul du _churn_ de revenu est particulièrement important lorsque vous comm
 
 Le _churn_ client mesure la perte de vos clients sur une période donnée. Ce _churn_ est un pourcentage, résultat du rapport entre le nombre de clients que vous perdez sur la période choisie (un mois, un trimestre, une année), et le nombre de clients que vous aviez au début de cette période.
 
-La formule du _churn_ client est :
+La formule du _churn_ client sur une période donnée est :
 
 ```
-Churn client = Nombre de clients perdus au cours de la période T / Nombre total de clients existants au début de la période T
+Churn client = Nombre de clients perdus sur la période / Nombre de clients au début de la période
 ```
 
 #### Exemple de calcul
@@ -146,7 +146,9 @@ MRR (mars) = 60 \* 50 € + 60 \* 100 € = 9 000 €
 Votre _churn_ de revenu sur le mois d’avril est donc :
 
 ```
-Churn de revenu (avril) = Churn MRR (avril) / MRR (mars) \* 100 = 600 / 9 000 \* 100 = 6,7 %
+Churn de revenu (avril) = Churn MRR (avril) / MRR (mars) \* 100
+			= 600 / 9 000 \* 100
+			= 6,7 %
 ```
 
 Nous n’incluons dans le _churn_ du revenu, que les pertes de revenu récurrent causées par le _départ_ de vos clients — le rapport entre le Churn MRR et le [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}). Certaines entreprises incluent également dans le _churn_ du revenu les pertes de revenu récurrent qui sont la conséquence du _downgrade_ de vos client, c’est-à-dire de leur passage à de formules d’abonnement inférieures, ou sans option payante — le rapport entre le Contraction MRR (cf. l’article sur le [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }})) et le MRR.
@@ -172,7 +174,7 @@ Le _Net revenue churn_, ou _churn_ du revenu net, s’intéresse donc au revenu 
 Il se calcule ainsi (sur une période mensuelle) :
 
 ```
-Churn du revenu net = (Churn MRR + Contraction MRR + Expansion MRR) / MRR du mois précédent.
+Churn du revenu net = (Churn MRR + Contraction MRR + Expansion MRR) / MRR du mois précédent
 ```
 
 « L’Expansion MRR » est un indicateur qui mesure, sur un mois donné, l’augmentation de revenu récurrent de la part de vos clients existants : passage à des formules d’abonnement supérieures, souscriptions d’option payantes, etc.
@@ -192,10 +194,10 @@ Au mois d’avril :
 Nous avons donc :
 
 ```
-MRR (mars) = (60 \* 50 € + 60 \* 100 €) \* 100 = 9 000 € ;
-Churn MRR (avril) = 6 \* 50 € + 3 \* 100 € = 600 € ;
-Contraction MRR (avril) = 5 \* (100 € - 50 €) = 250 € ;
-Expansion MRR (avril) = 20 \* (100 € - 50 €) = 1 000 € ;
+MRR (mars) = (60 \* 50 € + 60 \* 100 €) \* 100 = 9 000 €
+Churn MRR (avril) = 6 \* 50 € + 3 \* 100 € = 600 €
+Contraction MRR (avril) = 5 \* (100 € - 50 €) = 250 €
+Expansion MRR (avril) = 20 \* (100 € - 50 €) = 1 000 €
 ```
 
 Votre churn de revenu net est donc :

@@ -78,7 +78,7 @@ Ces termes sont pour la plupart employés exclusivement en anglais, nous les avo
 Le « Nouveau MRR », que vous retrouverez sous son appellation anglaise _New MRR_, correspond au MRR généré par vos nouveaux clients sur un mois donné.
 
 ```
-Nouveau MRR du mois M = Somme des revenus récurrents générés par de nouveaux clients sur le mois M.
+Nouveau MRR (mois M) = Total des revenus récurrents générés par de nouveaux clients sur le mois M
 ```
 
 #### Exemple de calcul
@@ -184,19 +184,19 @@ Toutefois, votre perte de revenu sera très différentes en fonction du type de 
 Vous avez perdu 10 clients Simple et 0 client Premium :
 
 ```
-Churn MRR = 10 \* 50 + 0 \* 100 = 500 €.
+Churn MRR = 10 \* 50 + 0 \* 100 = 500 €
 ```
 
 Vous avez perdu 5 clients Simple et 5 clients Premium :
 
 ```
-Churn MRR : 5 \* 50 + 5 \* 100 = 750 €.
+Churn MRR : 5 \* 50 + 5 \* 100 = 750 €
 ```
 
 Vous avez perdu 0 client Simple et 10 clients Premium :
 
 ```
-Churn MRR = 0 \* 50 + 10 \* 100 = 1 000 €.
+Churn MRR = 0 \* 50 + 10 \* 100 = 1 000 €
 ```
 
 ### Net New MRR (Nouveau MRR net)

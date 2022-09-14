@@ -21,10 +21,10 @@ Vous devez inclure dans le calcul de votre CAC l’ensemble des éléments de vo
 
 Afin que votre CAC soit fidèle à la réalité, n’oubliez pas d’inclure dans le calcul de votre CAC les coûts du personnel : le coût total de vos équipes marketing et le coût total de vos équipes commerciales consacrées à l’acquisition. Si certains membres de vos équipes commerciales, comme des _Account Managers_, s’occupent de la gestion et du développement de votre portefeuille de clients existants, n’incluez pas leurs salaires dans le calcul de votre CAC.
 
-La formule du CAC est :
+La formule du CAC sur une période donnée est :
 
 ```
-CAC (période donnée) = (Dépenses marketing + Dépenses commerciales sur la période) / (Nombre de nouveaux clients acquis sur la période)
+CAC = (Dépenses marketing + dépenses commerciales) / (Nouveaux clients sur la période)
 ```
 
 ### Périodicité du CAC
@@ -76,7 +76,9 @@ Vous souhaitez calculer votre CAC sur le mois de mars. Commencez par faire la li
 Sur le mois de mars, vous avez conquis 12 nouveaux clients. Votre CAC est donc égal à :
 
 ```
-CAC (mars) = (5 000 € + 15 000 € + 20 000 € + 2 000 €) / 12 = 42 000 € / 12 = 3 500 €
+CAC (mars) = (5 000 € + 15 000 € + 20 000 € + 2 000 €) / 12
+	   = 42 000 € / 12
+	   = 3 500 €
 ```
 
 ## Utilisation du CAC
@@ -160,10 +162,13 @@ Au bout de 14,3 mois, en théorie, le revenu moyen généré par l’un de vos c
 Supposons maintenant que votre [churn]({{ 'indicateurs/churn' | relative_url }}) mensuel soit égal à 5 %. Sur la cohorte de 10 clients que vous avez acquis lors du mois de mars, combien vous en reste-t-il au bout de 15 mois ?
 
 ```
-Nombre de clients au bout de 15 mois = (Nombre de clients au 31 mars) \* (1 - Churn)^15 = 10 \* (1 - 5 %)^15 = 10 \* 0,49 = 4 clients
+Nombre de clients au bout de 15 mois = (Nombre de clients au 31 mars) \* (1 - Churn)^15
+				     = 10 \* (1 - 5 %)^15
+				     = 10 \* 0,49
+				     = 4 clients
 ```
 
-Vous avez donc dépensé 100 000 € au mois de mars pour acquérir 10 clients. Au bout de 15 mois, ces 10 clients auraient pu vous générer 15 \* 700 \* 10 = 105 000 €, soit davantage que le coût que vous avez payé pour acquérir ces 10 clients. Sauf qu’en raison de votre [churn]({{ 'indicateurs/churn' | relative_url }}) de 5 %, vous n’avez plus au bout de 15 mois que 4 clients, qui vous rapportent 15 x 700 x 4 = 42 000 €.
+Vous avez donc dépensé 100 000 € au mois de mars pour acquérir 10 clients. Au bout de 15 mois, ces 10 clients auraient pu vous générer 15 x 700 x 10 = 105 000 €, soit davantage que le coût que vous avez payé pour acquérir ces 10 clients. Sauf qu’en raison de votre [churn]({{ 'indicateurs/churn' | relative_url }}) de 5 %, vous n’avez plus au bout de 15 mois que 4 clients, qui vous rapportent 15 x 700 x 4 = 42 000 €.
 
 Plutôt qu’un indicateur du retour sur investissement que vous pouvez espérer de la part de vos clients acquis (ROI qui dépend fortement de votre [churn]({{ 'indicateurs/churn' | relative_url }})), le CAC Payback Period est une mesure de risque. Il vous montre le niveau de risque que vous prenez en engageant un montant donné de coût d’acquisition. Plus votre CPP s’allonge, plus votre risque financier augmente, parce que vous devez « tenir » plus longtemps sans retour sur investissement — et parce que vos clients pourraient vous quitter.
 

@@ -267,6 +267,7 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   just-the-docs (= 0.4.0.rc2)
+  kramdown
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
