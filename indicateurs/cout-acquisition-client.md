@@ -85,15 +85,15 @@ CAC (mars) = (5 000 € + 15 000 € + 20 000 € + 2 000 €) / 12
 
 Il n’y a pas de « bonne » valeur de CAC : tout dépend de ce que vous rapportent vos clients — et du temps que vos clients mettent à générer ce revenu. C’est en comparant votre CAC à d’autres indicateurs que vous pouvez juger si vos dépenses marketing et commerciales sont correctement calibrées.
 
-### Ratio LTV / CAC
+### Ratio LTV/CAC
 
-Le [ratio LTV / CAC]({{ 'indicateurs/ratio-ltv-cac' | relative_url }}) compare les dépenses marketing et commerciales que vous engagez pour conquérir un client, à ce que ce client vous rapportera tout au long de sa vie.
+Le [ratio LTV/CAC]({{ 'indicateurs/ratio-ltv-cac' | relative_url }}) compare les dépenses marketing et commerciales que vous engagez pour conquérir un client, à ce que ce client vous rapportera tout au long de sa vie.
 
 Si votre [CAC]({{ 'indicateurs/cout-acquisition-client' | relative_url }}) est supérieur à votre [LTV]({{ 'indicateurs/customer-lifetime-value' | relative_url }}), vous avez un gros problème : chaque fois que vous dépensez de l’argent pour acquérir un client, le revenu que ce client générera ne compensera jamais votre investissement initial. Chaque nouveau client vous fait perdre de l’argent.
 
-Mais vous n’avez pas un problème que dans le cas où votre CAC est supérieur à votre LTV. Vous avez également un problème si votre CAC n’est pas _assez_ inférieur à votre LTV. En effet, pour que votre entreprise soit rentable, les revenus de vos clients ne doivent pas seulement compenser votre CAC, ils doivent aussi compenser les autres coûts d’exploitation de votre entreprise : salaires des autres équipes, coûts liés au _cloud_, loyer… Dans l’industrie du SaaS, la règle générale est que le [ratio LTV / CAC]({{ 'indicateurs/ratio-ltv-cac' | relative_url }}) doit être supérieur à 3.
+Mais vous n’avez pas un problème que dans le cas où votre CAC est supérieur à votre LTV. Vous avez également un problème si votre CAC n’est pas _assez_ inférieur à votre LTV. En effet, pour que votre entreprise soit rentable, les revenus de vos clients ne doivent pas seulement compenser votre CAC, ils doivent aussi compenser les autres coûts d’exploitation de votre entreprise : salaires des autres équipes, coûts liés au _cloud_, loyer… Dans l’industrie du SaaS, la règle générale est que le [ratio LTV/CAC]({{ 'indicateurs/ratio-ltv-cac' | relative_url }}) doit être supérieur à 3.
 
-Ce ratio est donc un très bon indicateur de la profitabilité de votre entreprise, et de la pertinence de votre stratégie d’acquisition — il est d’ailleurs l’un des principaux indicateurs regardés par les investisseurs dans les entreprises innovantes. Vous devriez calculer régulièrement le [ratio LTV / CAC]({{ 'indicateurs/ratio-ltv-cac' | relative_url }}), au moins chaque mois ou chaque trimestre, et chercher à optimiser votre stratégie d’acquisition, vos revenus, votre [churn]({{ 'indicateurs/churn' | relative_url }}), afin de maintenir ce ratio le plus haut possible.
+Ce ratio est donc un très bon indicateur de la profitabilité de votre entreprise, et de la pertinence de votre stratégie d’acquisition — il est d’ailleurs l’un des principaux indicateurs regardés par les investisseurs dans les entreprises innovantes. Vous devriez calculer régulièrement le [ratio LTV/CAC]({{ 'indicateurs/ratio-ltv-cac' | relative_url }}), au moins chaque mois ou chaque trimestre, et chercher à optimiser votre stratégie d’acquisition, vos revenus, votre [churn]({{ 'indicateurs/churn' | relative_url }}), afin de maintenir ce ratio le plus haut possible.
 
 ### Le CAC Payback Period
 

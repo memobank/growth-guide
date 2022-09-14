@@ -56,6 +56,6 @@ Le MRR est l’équivalent mensuel de l’ARR.
 
 ## Ratio LTV/CAC
 
-La _Customer Lifetime Value_ (LTV) et le coût d’acquisition client (CAC) sont deux des principaux indicateurs calculés par les entreprises innovantes. Leur intérêt réside en grande partie dans leur combinaison, qui crée un troisième indicateur à part entière, le ratio LTV / CAC. Ce ratio LTV / CAC compare les dépenses marketing et commerciales que vous engagez pour conquérir un client, à ce que ce client vous rapportera tout au long de sa vie.
+La _Customer Lifetime Value_ (LTV) et le coût d’acquisition client (CAC) sont deux des principaux indicateurs calculés par les entreprises innovantes. Leur intérêt réside en grande partie dans leur combinaison, qui crée un troisième indicateur à part entière, le ratio LTV/CAC. Ce ratio LTV/CAC compare les dépenses marketing et commerciales que vous engagez pour conquérir un client, à ce que ce client vous rapportera tout au long de sa vie.
 
 [{{ site.read_more }}]({{ 'indicateurs/ratio-ltv-cac' | relative_url }})

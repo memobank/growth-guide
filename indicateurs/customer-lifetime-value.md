@@ -94,7 +94,7 @@ Reprenons notre exemple précédent : vous avez subi au mois de mars un [churn]
 
 ### Comparer LTV et coût d’acquisition client (CAC)
 
-L’intérêt de la LTV réside principalement dans sa comparaison avec votre [coût d’acquisition client]({{ 'indicateurs/cout-acquisition-client' | relative_url }}), ou « CAC ». Votre CAC mesure l’ensemble des dépenses que vous engagez pour attirer un client. Si votre CAC moyen est supérieur à votre LTV moyenne, cela signifie que vous dépensez plus d’argent pour conquérir un nouveau client, que ce nouveau client ne générera de revenu. Vous avez donc un gros problème : chaque nouveau client vous fait en réalité perdre de l’argent. Vous pouvez comparer la LTV à votre CAC en utilisant le [ratio LTV / CAC]({{ 'indicateurs/ratio-ltv-cac' | relative_url }}).
+L’intérêt de la LTV réside principalement dans sa comparaison avec votre [coût d’acquisition client]({{ 'indicateurs/cout-acquisition-client' | relative_url }}), ou « CAC ». Votre CAC mesure l’ensemble des dépenses que vous engagez pour attirer un client. Si votre CAC moyen est supérieur à votre LTV moyenne, cela signifie que vous dépensez plus d’argent pour conquérir un nouveau client, que ce nouveau client ne générera de revenu. Vous avez donc un gros problème : chaque nouveau client vous fait en réalité perdre de l’argent. Vous pouvez comparer la LTV à votre CAC en utilisant le [ratio LTV/CAC]({{ 'indicateurs/ratio-ltv-cac' | relative_url }}).
 
 ### Identifier vos clients les plus importants
 
