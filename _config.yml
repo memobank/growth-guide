@@ -18,6 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
+# Jekyll configuration
 lang: fr
 title: Guide Memo Bank
 tagline: >- # the tagline is a short description
@@ -30,6 +31,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://guide.memo.bank" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: memobank
 email: contact@memo.bank
+markdown: GFM
+highlighter: rouge
 
 # SEO
 ## Twitter metadata
