@@ -20,13 +20,13 @@ Selon votre besoin et la durée sur laquelle vous souhaitez étaler vos rembours
 
 Les crédits ont l’avantage de ne pas affecter la structure de votre capital. Votre endettement augmente certes sous l’effet du prêt, mais c’est tout. Votre participation n’est pas diluée, votre gouvernance n’est pas modifiée, et votre conseil d’administration ne change pas. En dehors du paiement de vos mensualités de remboursement, et de l’éventuelle ouverture d’un compte courant dans la banque qui vous finance, vous ne devez rien au banquier qui vous octroie un prêt.
 
-Autre avantage : la rapidité d’octroi du financement. Si votre banque fait bien son travail, et si votre dossier est complet, votre crédit peut vous être octroyé moins de deux semaines après votre demande de financement. Certains établissements bancaires prennent certes un peu plus leur temps, mais dans le cas général, aucun fonds de capital-risque ne peut rivaliser avec les délais d’octroi des banques.
+Autre avantage : la rapidité d’octroi du financement. Si votre banque fait bien son travail, et si votre dossier est complet, votre crédit peut vous être octroyé moins de deux semaines après votre demande de financement. Certains établissements bancaires prennent certes un peu plus leur temps, mais dans le cas général, aucun [fonds de capital-risque]({{ 'financements/fonds-capital-risque' | relative_url }}) ne peut rivaliser avec les délais d’octroi des banques.
 
 ## Inconvénients
 
-Revers de la médaille, les montants auxquels vous pouvez prétendre dans le cadre d’un prêt sont souvent inférieurs à ceux auxquels une levée de fonds vous donnerait accès. Même à montants équivalents, une banque sera toujours moins aventureuse qu’un fonds de capital-risque. Cela dit, comme ces deux sources de financement peuvent être complémentaires, certaines entreprises profitent de leur levée de fonds pour demander (et obtenir) un crédit bancaire.
+Revers de la médaille, les montants auxquels vous pouvez prétendre dans le cadre d’un prêt sont souvent inférieurs à ceux auxquels une levée de fonds vous donnerait accès. Même à montants équivalents, une banque sera toujours moins aventureuse qu’un [fonds de capital-risque]({{ 'financements/fonds-capital-risque' | relative_url }}). Cela dit, comme ces deux sources de financement peuvent être complémentaires, certaines entreprises profitent de leur levée de fonds pour demander (et obtenir) un crédit bancaire.
 
-Autre inconvénient : la prise de garanties par la banque peut mettre en péril d’autres parties de votre affaire. Si vous avez recours au nantissement de votre fonds de commerce, par exemple, et si vous avez des problèmes pour rembourser votre prêt, vous pouvez perdre votre fonds de commerce dans l’histoire.
+Autre inconvénient : la prise de [garanties]({{ 'garanties/index' | relative_url }}) par la banque peut mettre en péril d’autres parties de votre affaire. Si vous avez recours au nantissement de votre fonds de commerce, par exemple, et si vous avez des problèmes pour rembourser votre prêt, vous pouvez perdre votre fonds de commerce dans l’histoire.
 
 ## Caractéristiques du financement
 
@@ -34,7 +34,7 @@ Tous les crédits impliquent des compromis. Les critères suivants sont autant d
 
 ### Montant du financement
 
-À moins qu’un prince nigérian ne vous écrive pour vous céder sa fortune sans aucune contrepartie, le montant que la banque acceptera de vous prêter dépendra de votre projet, bien sûr, mais aussi de l’apport et des garanties que vous pourrez aligner pour rassurer la banque. Chaque dossier de crédit est différent et l’issue du vôtre dépendra de votre relation avec votre banque, de votre prévisionnel, et de l’analyse que la banque fera de votre dossier. Il arrive que les banques octroient des crédits de 15 000 € aux entreprises. Il arrive aussi que les montants prêtés atteignent plusieurs millions d’euros. Tout dépend du client et de ses besoins. Il n’y a pas vraiment de limite basse ni de limite haute.
+À moins qu’un prince nigérian ne vous écrive pour vous céder sa fortune sans aucune contrepartie, le montant que la banque acceptera de vous prêter dépendra de votre projet, bien sûr, mais aussi de l’apport et des [garanties]({{ 'garanties/index' | relative_url }}) que vous pourrez aligner pour rassurer la banque. Chaque dossier de crédit est différent et l’issue du vôtre dépendra de votre relation avec votre banque, de votre prévisionnel, et de l’analyse que la banque fera de votre dossier. Il arrive que les banques octroient des crédits de 15 000 € aux entreprises. Il arrive aussi que les montants prêtés atteignent plusieurs millions d’euros. Tout dépend du client et de ses besoins. Il n’y a pas vraiment de limite basse ni de limite haute.
 
 Au-delà du montant demandé, la banque étudiera aussi la cohérence entre ce que vous demandez et ce que vous prévoyez de faire avec votre financement. Le fait de viser bas n’augmente pas nécessairement vos chances de succès. Mieux vaut demander exactement ce dont vous avez besoin, quitte à [faire appel à plusieurs banques](https://memo.bank/magazine/pourquoi-certaines-pme-ont-plusieurs-banques) pour obtenir le total dont vous avez besoin.
 
@@ -42,7 +42,7 @@ Au-delà du montant demandé, la banque étudiera aussi la cohérence entre ce q
 
 Votre banquier sera rassuré si la somme que vous souhaitez emprunter n’excède pas vos fonds propres. Un crédit de 500 000 € vous sera plus facilement octroyé si vous avez au moins 500 000 € de fonds propres par ailleurs.
 
-Vous venez d’investir massivement et vos fonds propres sont moins importants que vos dettes bancaires ? Ce n’est pas éliminatoire, mais attendez-vous à devoir défendre votre dossier. La réponse que vous obtiendrez dépendra du banquier et de son analyse de votre projet, bien sûr, mais en cas de fonds propres insuffisants, il arrive que la banque sollicite un engagement de la part des associés — en faisant appel à une caution personnelle, ou à un blocage de compte courant d’associés, par exemple.
+Vous venez d’investir massivement et vos fonds propres sont moins importants que vos dettes bancaires ? Ce n’est pas éliminatoire, mais attendez-vous à devoir défendre votre dossier. La réponse que vous obtiendrez dépendra du banquier et de son analyse de votre projet, bien sûr, mais en cas de fonds propres insuffisants, il arrive que la banque sollicite un engagement de la part des associés — en faisant appel à une [caution personnelle]({{ 'garanties/caution-personnelle' | relative_url }}), ou à un blocage de compte courant d’associés, par exemple.
 
 Pour augmenter vos fonds propres, vous pouvez aussi :
 
@@ -51,7 +51,7 @@ Pour augmenter vos fonds propres, vous pouvez aussi :
 
 ### Coût du financement
 
-En dehors des prêts d’honneur et autres prêts à taux zéro, les crédits gratuits n’existent pas. Si vous optez pour un prêt ordinaire, attendez-vous à payer des intérêts, c’est-à-dire des frais qui s’ajoutent au montant que vous devez rembourser chaque mois (le capital). La somme que vous remboursez chaque mois peut être fixe tout au long de la durée du prêt, ou dégressive, c’est-à-dire de moins en moins importante à mesure que la date de fin de votre crédit approche.
+En dehors des [prêts d’honneur et autres prêts à taux zéro]({{ 'financements/aides-publiques' | relative_url }}), les crédits gratuits n’existent pas. Si vous optez pour un prêt ordinaire, attendez-vous à payer des intérêts, c’est-à-dire des frais qui s’ajoutent au montant que vous devez rembourser chaque mois (le capital). La somme que vous remboursez chaque mois peut être fixe tout au long de la durée du prêt, ou dégressive, c’est-à-dire de moins en moins importante à mesure que la date de fin de votre crédit approche.
 
 Il est aussi possible que la banque vous facture des frais de dossier dans le cadre de l’ouverture de votre ligne de crédit. Et il n’est pas rare que l’octroi d’un prêt soit plus ou moins conditionné par l’ouverture d’un compte courant ou d’un contrat annexe (prévoyance par exemple) dans la banque qui accepte de vous financer, ce qui peut occasionner des frais supplémentaires. Enfin, si vous avez une _holding_ ou des filiales, la banque que vous avez en face de vous peut profiter de l’octroi de votre crédit pour vous demander de rapatrier les comptes de votre _holding_, ou ceux de vos filiales, chez elle.
 
@@ -75,13 +75,13 @@ Et si vous commencez à rembourser votre crédit de suite, sans différé de rem
 
 ### Garanties demandées
 
-En plus d’exiger des fonds propres conséquents et des ratios financiers encourageants, la banque qui vous finance va probablement vous demander des garanties. Les garanties sont des éléments que la banque pourra saisir si jamais vous n’êtes pas en mesure de rembourser l’intégralité de votre prêt.
+En plus d’exiger des fonds propres conséquents et des ratios financiers encourageants, la banque qui vous finance va probablement vous demander des [garanties]({{ 'garanties/index' | relative_url }}). Les garanties sont des éléments que la banque pourra saisir si jamais vous n’êtes pas en mesure de rembourser l’intégralité de votre prêt.
 
 Les garanties les plus courantes sont les suivantes :
 
+- [caution personnelle du dirigeant]({{ 'garanties/caution-personnelle' | relative_url }}) (ou société de caution mutuelle) ;
 - hypothèque sur les murs ;
-- nantissement du fonds de commerce ;
-- caution personnelle du dirigeant (ou société de caution mutuelle).
+- [nantissement du fonds de commerce]({{ 'garanties/nantissement-fonds-commerce' | relative_url }}).
 
 ## Pour aller plus loin
 

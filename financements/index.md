@@ -10,7 +10,7 @@ has_toc: false
 
 # À propos des financements
 
-Que vous lanciez votre entreprise, ou que vous soyez en plein phase d’expansion, les financements auxquels vous pouvez prétendre sont nombreux. Pour vous aider à y voir plus clair, nous avons fait la liste des financements les plus courants, avec leurs avantages, leurs inconvénients, et leurs critères d’éligibilité.
+Les financements auxquels les entreprises peuvent prétendre sont à la fois nombreux et variés. Pour vous aider à vous y retrouver, nous avons fait la liste des financements les plus courants, avec leurs avantages, leurs inconvénients, et leurs critères d’éligibilité.
 
 ## Financements dilutifs (_equity_)
 

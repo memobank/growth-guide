@@ -34,14 +34,14 @@ En fonction de la maturité de votre projet, deux cas de figure sont possibles 
 
 Obtenir un financement de la part de _business angels_ présente plusieurs avantages :
 
-- vous n’avez rien à rembourser en fin de mois, contrairement à un crédit bancaire ;
+- vous n’avez rien à rembourser en fin de mois, contrairement à un [crédit bancaire]({{ 'financements/credit-bancaire' | relative_url }}) ;
 - vous bénéficiez de l’expérience, des conseils, et des contacts de vos *business angels* ;
 - vous cédez assez peu de contrôle, car les _business angels_ s’en tiennent à une participation minoritaire ;
 - vous donnez du poids et de la crédibilité à votre projet, ce qui peut vous permettre d’aller chercher d’autres financements.
 
 ## Inconvénients
 
-Les investisseurs privés n’investissent pas sans contre-partie, vous devez leur céder des parts. Si vous tenez absolument à rester le seul maître à bord, un prêt d’honneur (à taux zéro) peut être préférable.
+Les investisseurs privés n’investissent pas sans contre-partie, vous devez leur céder des parts. Si vous tenez absolument à rester le seul maître à bord, un [prêt d’honneur]({{ 'financements/aides-publiques' | relative_url }}) (à taux zéro) peut être préférable.
 
 ## Caractéristiques du financement
 
@@ -55,7 +55,7 @@ Quand ils investissent seuls, les _business angels_ peuvent mettre de 15 000 �
 
 Si vous faites appel à des _business angels_, comptez 2 à 6 mois entre votre premier contact avec eux et le versement du financement. Sans surprise : plus votre discours est rodé, plus votre réseau est étendu, et plus vite vous obtiendrez des réponses de la part d’investisseurs privés.
 
-Par rapport aux fonds de capital-risque, les _business angels_ ont la réputation d’être plus réactifs, de se décider plus vite. Si le courant passe entre un investisseur privé et vous, vous n’aurez sans doute pas besoin de fournir 250 indicateurs chiffrés pour obtenir une réponse.
+Par rapport aux [fonds de capital-risque]({{ 'financements/fonds-capital-risque' | relative_url }}), les _business angels_ ont la réputation d’être plus réactifs, de se décider plus vite. Si le courant passe entre un investisseur privé et vous, vous n’aurez sans doute pas besoin de fournir 250 indicateurs chiffrés pour obtenir une réponse.
 
 ### Durée de l’investissement
 

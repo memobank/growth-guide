@@ -18,7 +18,7 @@ Les récompenses offertes dans le cadre de concours ne nécessitent pas de contr
 
 ## Inconvénients
 
-Même si vous gagnez plusieurs concours à la suite, vous ne remporterez sans doute pas de quoi financer intégralement votre croissance. Voyez les concours comme un moyen de franchir un premier palier et de vous construire un premier réseau. Au-delà de ce premier palier, d’autres modes de financement pourront s’avérer plus prévisibles, plus conséquents, et plus réguliers.
+Même si vous gagnez plusieurs concours à la suite, vous ne remporterez sans doute pas de quoi financer intégralement votre croissance. Voyez les concours comme un moyen de franchir un premier palier et de vous construire un premier réseau. Au-delà de ce premier palier, d’autres [modes de financement]({{ 'financements/index' | relative_url }}) pourront s’avérer plus prévisibles, plus conséquents, et plus réguliers.
 
 ## Pour aller plus loin
 
