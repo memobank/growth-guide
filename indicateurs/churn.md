@@ -91,7 +91,7 @@ Reprenons notre exemple précédent. Vous avez donc perdu 9 clients au mois d’
 Ce _churn_ semble tout à fait acceptable. Pourtant, il devient beaucoup plus inquiétant lorsqu’il est rapporté à l’année. Imaginons que vous continuiez à perdre 9 clients tous les mois, pendant les douze prochains mois. Votre _churn_ annuel sera donc :
 
 ```
-Churn annuel = (9 * 12) / 120 * 100 = 90 %.
+Churn annuel = (9 * 12) / 120 * 100 = 90 %
 ```
 
 Cela signifie que vous avez perdu 90 % de vos clients en un an. Pour garder le même niveau de revenu, vous devriez donc attirer presque autant de nouveaux clients que ce que vous en avez aujourd’hui.
@@ -220,7 +220,7 @@ D’après une étude de l’entreprise [Profitwell](https://www.profitwell.com/
 
 D’après cette même étude, le _churn_ de revenu est fortement corrélé avec l’âge de l’entreprise. Plus l’entreprise est ancienne (c’est-à-dire plus elle a survécu longtemps), plus son _churn_ de revenu est faible. Une entreprise plus ancienne qui a survécu a établi son business model, trouvé ses clients, et le bon produit pour ses clients — sinon elle aurait fait faillite. Elle a construit un produit qui satisfait ses clients :
 
-- les entreprises de moins d’1 an ont un _churn_ entre 7 % et près de 25 % ;
+- les entreprises de moins d’un an ont un _churn_ entre 7 % et près de 25 % ;
 - les entreprises entre 1 et 3 ans ont un _churn_ entre 4 % et près de 15 % ;
 - les entreprises entre 3 et 10 ans ont un _churn_ entre 2 % et 9 % ;
 - les entreprises de plus de 10 ans ont un _churn_ entre 2 et 4 %.
