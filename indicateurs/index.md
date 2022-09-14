@@ -39,7 +39,7 @@ Le _churn_ client mesure la perte de vos clients sur une période donnée. Ce _c
 
 ## Customer lifetime value
 
-La LTV est un indicateur qui mesure le revenu moyen que vous apportera l’un de vos clients, pendant le temps qu’il sera votre client. La LTV se définit comme suite : LTV = ARPU / Churn
+La LTV est un indicateur qui mesure le revenu moyen que vous apportera l’un de vos clients, pendant le temps qu’il sera votre client. La LTV se définit comme suite : LTV = ARPU / Churn.
 
 Dans cette formule :
 

@@ -23,7 +23,9 @@ Afin que votre CAC soit fidèle à la réalité, n’oubliez pas d’inclure dan
 
 La formule du CAC est :
 
-- CAC (période donnée) = (Dépenses marketing + Dépenses commerciales sur la période) / (Nombre de nouveaux clients acquis sur la période)
+```
+CAC (période donnée) = (Dépenses marketing + Dépenses commerciales sur la période) / (Nombre de nouveaux clients acquis sur la période)
+```
 
 ### Périodicité du CAC
 
@@ -73,7 +75,9 @@ Vous souhaitez calculer votre CAC sur le mois de mars. Commencez par faire la li
 
 Sur le mois de mars, vous avez conquis 12 nouveaux clients. Votre CAC est donc égal à :
 
-- CAC (mars) = (5 000 € + 15 000 € + 20 000 € + 2 000 €) / 12 = 42 000 € / 12 = 3 500 €
+```
+CAC (mars) = (5 000 € + 15 000 € + 20 000 € + 2 000 €) / 12 = 42 000 € / 12 = 3 500 €
+```
 
 ## Utilisation du CAC
 
@@ -97,7 +101,9 @@ Si vous dépensez 10 000 € pour acquérir un client, et que ce client génè
 
 La formule du CAC Payback Period est :
 
-- CAC Payback Period = CAC / Revenu moyen par utilisateur = CAC / ARPU
+```
+CAC Payback Period = CAC / Revenu moyen par utilisateur = CAC / ARPU
+```
 
 Le revenu moyen par utilisateur est un indicateur désigné sous le nom de ARPU, pour _Average Revenue per User_ en anglais.
 
@@ -107,7 +113,9 @@ Vous êtes une entreprise SaaS dont le coût d’acquisition mensuel par client 
 
 Votre CAC Payback Period est donc :
 
-- CPP = CAC / ARPU = 10 000 / 700 = 14,3 mois
+```
+CPP = CAC / ARPU = 10 000 / 700 = 14,3 mois
+```
 
 En moyenne, vos clients mettent donc un peu plus de 14 mois à générer autant de revenu que votre CAC.
 
@@ -119,7 +127,9 @@ En calculant votre CPP à partir de votre ARPU, vous mesurez le temps moyen que 
 
 Certaines entreprises considèrent que le CAC Payback Period est par définition calculé à partir de la marge brute, tandis que d’autres appellent le CAC Payback Period calculé à partir de la marge brute le _Gross Margin-Adjusted CAC Payback Period_. Cet indicateur se calcule comme suit :
 
-- CAC Payback Period (marge brute) = CAC / (Revenu moyen par utilisateur \* Marge brute)
+```
+CAC Payback Period (marge brute) = CAC / (Revenu moyen par utilisateur \* Marge brute)
+```
 
 #### Exemple de calcul
 
@@ -127,7 +137,9 @@ Votre coût d’acquisition est de 10 000 €, et votre ARPU est de 700 €. 
 
 Votre CAC Payback Period calculé à partir de la marge brute est donc :
 
-- CPP = CAC / (ARPU \* 70 %) = 10 000 / (700 \* 70 %) = 20,4 mois
+```
+CPP = CAC / (ARPU \* 70 %) = 10 000 / (700 \* 70 %) = 20,4 mois
+```
 
 Ce résultat signifie que la marge qu’il vous reste effectivement après avoir soustrait les coûts d’exploitation de votre revenu moyen par utilisateur, met plus de 20 mois à couvrir votre coût d’acquisition.
 
@@ -139,15 +151,19 @@ Imaginons que vous êtes une entreprise SaaS, et que vous souhaitez calculer vot
 
 Votre CAC Payback Period est :
 
-- CAC Payback Period = 10 000 / 700 = 14,3 mois
+```
+CAC Payback Period = 10 000 / 700 = 14,3 mois
+```
 
 Au bout de 14,3 mois, en théorie, le revenu moyen généré par l’un de vos clients acquis au mois de mars compensera le coût d’acquisition que vous avez payé pour acquérir ce client.
 
 Supposons maintenant que votre [churn]({{ 'indicateurs/churn' | relative_url }}) mensuel soit égal à 5 %. Sur la cohorte de 10 clients que vous avez acquis lors du mois de mars, combien vous en reste-t-il au bout de 15 mois ?
 
-- Nombre de clients au bout de 15 mois = (Nombre de clients au 31 mars) \* (1 - Churn)^15 = 10 \* (1 - 5 %)^15 = 10 \* 0,49 = 4 clients
+```
+Nombre de clients au bout de 15 mois = (Nombre de clients au 31 mars) \* (1 - Churn)^15 = 10 \* (1 - 5 %)^15 = 10 \* 0,49 = 4 clients
+```
 
-Vous avez donc dépensé 100 000 € au mois de mars pour acquérir 10 clients. Au bout de 15 mois, ces 10 clients auraient pu vous générer 15 \* 700 \* 10 = 105 000 €, soit davantage que le coût que vous avez payé pour acquérir ces 10 clients. Sauf qu’en raison de votre [churn]({{ 'indicateurs/churn' | relative_url }}) de 5 %, vous n’avez plus au bout de 15 mois que 4 clients, qui vous rapportent 15 \* 700 \* 4 = 42 000 €.
+Vous avez donc dépensé 100 000 € au mois de mars pour acquérir 10 clients. Au bout de 15 mois, ces 10 clients auraient pu vous générer 15 \* 700 \* 10 = 105 000 €, soit davantage que le coût que vous avez payé pour acquérir ces 10 clients. Sauf qu’en raison de votre [churn]({{ 'indicateurs/churn' | relative_url }}) de 5 %, vous n’avez plus au bout de 15 mois que 4 clients, qui vous rapportent 15 x 700 x 4 = 42 000 €.
 
 Plutôt qu’un indicateur du retour sur investissement que vous pouvez espérer de la part de vos clients acquis (ROI qui dépend fortement de votre [churn]({{ 'indicateurs/churn' | relative_url }})), le CAC Payback Period est une mesure de risque. Il vous montre le niveau de risque que vous prenez en engageant un montant donné de coût d’acquisition. Plus votre CPP s’allonge, plus votre risque financier augmente, parce que vous devez « tenir » plus longtemps sans retour sur investissement — et parce que vos clients pourraient vous quitter.
 

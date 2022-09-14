@@ -25,7 +25,9 @@ La manière dont vous calculerez votre ARR dépendra de la manière dont vous pe
 
 La formule générale du [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}) est :
 
+```
 MRR du mois M = Somme des revenus récurrents sur le mois M
+```
 
 Pensez bien à :
 
@@ -35,7 +37,9 @@ Pensez bien à :
 
 Une fois que vous avez votre [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}), multipliez-le simplement par 12 pour obtenir votre ARR :
 
+```
 ARR = MRR \* 12
+```
 
 #### Exemple de calcul
 
@@ -43,11 +47,15 @@ Vous avez 100 clients : 50 de vos clients sont abonnés à votre formule Simple
 
 Votre MRR est :
 
+```
 MRR = 50 \* 50 € + 50 \* 100 € = 7 500 €
+```
 
 Votre ARR est donc :
 
+```
 ARR = MRR \* 12 = 7 500 € \* 12 = 90 000 €
+```
 
 ### Calcul de l’ARR si vos clients paient à l’année
 
@@ -65,7 +73,9 @@ Votre entreprise compte aujourd’hui 15 clients :
 
 Votre ARR est donc :
 
+```
 ARR = 5 \* 600 € + 5 \* 1 200 € + (5 \* 3 000 €) / 3 = 14 000 €
+```
 
 ## Différences entre MRR et ARR
 

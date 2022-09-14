@@ -23,11 +23,15 @@ La LTV historique mesure le revenu généré par vos clients jusqu’au moment o
 
 Calculer la LTV historique d’un client donné revient simplement à sommer l’ensemble des revenus générés par ce client :
 
-- LTV (client A) = Somme des revenus générés par le client
+```
+LTV (client A) = Somme des revenus générés par le client
+```
 
 Si vous souhaitez calculer votre LTV historique moyenne, divisez simplement l’ensemble des revenus générés par vos clients jusqu’ici, par le nombre de clients que vous avez eus depuis la création de votre entreprise :
 
-- LTV (moyenne) = Revenus / Nombre de clients
+```
+LTV (moyenne) = Revenus / Nombre de clients
+```
 
 #### Exemple de calcul
 
@@ -37,7 +41,9 @@ Depuis votre création, vous avez dégagé 315 000 € de revenus, et avez, ou
 
 Votre LTV historique est :
 
-- LTV (historique) = 315 000 € / 90 = 3 500 €
+```
+LTV (historique) = 315 000 € / 90 = 3 500 €
+```
 
 ## La Customer Lifetime Value prédictive
 
@@ -49,7 +55,9 @@ La LTV prédictive peut se calculer de différentes manières, plus ou moins com
 
 La LTV prédictive se calcule comme suit :
 
-- LTV = ARPU / Churn
+```
+LTV = ARPU / Churn
+```
 
 Où :
 
@@ -64,9 +72,11 @@ Pendant le mois de mars, vous avez subi un [churn]({{ 'indicateurs/churn' | rela
 
 Nous avons donc :
 
-- MRR (mars) = 50 \* 50 € + 50 \* 100 € = 7 500 €
-- ARPU (mars) = MRR / Nombre de clients sur le mois = 7 500 / 100 = 75 €
-- LTV = ARPU / Churn = 75 € / 3 % = 2 500 €
+```
+MRR (mars) = 50 \* 50 € + 50 \* 100 € = 7 500 €
+ARPU (mars) = MRR / Nombre de clients sur le mois = 7 500 / 100 = 75 €
+LTV = ARPU / Churn = 75 € / 3 % = 2 500 €
+```
 
 Vous pouvez vous attendre à ce que les clients qui sont les vôtres au mois de mars vous apportent dans le futur un revenu de 2 500 €.
 
