@@ -44,12 +44,12 @@ Les fonds de capital-risque s’intéressent aux entreprises qui :
 
 Les fonds de capital-risque peuvent constituer une bonne source de financement pour les raisons suivantes :
 
-- vous n’avez rien à rembourser en fin de mois, contrairement à un [crédit bancaire]({{ 'financements/credit-bancaire' | relative_url }}), et généralement pas de dividendes à verser aux fonds non plus ;
+- vous n’avez rien à rembourser en fin de mois, contrairement à un [crédit bancaire]({{ 'financements/credits-bancaires' | relative_url }}), et généralement pas de dividendes à verser aux fonds non plus ;
 - vous n’avez pas besoin d’attendre de dégager des profits, voire des revenus, pour qu’un fonds accepte de vous financer ;
 - vous pouvez compter sur le soutien et le réseau de l’équipe qui gère le fonds ;
 - vous pouvez lever des millions d’euros sans céder une part trop importante de votre société (10 à 25 %) ;
 - vous embarquez un nouvel administrateur qui peut vous conseiller en plus de vous financer (_board member_) ;
-- vous donnez de la crédibilité à votre projet, ce qui peut vous permettre d’aller chercher un [prêt bancaire]({{ 'financements/credit-bancaire' | relative_url }}) dans la foulée, comme notre [Rocket Pack](https://memo.bank/rocket-pack).
+- vous donnez de la crédibilité à votre projet, ce qui peut vous permettre d’aller chercher un [prêt bancaire]({{ 'financements/credits-bancaires' | relative_url }}) dans la foulée, comme notre [Rocket Pack](https://memo.bank/rocket-pack).
 
 ## Inconvénients
 

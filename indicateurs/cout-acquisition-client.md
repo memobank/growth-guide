@@ -40,7 +40,6 @@ Pour vous aider à calculer votre CAC, vous trouverez ci-dessous une liste non e
 #### Publicité
 
 - publicité en ligne : Google Search Ads, Google Display Ads, LinkedIn Ads, Facebook Ads, Instagram Ads…
-
 - publicité hors ligne : affichage, radio, podcasts, télévision, presse écrite…
 - agences créatives et agences média.
 

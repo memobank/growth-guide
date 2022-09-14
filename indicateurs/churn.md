@@ -132,7 +132,7 @@ Churn de revenu (année) = Churn ARR / ARR * 100
 
 #### Exemple de calcul
 
-Vous souhaitez calculer votre _churn_ de revenu au mois d’avril. Vous aviez au 31 mars 120 clients, qui paient des abonnements mensuels. 60 de vos clients sont abonnés à votre formule Simple à 50 € par mois, et 60 de vos clients sont abonnés à votre formule Premium à 100€ par mois.
+Vous souhaitez calculer votre _churn_ de revenu au mois d’avril. Vous aviez au 31 mars 120 clients, qui paient des abonnements mensuels. 60 de vos clients sont abonnés à votre formule Simple à 50 € par mois, et 60 de vos clients sont abonnés à votre formule Premium à 100 € par mois.
 
 Durant le mois d’avril, vous perdez 9 clients : 6 clients sur votre formule Simple, et 3 clients sur votre formule Premium.
 
@@ -183,7 +183,7 @@ Le _churn_ du revenu net peut être négatif : dans ce cas, il signifie que vou
 
 #### Exemple de calcul
 
-Vous souhaitez calculer votre _churn_ de revenu net au mois d’avril. Vous aviez au 31 mars 120 clients, qui paient des abonnements mensuels. 60 de vos clients sont abonnés à votre formule Simple à 50 € par mois, et 60 de vos clients sont abonnés à votre formule Premium à 100€ par mois.
+Vous souhaitez calculer votre _churn_ de revenu net au mois d’avril. Vous aviez au 31 mars 120 clients, qui paient des abonnements mensuels. 60 de vos clients sont abonnés à votre formule Simple à 50 € par mois, et 60 de vos clients sont abonnés à votre formule Premium à 100 € par mois.
 
 Au mois d’avril :
 

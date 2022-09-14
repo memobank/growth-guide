@@ -15,7 +15,7 @@ Pour compléter votre apport personnel, vous pouvez demander un prêt d’honneu
 
 ## Avantages
 
-Bien que les montants accordés dans le cadre de prêts d’honneur ou à taux zéro dépassent rarement 50 000 €, l’obtention de ce type de crédit peut faciliter l’obtention de crédits traditionnels par la suite, car ils sont considérés comme des fonds propres, ce qui donne du poids à votre dossier. Un prêt d’honneur de 50 000 € peut par exemple vous aider à décrocher un [crédit bancaire]({{ 'financements/credit-bancaire' | relative_url }}) de 200 000 €.
+Bien que les montants accordés dans le cadre de prêts d’honneur ou à taux zéro dépassent rarement 50 000 €, l’obtention de ce type de crédit peut faciliter l’obtention de crédits traditionnels par la suite, car ils sont considérés comme des fonds propres, ce qui donne du poids à votre dossier. Un prêt d’honneur de 50 000 € peut par exemple vous aider à décrocher un [crédit bancaire]({{ 'financements/credits-bancaires' | relative_url }}) de 200 000 €.
 
 Plus généralement, les aides publiques ont souvent l’avantage d’être « gratuites », dans le sens où elles ne vous contraignent pas à payer des intérêts ou des dividendes en retour. Vous n’avez pas non plus besoin de céder une part de votre capital pour en bénéficier.
 
