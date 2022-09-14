@@ -8,7 +8,7 @@ parent: Indicateurs
 
 # La Customer lifetime value (LTV)
 
-La _Customer lifetime value_, ou « valeur vie client » en français, est un indicateur qui mesure le revenu moyen que générera l’un de vos clients, pendant le temps qu’il sera votre client. Nous abrégerons dans cet article la Customer Lifetime Value en « LTV » — vous la trouverez aussi ailleurs sous les acronymes CLV, ou CLTV.
+La _Customer lifetime value_, ou « valeur vie client » en français, est un indicateur qui mesure le revenu moyen que générera l’un de vos clients, pendant le temps qu’il sera votre client. Nous abrégerons dans cet article la Customer Lifetime Value en « LTV » — vous la trouverez aussi ailleurs sous les acronymes CLV, ou CLTV.
 
 ## Deux types de LTV
 
@@ -19,7 +19,7 @@ Vous pouvez calculer deux types de Customer Lifetime Value :
 
 ## La Customer Lifetime Value historique
 
-La LTV historique mesure le revenu généré par vos clients jusqu’au moment où vous calculez la LTV. Vous pouvez calculer la LTV de clients qui ne sont plus vos clients, et des clients qui sont toujours vos clients — dans ce cas, la LTV que vous calculerez sera sous-estimée, puisque le calcul n’inclura pas les revenus futurs que vos clients actuels vous feront gagner.
+La LTV historique mesure le revenu généré par vos clients jusqu’au moment où vous calculez la LTV. Vous pouvez calculer la LTV de clients qui ne sont plus vos clients, et des clients qui sont toujours vos clients — dans ce cas, la LTV que vous calculerez sera sous-estimée, puisque le calcul n’inclura pas les revenus futurs que vos clients actuels vous feront gagner.
 
 Calculer la LTV historique d’un client donné revient simplement à sommer l’ensemble des revenus générés par ce client :
 
@@ -41,7 +41,7 @@ Votre LTV historique est :
 
 ## La Customer Lifetime Value prédictive
 
-La Customer Lifetime Value dite « prédictive » s’intéresse au montant moyen de nouveau revenu que chacun de vos clients générera, du moment où votre client devient votre client jusqu’au moment où il cesse de l’être — ou au montant de revenu que chaque nouveau client qui vous rejoint générera. Contrairement à la LTV historique, la LTV prédictive intègre donc également les revenus futurs (théoriques) de vos clients.
+La Customer Lifetime Value dite « prédictive » s’intéresse au montant moyen de nouveau revenu que chacun de vos clients générera, du moment où votre client devient votre client jusqu’au moment où il cesse de l’être — ou au montant de revenu que chaque nouveau client qui vous rejoint générera. Contrairement à la LTV historique, la LTV prédictive intègre donc également les revenus futurs (théoriques) de vos clients.
 
 L’un des principaux intérêts de la LTV prédictive est de vous permettre de vous rendre compte si le coût que vous payez pour attirer vos nouveaux clients est justifié : si vous dépensez plus pour conquérir un client, que ce que ce client vous apportera tout au long de sa relation commerciale avec vous, vous avez un problème.
 

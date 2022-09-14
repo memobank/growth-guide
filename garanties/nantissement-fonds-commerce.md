@@ -16,7 +16,7 @@ Le fonds de commerce est l’ensemble des éléments qui permettent à une entre
 
 ### Éléments corporels
 
-Les éléments corporels du fonds de commerce sont, entre autres, le mobilier, le matériel de l’entreprise — comme les ordinateurs d’une entreprise de services, ou le four d’une boulangerie. Les stocks de l’entreprise ne font pas partie des éléments corporels du fonds de commerce.
+Les éléments corporels du fonds de commerce sont, entre autres, le mobilier, le matériel de l’entreprise — comme les ordinateurs d’une entreprise de services, ou le four d’une boulangerie. Les stocks de l’entreprise ne font pas partie des éléments corporels du fonds de commerce.
 
 ### Éléments incorporels
 
@@ -46,7 +46,7 @@ Un nantissement de fonds de commerce est valable 10 ans.
 
 ### Le nantissement conventionnel
 
-Le nantissement conventionnel est la procédure de nantissement la plus classique. Un nantissement conventionnel du fonds de commerce est décidé par le propriétaire du fonds de commerce — par exemple, le dirigeant de l’entreprise. Celui-ci se met d’accord avec sa banque sur les conditions du nantissement, et conclut un contrat avec elle.
+Le nantissement conventionnel est la procédure de nantissement la plus classique. Un nantissement conventionnel du fonds de commerce est décidé par le propriétaire du fonds de commerce — par exemple, le dirigeant de l’entreprise. Celui-ci se met d’accord avec sa banque sur les conditions du nantissement, et conclut un contrat avec elle.
 
 ### Le nantissement judiciaire
 

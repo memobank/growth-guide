@@ -27,7 +27,7 @@ Les _business angels_ s’intéressent aux entreprises qui :
 
 En fonction de la maturité de votre projet, deux cas de figure sont possibles :
 
-1. Si votre produit n’a pas encore trouvé son marché, et si vous n’avez pas encore généré de revenus, vous devrez probablement présenter un prototype aux _business angels_ — pour les convaincre qu’ils peuvent faire une bonne affaire en vous soutenant si tôt.
+1. Si votre produit n’a pas encore trouvé son marché, et si vous n’avez pas encore généré de revenus, vous devrez probablement présenter un prototype aux *business angels* — pour les convaincre qu’ils peuvent faire une bonne affaire en vous soutenant si tôt.
 2. Si vous pouvez montrer qu’il y a un marché pour votre produit, et qu’il vous suffit maintenant d’industrialiser votre offre pour prendre des parts sur le marché en question, l’exercice sera plus facile, car les _business angels_ auront plus de chance de récupérer leur mise s’ils vous soutiennent.
 
 ## Avantages

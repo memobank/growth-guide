@@ -8,9 +8,9 @@ parent: Indicateurs
 
 # Le churn (ou taux d’attrition)
 
-Le _churn_, ou taux d’attrition en français, représente le pourcentage de clients que vous perdez sur une période donnée — un mois, un trimestre, une année.
+Le _churn_, ou taux d’attrition en français, représente le pourcentage de clients que vous perdez sur une période donnée — un mois, un trimestre, une année.
 
-Le _churn_ est surtout suivi par les entreprises SaaS. Ces entreprises ont un modèle d’affaires par abonnement, qui rend le suivi de leur activité prévisible. Chaque client génère un revenu récurrent, qui se répète chaque mois, ou chaque année — jusqu’à ce qu’il résilie son abonnement. Combiné au calcul des revenus récurrents, le _churn_ permet aux entreprises SaaS d’estimer leurs revenus à venir — et d’ajuster leur modèle en conséquence.
+Le _churn_ est surtout suivi par les entreprises SaaS. Ces entreprises ont un modèle d’affaires par abonnement, qui rend le suivi de leur activité prévisible. Chaque client génère un revenu récurrent, qui se répète chaque mois, ou chaque année — jusqu’à ce qu’il résilie son abonnement. Combiné au calcul des revenus récurrents, le _churn_ permet aux entreprises SaaS d’estimer leurs revenus à venir — et d’ajuster leur modèle en conséquence.
 
 ## Deux types de churn
 
@@ -19,7 +19,7 @@ Les entreprises innovantes calculent souvent deux types de churn :
 1. Le _churn_ client (_logo churn_, ou _customer churn_ en anglais), qui mesure la perte du nombre de clients sur une période donnée ;
 2. Le _churn_ de revenu (_revenue churn_ en anglais), qui mesure la perte de revenu récurrent causée par la perte de clients sur une période donnée.
 
-Le calcul du _churn_ de revenu est particulièrement important lorsque vous commercialisez différentes formules d’abonnement, des options payantes, ou des produits différents. Le départ de vos clients peut avoir des conséquences très différentes sur votre revenu récurrent, en fonction du type de clients que vous perdez — des clients abonnés à votre formule la plus économique, ou des clients abonnés à votre formule la plus chère. Or, le _churn_ client ne vous donne qu’un chiffre global des clients perdus, il ne vous renseigne pas sur le poids de tel ou tel client dans vos revenus totaux.
+Le calcul du _churn_ de revenu est particulièrement important lorsque vous commercialisez différentes formules d’abonnement, des options payantes, ou des produits différents. Le départ de vos clients peut avoir des conséquences très différentes sur votre revenu récurrent, en fonction du type de clients que vous perdez — des clients abonnés à votre formule la plus économique, ou des clients abonnés à votre formule la plus chère. Or, le _churn_ client ne vous donne qu’un chiffre global des clients perdus, il ne vous renseigne pas sur le poids de tel ou tel client dans vos revenus totaux.
 
 ## Le churn client
 
@@ -102,8 +102,8 @@ Deux catégories d’entreprises semblent émerger :
 
 Deux facteurs peuvent expliquer ces écarts de _churn_ en fonction de la taille de l’entreprise :
 
-- L’ancienneté de l’entreprise : les entreprises dont le [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}) est inférieur à 1 million de $ sont pour la plupart des entreprises jeunes, qui construisent leurs produits en même temps qu’elles découvrent les besoins réels de leurs clients. Il est courant que dans les premières années d’existence d’une start-up, le _churn_ soit plus élevé : soit parce que la start-up ne s’est pas adressée aux bons clients, soit qu’elle n’a pas encore développé le produit dont sa cible a besoin. A contrario, les entreprises au [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}) supérieur sont soit des entreprises qui ont rapidement rencontré du succès, soit des entreprises qui ont plusieurs années d’existence. Elles ont réussi à développer un produit qui a rencontré son marché — les entreprises qui ne réussissent pas font faillite après quelques années. Celles qui survivent, et ont un [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}) important, ont mécaniquement un _churn_ tendanciellement moins important.
-- La typologie de clients auxquels s’adressent ces entreprises : les clients des entreprises SaaS les plus importantes sont souvent des grandes entreprises. Les cycles de ventes auprès des grands groupes sont plus longs, mais ces clients s’engagent généralement à plus long terme — et ils sont plus fidèles. De plus, ces entreprises sont en général abonnées au mois. Les entreprises dont le [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}) est moins important s’adressent plutôt à des particuliers ou des PME, dont les comportements sont plus volatils — et qui sont plus sensibles au prix, et au basculement vers la concurrence dès que celle-ci propose des prix plus compétitifs.
+- L’ancienneté de l’entreprise : les entreprises dont le [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}) est inférieur à 1 million de $ sont pour la plupart des entreprises jeunes, qui construisent leurs produits en même temps qu’elles découvrent les besoins réels de leurs clients. Il est courant que dans les premières années d’existence d’une start-up, le _churn_ soit plus élevé : soit parce que la start-up ne s’est pas adressée aux bons clients, soit qu’elle n’a pas encore développé le produit dont sa cible a besoin. A contrario, les entreprises au [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}) supérieur sont soit des entreprises qui ont rapidement rencontré du succès, soit des entreprises qui ont plusieurs années d’existence. Elles ont réussi à développer un produit qui a rencontré son marché — les entreprises qui ne réussissent pas font faillite après quelques années. Celles qui survivent, et ont un [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}) important, ont mécaniquement un _churn_ tendanciellement moins important.
+- La typologie de clients auxquels s’adressent ces entreprises : les clients des entreprises SaaS les plus importantes sont souvent des grandes entreprises. Les cycles de ventes auprès des grands groupes sont plus longs, mais ces clients s’engagent généralement à plus long terme — et ils sont plus fidèles. De plus, ces entreprises sont en général abonnées au mois. Les entreprises dont le [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}) est moins important s’adressent plutôt à des particuliers ou des PME, dont les comportements sont plus volatils — et qui sont plus sensibles au prix, et au basculement vers la concurrence dès que celle-ci propose des prix plus compétitifs.
 
 ## Le churn de revenu
 
@@ -134,13 +134,13 @@ Votre _churn_ de revenu sur le mois d’avril est donc :
 
 - Churn de revenu (avril) = Churn MRR (avril) / MRR (mars) \* 100 = 600 / 9 000 \* 100 = 6,7 %
 
-Nous n’incluons dans le _churn_ du revenu, que les pertes de revenu récurrent causées par le _départ_ de vos clients — le rapport entre le Churn MRR et le [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}). Certaines entreprises incluent également dans le _churn_ du revenu les pertes de revenu récurrent qui sont la conséquence du _downgrade_ de vos client, c’est-à-dire de leur passage à de formules d’abonnement inférieures, ou sans option payante — le rapport entre le Contraction MRR (cf. l’article sur le [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }})) et le MRR.
+Nous n’incluons dans le _churn_ du revenu, que les pertes de revenu récurrent causées par le _départ_ de vos clients — le rapport entre le Churn MRR et le [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}). Certaines entreprises incluent également dans le _churn_ du revenu les pertes de revenu récurrent qui sont la conséquence du _downgrade_ de vos client, c’est-à-dire de leur passage à de formules d’abonnement inférieures, ou sans option payante — le rapport entre le Contraction MRR (cf. l’article sur le [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }})) et le MRR.
 
 Vous pouvez utiliser le Contraction MRR pour calculer le pourcentage de revenu récurrent qui diminue en raison du passage de vos clients à des formules d’abonnement inférieures, ou de la résiliation d’options payantes :
 
 - Contraction du revenu (mois) = Contraction MRR / MRR \* 100
 
-Vous pouvez utiliser le Churn MRR et le Contraction MRR pour évaluer un _churn_ « global », qui inclut à la fois la perte de revenus issue de la résiliation de vos clients, et la perte de revenus issue des _downgrades_ de vos clients existants — qui restent vos clients.
+Vous pouvez utiliser le Churn MRR et le Contraction MRR pour évaluer un _churn_ « global », qui inclut à la fois la perte de revenus issue de la résiliation de vos clients, et la perte de revenus issue des _downgrades_ de vos clients existants — qui restent vos clients.
 
 - Churn de revenu global (mois) = (Churn MRR + Contraction MRR) / MRR \* 100
 
@@ -191,7 +191,7 @@ D’après une étude de l’entreprise [Profitwell](https://www.profitwell.com/
 
 #### L’âge de l’entreprise
 
-D’après cette même étude, le _churn_ de revenu est fortement corrélé avec l’âge de l’entreprise. Plus l’entreprise est ancienne (c’est-à-dire plus elle a survécu longtemps), plus son _churn_ de revenu est faible. Une entreprise plus ancienne qui a survécu a établi son business model, trouvé ses clients, et le bon produit pour ses clients — sinon elle aurait fait faillite. Elle a construit un produit qui satisfait ses clients :
+D’après cette même étude, le _churn_ de revenu est fortement corrélé avec l’âge de l’entreprise. Plus l’entreprise est ancienne (c’est-à-dire plus elle a survécu longtemps), plus son _churn_ de revenu est faible. Une entreprise plus ancienne qui a survécu a établi son business model, trouvé ses clients, et le bon produit pour ses clients — sinon elle aurait fait faillite. Elle a construit un produit qui satisfait ses clients :
 
 - les entreprises de moins d’1 an ont un _churn_ entre 7 % et près de 25 % ;
 - les entreprises entre 1 et 3 ans ont un _churn_ entre 4 % et près de 15 % ;

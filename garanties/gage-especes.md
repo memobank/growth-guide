@@ -21,4 +21,4 @@ Les financements que nous accordons dans le cadre du [Rocket Pack](https://memo.
 - un prêt garanti par le Fonds européen d’investissement (« garantie FEI »), pour 80 % du montant total financé ;
 - un prêt garanti à 50 % en gage-espèces, pour 20 % du montant total financé.
 
-Par exemple, si votre entreprise lève 5 millions d’euros auprès d’investisseurs, nous pourrons vous prêter jusqu’à 1,25 million d’euros(25 % de 5 millions). Ce financement de 1,25 millions d’euros sera divisé en deux : un prêt avec une garantie FEI de 1 million d’euros (80 % de 1,25 million), et un prêt de 250 000 € (20 % de 1,25 million), garanti à 50 % en gage-espèces — donc garanti à 125 000 € en gage-espèces.
+Par exemple, si votre entreprise lève 5 millions d’euros auprès d’investisseurs, nous pourrons vous prêter jusqu’à 1,25 million d’euros(25 % de 5 millions). Ce financement de 1,25 millions d’euros sera divisé en deux : un prêt avec une garantie FEI de 1 million d’euros (80 % de 1,25 million), et un prêt de 250 000 € (20 % de 1,25 million), garanti à 50 % en gage-espèces — donc garanti à 125 000 € en gage-espèces.

@@ -12,7 +12,7 @@ has_toc: false
 
 ## ARR (revenu annuel récurrent)
 
-L’ARR est un indicateur qui s’intéresse aux revenus récurrents d’une entreprise — c’est-à-dire aux revenus prévisibles, qu’une entreprise s’attend à voir se répéter d’une période à une autre. Les entreprises innovantes qui tirent la majorité de leurs revenus de revenus récurrents sont généralement les entreprises qui commercialisent des logiciels en ligne, ou logiciels à la demande, connues sous l’acronyme anglais « SaaS » (_software as a service_).
+L’ARR est un indicateur qui s’intéresse aux revenus récurrents d’une entreprise — c’est-à-dire aux revenus prévisibles, qu’une entreprise s’attend à voir se répéter d’une période à une autre. Les entreprises innovantes qui tirent la majorité de leurs revenus de revenus récurrents sont généralement les entreprises qui commercialisent des logiciels en ligne, ou logiciels à la demande, connues sous l’acronyme anglais « SaaS » (_software as a service_).
 
 Les clients de ces entreprises paient un abonnement (généralement mensuel ou annuel) pour accéder aux services en ligne développés par l’entreprise SaaS. Ce modèle d’affaires par abonnement rend les revenus des entreprises SaaS prévisibles. Le montant des abonnements d’un mois, ou d’une année, est un bon indicateur des revenus que l’entreprise SaaS gagnera au cours des prochains mois, ou des prochaines années : elle devrait toucher au moins le montant de ces abonnements.
 

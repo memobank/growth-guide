@@ -79,7 +79,7 @@ Les contreparties que vous devrez honorer se limiteront :
 
 #### Cas de l’ouverture de capital
 
-Dans le cas d’une ouverture de capital aux particuliers, c’est vous qui fixez la part réservée aux particuliers. Les entreprises qui ont recours à ce financement attirent généralement une petite centaine de particuliers, qui misent environ 4 000 € chacun. À vous de voir si vous souhaitez verser des dividendes à vos futurs actionnaires ou non. Et libre à vous de fixer les conditions de cession des actions que vous proposez aux investisseurs particuliers — la plateforme que vous choisirez pourra sans doute vous aider à bien ficeler votre dossier.
+Dans le cas d’une ouverture de capital aux particuliers, c’est vous qui fixez la part réservée aux particuliers. Les entreprises qui ont recours à ce financement attirent généralement une petite centaine de particuliers, qui misent environ 4 000 € chacun. À vous de voir si vous souhaitez verser des dividendes à vos futurs actionnaires ou non. Et libre à vous de fixer les conditions de cession des actions que vous proposez aux investisseurs particuliers — la plateforme que vous choisirez pourra sans doute vous aider à bien ficeler votre dossier.
 
 ### Documents de référence
 

@@ -10,7 +10,7 @@ has_toc: false
 
 # À propos des garanties
 
-La garantie bancaire est un dispositif qui permet aux banque de se protéger contre le risque d’impayé. Grâce à ce dispositif, une banque peut récupérer une partie des sommes qu’elle a prêtées, même si l’entreprise à qui la banque à prêté ne peut pas honorer ses remboursements. Il existe différents types de garanties — et différents types d’acteurs qui peuvent se porter garants pour une entreprise donnée. Nous listons ici les garanties bancaires les plus courantes.
+La garantie bancaire est un dispositif qui permet aux banque de se protéger contre le risque d’impayé. Grâce à ce dispositif, une banque peut récupérer une partie des sommes qu’elle a prêtées, même si l’entreprise à qui la banque à prêté ne peut pas honorer ses remboursements. Il existe différents types de garanties — et différents types d’acteurs qui peuvent se porter garants pour une entreprise donnée. Nous listons ici les garanties bancaires les plus courantes.
 
 ## Caution personnelle du dirigeant
 

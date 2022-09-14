@@ -77,7 +77,7 @@ Sur le mois de mars, vous avez conquis 12 nouveaux clients. Votre CAC est donc �
 
 ## Utilisation du CAC
 
-Il n’y a pas de « bonne » valeur de CAC : tout dépend de ce que vous rapportent vos clients — et du temps que vos clients mettent à générer ce revenu. C’est en comparant votre CAC à d’autres indicateurs que vous pouvez juger si vos dépenses marketing et commerciales sont correctement calibrées.
+Il n’y a pas de « bonne » valeur de CAC : tout dépend de ce que vous rapportent vos clients — et du temps que vos clients mettent à générer ce revenu. C’est en comparant votre CAC à d’autres indicateurs que vous pouvez juger si vos dépenses marketing et commerciales sont correctement calibrées.
 
 ### Ratio LTV / CAC
 
@@ -87,7 +87,7 @@ Si votre [CAC]({{ 'indicateurs/cout-acquisition-client' | relative_url }}) est s
 
 Mais vous n’avez pas un problème que dans le cas où votre CAC est supérieur à votre LTV. Vous avez également un problème si votre CAC n’est pas _assez_ inférieur à votre LTV. En effet, pour que votre entreprise soit rentable, les revenus de vos clients ne doivent pas seulement compenser votre CAC, ils doivent aussi compenser les autres coûts d’exploitation de votre entreprise : salaires des autres équipes, coûts liés au _cloud_, loyer… Dans l’industrie du SaaS, la règle générale est que le [ratio LTV / CAC]({{ 'indicateurs/ratio-ltv-cac' | relative_url }}) doit être supérieur à 3.
 
-Ce ratio est donc un très bon indicateur de la profitabilité de votre entreprise, et de la pertinence de votre stratégie d’acquisition — il est d’ailleurs l’un des principaux indicateurs regardés par les investisseurs dans les entreprises innovantes. Vous devriez calculer régulièrement le [ratio LTV / CAC]({{ 'indicateurs/ratio-ltv-cac' | relative_url }}), au moins chaque mois ou chaque trimestre, et chercher à optimiser votre stratégie d’acquisition, vos revenus, votre [churn]({{ 'indicateurs/churn' | relative_url }}), afin de maintenir ce ratio le plus haut possible.
+Ce ratio est donc un très bon indicateur de la profitabilité de votre entreprise, et de la pertinence de votre stratégie d’acquisition — il est d’ailleurs l’un des principaux indicateurs regardés par les investisseurs dans les entreprises innovantes. Vous devriez calculer régulièrement le [ratio LTV / CAC]({{ 'indicateurs/ratio-ltv-cac' | relative_url }}), au moins chaque mois ou chaque trimestre, et chercher à optimiser votre stratégie d’acquisition, vos revenus, votre [churn]({{ 'indicateurs/churn' | relative_url }}), afin de maintenir ce ratio le plus haut possible.
 
 ### Le CAC Payback Period
 
@@ -133,7 +133,7 @@ Ce résultat signifie que la marge qu’il vous reste effectivement après avoir
 
 ### Le CAC Payback Period est un indicateur de risque
 
-Vous devez considérer le CPP comme une mesure de risque, et non comme une mesure de profitabilité. Le nombre de mois que vous obtenez comme résultat de votre CPP ne signifie pas qu’au bout de tel nombre de mois, vous aurez _forcément_ obtenu un retour sur investissement. Pourquoi ? Parce que le CPP ne prend pas en compte le [churn]({{ 'indicateurs/churn' | relative_url }}) de votre entreprise. Le CPP mesure le temps que mettent en moyenne vos clients à vous rembourser — mais encore faut-il qu’ils soient encore vos clients à la fin de la période déterminée par le CPP.
+Vous devez considérer le CPP comme une mesure de risque, et non comme une mesure de profitabilité. Le nombre de mois que vous obtenez comme résultat de votre CPP ne signifie pas qu’au bout de tel nombre de mois, vous aurez _forcément_ obtenu un retour sur investissement. Pourquoi ? Parce que le CPP ne prend pas en compte le [churn]({{ 'indicateurs/churn' | relative_url }}) de votre entreprise. Le CPP mesure le temps que mettent en moyenne vos clients à vous rembourser — mais encore faut-il qu’ils soient encore vos clients à la fin de la période déterminée par le CPP.
 
 Imaginons que vous êtes une entreprise SaaS, et que vous souhaitez calculer votre CAC Payback Period. Vous avez acquis 10 clients lors du mois de mars, qui paient chacun un abonnement mensuel de 700 €. Votre coût d’acquisition est de 10 000 €.
 
@@ -149,6 +149,6 @@ Supposons maintenant que votre [churn]({{ 'indicateurs/churn' | relative_url }})
 
 Vous avez donc dépensé 100 000 € au mois de mars pour acquérir 10 clients. Au bout de 15 mois, ces 10 clients auraient pu vous générer 15 \* 700 \* 10 = 105 000 €, soit davantage que le coût que vous avez payé pour acquérir ces 10 clients. Sauf qu’en raison de votre [churn]({{ 'indicateurs/churn' | relative_url }}) de 5 %, vous n’avez plus au bout de 15 mois que 4 clients, qui vous rapportent 15 \* 700 \* 4 = 42 000 €.
 
-Plutôt qu’un indicateur du retour sur investissement que vous pouvez espérer de la part de vos clients acquis (ROI qui dépend fortement de votre [churn]({{ 'indicateurs/churn' | relative_url }})), le CAC Payback Period est une mesure de risque. Il vous montre le niveau de risque que vous prenez en engageant un montant donné de coût d’acquisition. Plus votre CPP s’allonge, plus votre risque financier augmente, parce que vous devez « tenir » plus longtemps sans retour sur investissement — et parce que vos clients pourraient vous quitter.
+Plutôt qu’un indicateur du retour sur investissement que vous pouvez espérer de la part de vos clients acquis (ROI qui dépend fortement de votre [churn]({{ 'indicateurs/churn' | relative_url }})), le CAC Payback Period est une mesure de risque. Il vous montre le niveau de risque que vous prenez en engageant un montant donné de coût d’acquisition. Plus votre CPP s’allonge, plus votre risque financier augmente, parce que vous devez « tenir » plus longtemps sans retour sur investissement — et parce que vos clients pourraient vous quitter.
 
-Un CAC Payback Period élevé vous indique aussi que vous aurez besoin de beaucoup de capital pour croître — puisque le revenu généré par vos clients ne sera pas suffisant pour compenser vos coûts.
+Un CAC Payback Period élevé vous indique aussi que vous aurez besoin de beaucoup de capital pour croître — puisque le revenu généré par vos clients ne sera pas suffisant pour compenser vos coûts.

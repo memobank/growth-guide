@@ -68,10 +68,10 @@ Aussi appelé franchise de remboursement, le différé de remboursement correspo
 
 Durant cette première phase de répit, deux formules sont possibles :
 
-1. **Différé total** : vous ne payez que l’assurance emprunteur pendant la durée du différé. Vous ne remboursez ni capital, ni intérêts durant cette période. C’est la formule la moins coûteuse au début, mais elle se paye sous la forme d’intérêts plus élevés par la suite, car les intérêts que vous ne payez pas durant la durée du différé s’ajoutent alors au capital, ce qui augmente la taille du gâteau sur lequel vous payez des intérêts — d’où les intérêts plus élevés à l’arrivée.
+1. **Différé total** : vous ne payez que l’assurance emprunteur pendant la durée du différé. Vous ne remboursez ni capital, ni intérêts durant cette période. C’est la formule la moins coûteuse au début, mais elle se paye sous la forme d’intérêts plus élevés par la suite, car les intérêts que vous ne payez pas durant la durée du différé s’ajoutent alors au capital, ce qui augmente la taille du gâteau sur lequel vous payez des intérêts — d’où les intérêts plus élevés à l’arrivée.
 2. **Différé partiel** : vous payez l’assurance emprunteur et les intérêts du prêt, mais pas le capital. Bien que plus chère durant la durée du différé, cette formule s’avère moins chère sur toute la durée du prêt, car vous commencez à payer vos intérêts dès le début du crédit.
 
-Et si vous commencez à rembourser votre crédit de suite, sans différé de remboursement, votre taux d’intérêt sera bien sûr inférieur à ce qu’il serait dans le cadre d’un prêt avec différé, car le risque est moindre pour la banque — qui touche alors des remboursements dès le début de votre prêt.
+Et si vous commencez à rembourser votre crédit de suite, sans différé de remboursement, votre taux d’intérêt sera bien sûr inférieur à ce qu’il serait dans le cadre d’un prêt avec différé, car le risque est moindre pour la banque — qui touche alors des remboursements dès le début de votre prêt.
 
 ### Garanties demandées
 

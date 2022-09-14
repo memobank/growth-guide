@@ -16,8 +16,8 @@ Il existe plusieurs centaines de fonds de capital-risque en France. Certains son
 
 Bien que les fonds de capital-risque semblent similaires aux [business angels]({{ 'financements/business-angels' | relative_url }}) sur le papier, deux caractéristiques permettent de les distinguer :
 
-1. **La provenance des fonds**. — Les fonds de capital-risque financent des entreprises avec les sommes qu’ils collectent auprès de leur _limited partners_ (LPs), des investisseurs privés qui placent une partie de leur épargne dans des fonds de capital-risque. De leur côté, les [business angels]({{ 'financements/business-angels' | relative_url }}) investissent leur propre argent. Dans la pratique, il arrive que des entrepreneurs à succès capitalisent sur leur réseau pour créer leur propre fonds de capital-risque, ce qui les situe à mi-chemin entre les fonds traditionnels et les [business angels]({{ 'financements/business-angels' | relative_url }}) qui agissent pour leur seul compte.
-2. **Les cycles d’investissement**. — Les fonds de capital-risque peuvent injecter de l’argent dans une entreprise à plusieurs reprises, lors de plusieurs « tours » d’investissement, espacés de quelques années à chaque fois. Plus le temps va passer, plus l’entreprise financée va grandir, et plus les fonds de capital-risque y injecteront des sommes conséquentes dans l’espoir d’en faire un acteur incontournable — et de réaliser une plus-value à la revente de leurs parts. Ce cycle dure 5 à 7 ans au total. De leur côté les [business angels]({{ 'financements/business-angels' | relative_url }}) n’investissent qu’une seule fois dans une entreprise, au tout début de l’aventure, et souvent pour des durées plus courtes (3 à 5 ans).
+1. **La provenance des fonds**. — Les fonds de capital-risque financent des entreprises avec les sommes qu’ils collectent auprès de leur _limited partners_ (LPs), des investisseurs privés qui placent une partie de leur épargne dans des fonds de capital-risque. De leur côté, les [business angels]({{ 'financements/business-angels' | relative_url }}) investissent leur propre argent. Dans la pratique, il arrive que des entrepreneurs à succès capitalisent sur leur réseau pour créer leur propre fonds de capital-risque, ce qui les situe à mi-chemin entre les fonds traditionnels et les [business angels]({{ 'financements/business-angels' | relative_url }}) qui agissent pour leur seul compte.
+2. **Les cycles d’investissement**. — Les fonds de capital-risque peuvent injecter de l’argent dans une entreprise à plusieurs reprises, lors de plusieurs « tours » d’investissement, espacés de quelques années à chaque fois. Plus le temps va passer, plus l’entreprise financée va grandir, et plus les fonds de capital-risque y injecteront des sommes conséquentes dans l’espoir d’en faire un acteur incontournable — et de réaliser une plus-value à la revente de leurs parts. Ce cycle dure 5 à 7 ans au total. De leur côté les [business angels]({{ 'financements/business-angels' | relative_url }}) n’investissent qu’une seule fois dans une entreprise, au tout début de l’aventure, et souvent pour des durées plus courtes (3 à 5 ans).
 
 Bien que distincts sur le papier, [business angels]({{ 'financements/business-angels' | relative_url }}) et fonds de capital-risque se complètent en réalité. Par exemple, un premier investissement réalisé par des [business angels]({{ 'financements/business-angels' | relative_url }}) est souvent suivi d’un _seed round_ (une première levée) menée par un fonds de capital-risque. Les deux milieux sont poreux.
 
@@ -72,7 +72,7 @@ Admettons que vous fixiez la valorisation de votre entreprise à 10 millions d�
 
 #### Les questions à vous poser
 
-Une valorisation très élevée n’est pas une garantie de succès. Avant de lever des fonds avec sur la base d’une valorisation conséquente, demandez-vous si vous avez des chances de dépasser la valorisation en question dans les 6 à 12 mois qui suivent. Si vous avez des doutes, mieux vaut lever sur la base d’une valorisation plus modeste, que vous avez plus de chances de réellement atteindre à terme. Demandez-vous aussi si des acheteurs accepteraient de payer plus cher que votre valorisation actuelle pour racheter votre entreprise. Si la réponse est non, alors vous devriez peut-être envisager une introduction en bourse — en espérant qu’elle se fasse à un prix supérieur à votre dernière valorisation en date.
+Une valorisation très élevée n’est pas une garantie de succès. Avant de lever des fonds avec sur la base d’une valorisation conséquente, demandez-vous si vous avez des chances de dépasser la valorisation en question dans les 6 à 12 mois qui suivent. Si vous avez des doutes, mieux vaut lever sur la base d’une valorisation plus modeste, que vous avez plus de chances de réellement atteindre à terme. Demandez-vous aussi si des acheteurs accepteraient de payer plus cher que votre valorisation actuelle pour racheter votre entreprise. Si la réponse est non, alors vous devriez peut-être envisager une introduction en bourse — en espérant qu’elle se fasse à un prix supérieur à votre dernière valorisation en date.
 
 ### Montant envisageable
 
@@ -95,7 +95,7 @@ Et si vous vous demandez comment hiérarchiser vos rendez-vous avec des fonds de
 
 ### Durée de l’investissement
 
-Les fonds de capital-risque cherchent généralement à revendre leur participation au bout de 5 à 10 ans — en faisant une plus-value au passage, idéalement. Il peut arriver que des fonds conservent leur participation pendant plus de 10 ans, pour aider une entreprise à devenir un acteur incontournable sur son marché par exemple.
+Les fonds de capital-risque cherchent généralement à revendre leur participation au bout de 5 à 10 ans — en faisant une plus-value au passage, idéalement. Il peut arriver que des fonds conservent leur participation pendant plus de 10 ans, pour aider une entreprise à devenir un acteur incontournable sur son marché par exemple.
 
 Pour « sortir », c’est-à-dire pour revendre leur participation, les fonds attendent généralement l’un des trois évènements suivants :
 
@@ -111,9 +111,9 @@ Si vous vous mettez d’accord avec un ou plusieurs fonds, vous signez une _term
 
 Voici des exemples de questions qui pourraient vous être posées par des _fonds de capital-risque_ lorsque vous leur présentez votre projet.
 
-- **Questions sur votre équipe**. — Qui compose votre équipe ? Quelles sont les expertises dont votre équipe dispose ? Avez-vous déjà travaillé avec les membres de votre équipe ? Pourquoi votre équipe est-elle la bonne équipe pour ce projet ?
-- **Questions sur votre marché**. — Qui sont vos clients ? Comment en attirez-vous de nouveau ? Comment retenez-vous vos clients actuels ?Quelle est la taille de votre marché potentiel ? Que valent vos concurrents ?
-- **Questions sur votre produit**. — En quoi votre produit est-il différent ? Quel problème votre produit permet-il de résoudre ? Qu’est-ce qui empêche vos concurrents de vous copier ? Comment comptez-vous rester dans la course ?
+- **Questions sur votre équipe**. — Qui compose votre équipe ? Quelles sont les expertises dont votre équipe dispose ? Avez-vous déjà travaillé avec les membres de votre équipe ? Pourquoi votre équipe est-elle la bonne équipe pour ce projet ?
+- **Questions sur votre marché**. — Qui sont vos clients ? Comment en attirez-vous de nouveau ? Comment retenez-vous vos clients actuels ?Quelle est la taille de votre marché potentiel ? Que valent vos concurrents ?
+- **Questions sur votre produit**. — En quoi votre produit est-il différent ? Quel problème votre produit permet-il de résoudre ? Qu’est-ce qui empêche vos concurrents de vous copier ? Comment comptez-vous rester dans la course ?
 
 ## Pour aller plus loin
 

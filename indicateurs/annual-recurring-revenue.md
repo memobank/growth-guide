@@ -8,7 +8,7 @@ parent: Indicateurs
 
 # L’ARR (ou revenu annuel récurrent)
 
-ARR est l’acronyme de _Annual Recurring Revenue_, ou « revenu annuel récurrent » en français — certaines sources parlent d’_Annual Run Rate_.Si vous dirigez une entreprise SaaS, l’ARR correspond à la somme des revenus récurrents que votre entreprise peut espérer percevoir au cours des douze prochains mois — c’est-à-dire principalement à la somme des abonnements de vos clients. Selon ce que vous vendez, il est possible que votre ARR inclue d’autres revenus récurrents, en plus des abonnements de vos clients.
+ARR est l’acronyme de _Annual Recurring Revenue_, ou « revenu annuel récurrent » en français — certaines sources parlent d’_Annual Run Rate_.Si vous dirigez une entreprise SaaS, l’ARR correspond à la somme des revenus récurrents que votre entreprise peut espérer percevoir au cours des douze prochains mois — c’est-à-dire principalement à la somme des abonnements de vos clients. Selon ce que vous vendez, il est possible que votre ARR inclue d’autres revenus récurrents, en plus des abonnements de vos clients.
 
 Contrairement au chiffre d’affaires annuel, qui se mesure à l’aune des revenus passés, perçus au cours de l’année écoulée, l’ARR est un indicateur tourné vers l’avenir. Le caractère récurrent et prévisible des abonnements perçus par les entreprises SaaS leur permettent d’anticiper leurs revenus futurs. L’ARR est donc une anticipation des revenus de l’année à venir — non pas de l’année calendaire, mais des douze mois suivant le moment où l’ARR est calculé.
 
@@ -18,7 +18,7 @@ L’ARR peut se calculer de deux manières : comme un multiple du [MRR]({{ 'ind
 
 La manière dont vous calculerez votre ARR dépendra de la manière dont vous percevez vos revenus récurrents :
 
-- Si vous percevez vos revenus récurrents sur une base mensuelle (vos clients paient leurs abonnements en ligne au mois), calculez d’abord votre [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}), et multipliez-le par 12. Pour la plupart des entreprises, le [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}) sera dans ce cas l’indicateur le plus pertinent — cf. ci-dessous.
+- Si vous percevez vos revenus récurrents sur une base mensuelle (vos clients paient leurs abonnements en ligne au mois), calculez d’abord votre [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}), et multipliez-le par 12. Pour la plupart des entreprises, le [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}) sera dans ce cas l’indicateur le plus pertinent — cf. ci-dessous.
 - Si vous percevez vos revenus récurrents sur une base annuelle ou pluriannuelle (vos clients paient leurs abonnements en ligne avec une ou plusieurs années d’avance), calculez directement votre ARR en additionnant et en annualisant vos revenus récurrents.
 
 ### Calcul de l’ARR si vos clients vous paient au mois (MRR \* 12)
@@ -51,7 +51,7 @@ ARR = MRR \* 12 = 7 500 € \* 12 = 90 000 €
 
 ### Calcul de l’ARR si vos clients paient à l’année
 
-Si vos clients paient plutôt leurs abonnements à vos services en ligne à l’année, calculez directement votre ARR en additionnant vos revenus récurrents — de la même manière que vous calculeriez votre [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}) si vos clients payaient au mois.
+Si vos clients paient plutôt leurs abonnements à vos services en ligne à l’année, calculez directement votre ARR en additionnant vos revenus récurrents — de la même manière que vous calculeriez votre [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}) si vos clients payaient au mois.
 
 Pensez bien à annualiser l’ensemble de vos contrats : si certains de vos clients ont des contrats pluriannuels, n’incluez dans le calcul de votre ARR que la valeur d’une année de contrat. De même, si certains de vos clients paient au mois, multipliez par 12 la valeur de leurs abonnements.
 
@@ -71,7 +71,7 @@ ARR = 5 \* 600 € + 5 \* 1 200 € + (5 \* 3 000 €) / 3 = 14 000 €
 
 ### Le MRR convient aux abonnements mensuels
 
-Si vos clients paient au mois, et peuvent résilier leur contrat à l’issue d’un délai d’un mois ou moins, le [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}) est sans doute l’indicateur le plus approprié pour votre entreprise. Le [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}) d’une entreprise innovante, notamment dans ses premières années, varie fortement d’un mois à l’autre — ce qui fera varier l’ARR encore plus fortement. Le [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}) est un bon indicateur des prochains mois, mais est trop volatile pour vous indiquer de façon fiable le montant de revenu récurrent que vous avez sécurisé pour les 12 prochains mois, voire les prochaines années — ce qui est le rôle de l’ARR.
+Si vos clients paient au mois, et peuvent résilier leur contrat à l’issue d’un délai d’un mois ou moins, le [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}) est sans doute l’indicateur le plus approprié pour votre entreprise. Le [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}) d’une entreprise innovante, notamment dans ses premières années, varie fortement d’un mois à l’autre — ce qui fera varier l’ARR encore plus fortement. Le [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}) est un bon indicateur des prochains mois, mais est trop volatile pour vous indiquer de façon fiable le montant de revenu récurrent que vous avez sécurisé pour les 12 prochains mois, voire les prochaines années — ce qui est le rôle de l’ARR.
 
 L’ARR peut néanmoins être un indicateur important pour valoriser votre entreprise. Les investisseurs analysent les entreprises SaaS en multipliant leur ARR (en général par 10), et en comparant la valorisation obtenue avec d’autres entreprises SaaS.
 

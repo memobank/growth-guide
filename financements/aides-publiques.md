@@ -10,7 +10,7 @@ parent: Financements
 
 Pour compléter votre apport personnel, vous pouvez demander un prêt d’honneur ou un prêt à taux zéro.
 
-- Les **prêts d’honneur** sont des prêts sans garantie ni intérêts, que vous vous engagez à rembourser sur votre seul honneur — d’où leur nom.
+- Les **prêts d’honneur** sont des prêts sans garantie ni intérêts, que vous vous engagez à rembourser sur votre seul honneur — d’où leur nom.
 - Les **prêts à taux zéro**, sont des prêts sans intérêts qui peuvent être accordés par des banques, en complément de prêts traditionnels plus contraignants.
 
 ## Avantages
@@ -29,7 +29,7 @@ Les caractéristiques des aides publiques varient grandement d’une aide à une
 
 ### Montant du financement
 
-Les prêts d’honneur et prêts à taux zéro dépassent rarement les 50 000 €, mais vous pouvez les cumuler pour aller au-delà de ce montant. De leur côté, les dispositifs fiscaux incitatifs peuvent vous permettre de déduire jusqu’à 30 % de vos dépenses annuelles, pour ne payer des impôts que sur 70 % de vos dépenses — ce qui revient à vous accorder un financement sous la forme de fonds qui ne vous sont pas ponctionnés.
+Les prêts d’honneur et prêts à taux zéro dépassent rarement les 50 000 €, mais vous pouvez les cumuler pour aller au-delà de ce montant. De leur côté, les dispositifs fiscaux incitatifs peuvent vous permettre de déduire jusqu’à 30 % de vos dépenses annuelles, pour ne payer des impôts que sur 70 % de vos dépenses — ce qui revient à vous accorder un financement sous la forme de fonds qui ne vous sont pas ponctionnés.
 
 ### Contreparties
 

@@ -14,7 +14,7 @@ Si vous aimez la compétition, les prises de parole en public, et les petits-fou
 
 ## Avantages
 
-Les récompenses offertes dans le cadre de concours ne nécessitent pas de contre-partie de votre part — aucune dilution à prévoir par exemple. En plus du chèque que vous pouvez y remporter, les concours sont un bon moyen de rencontrer des investisseurs et de faire parler de votre entreprise. Ces évènements peuvent aussi déboucher sur des recrutements, car certains concours sont organisés en marge d’évènement plus larges, qui brassent un public varié venu assister à des conférences ou des démonstrations. D’après Tom Blomfield, le CEO de la fintech Monzo, chaque participation de sa part à un évènement débouchait sur un [afflux de candidatures](https://tomblomfield.com/post/691384431502557184/monzo-growth) dans les jours qui suivaient.
+Les récompenses offertes dans le cadre de concours ne nécessitent pas de contre-partie de votre part — aucune dilution à prévoir par exemple. En plus du chèque que vous pouvez y remporter, les concours sont un bon moyen de rencontrer des investisseurs et de faire parler de votre entreprise. Ces évènements peuvent aussi déboucher sur des recrutements, car certains concours sont organisés en marge d’évènement plus larges, qui brassent un public varié venu assister à des conférences ou des démonstrations. D’après Tom Blomfield, le CEO de la fintech Monzo, chaque participation de sa part à un évènement débouchait sur un [afflux de candidatures](https://tomblomfield.com/post/691384431502557184/monzo-growth) dans les jours qui suivaient.
 
 ## Inconvénients
 

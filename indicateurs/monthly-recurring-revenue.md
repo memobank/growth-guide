@@ -48,7 +48,7 @@ Devriez-vous plutôt utiliser le MRR, qui calcule vos revenus récurrents sur un
 
 ### Le MRR est idéal pour les abonnements mensuels
 
-Si vos clients paient au mois, et peuvent résilier leur contrat à l’issue d’un délai d’un mois ou moins, le MRR est sans doute l’indicateur le plus approprié pour votre entreprise. Le MRR d’une entreprise innovante, notamment dans ses premières années, varie fortement d’un mois à l’autre — ce qui fera varier l’ARR encore plus fortement. Le MRR est un bon indicateur des prochains mois, mais est trop volatile pour vous indiquer de façon fiable le montant de revenu récurrent que vous avez sécurisé pour les 12 prochains mois, voire les prochaines années — ce qui est le rôle de l’ARR.
+Si vos clients paient au mois, et peuvent résilier leur contrat à l’issue d’un délai d’un mois ou moins, le MRR est sans doute l’indicateur le plus approprié pour votre entreprise. Le MRR d’une entreprise innovante, notamment dans ses premières années, varie fortement d’un mois à l’autre — ce qui fera varier l’ARR encore plus fortement. Le MRR est un bon indicateur des prochains mois, mais est trop volatile pour vous indiquer de façon fiable le montant de revenu récurrent que vous avez sécurisé pour les 12 prochains mois, voire les prochaines années — ce qui est le rôle de l’ARR.
 
 L’ARR peut néanmoins être un indicateur important pour valoriser votre entreprise. Les investisseurs analysent les entreprises SaaS en multipliant leur [ARR]({{ 'indicateurs/annual-recurring-revenue' | relative_url }}), et en comparant la valorisation obtenue avec d’autres entreprises SaaS.
 
@@ -85,7 +85,7 @@ Votre Nouveau MRR est donc : Nouveau MRR : 5 \* 50 € + 5 \* 100 € : 750
 
 #### Intérêt du nouveau MRR
 
-Suivre votre Nouveau MRR de mois en mois vous permet de mieux comprendre l’évolution de votre MRR global — et d’adapter votre stratégie en conséquence.
+Suivre votre Nouveau MRR de mois en mois vous permet de mieux comprendre l’évolution de votre MRR global — et d’adapter votre stratégie en conséquence.
 
 D’un mois à l’autre, votre MRR peut croître pour différentes raisons : vous avez conquis de nouveaux clients, vos clients existants sont passés à des formules d’abonnement supérieures, vous avez sorti une nouvelle fonctionnalité payante qui a eu du succès… Le Nouveau MRR et l’_Expansion MRR_ (cf. ci-dessous) vous aident à comprendre d’où provient la croissance de votre revenu récurrent.
 
@@ -124,7 +124,7 @@ Vous pouvez même, pour affiner votre analyse, diviser l’_Expansion MRR_ en de
 
 Contraction MRR
 
-Le _Contraction MRR_ est le pendant de l’Expansion MRR : il mesure la perte de revenu récurrent causée par le passage de vos clients à des formules d’abonnement inférieures — et par la résiliation par vos clients d’options payantes. Le Contraction MRR ne s’intéresse donc pas à la perte de revenu récurrent causée par la perte de clients — celle-ci est calculée dans le _Churn MRR_ (cf. ci-dessous).
+Le _Contraction MRR_ est le pendant de l’Expansion MRR : il mesure la perte de revenu récurrent causée par le passage de vos clients à des formules d’abonnement inférieures — et par la résiliation par vos clients d’options payantes. Le Contraction MRR ne s’intéresse donc pas à la perte de revenu récurrent causée par la perte de clients — celle-ci est calculée dans le _Churn MRR_ (cf. ci-dessous).
 
 Le Contraction MRR inclut donc, au cours d’un mois donné, les éléments suivants :
 
@@ -166,7 +166,7 @@ Le _Churn MRR_ vous permet de suivre chaque mois les conséquences de la perte d
 
 Reprenons notre exemple précédent : vous avez 100 clients au mois de février. Vous perdez sur le mois suivant 10 clients : votre _churn_ est donc de 10 / (50 + 50) \* 100 = 10 %.
 
-Toutefois, votre perte de revenu sera très différentes en fonction du type de clients que vous avez perdus — alors que le _churn_ restera le même.
+Toutefois, votre perte de revenu sera très différentes en fonction du type de clients que vous avez perdus — alors que le _churn_ restera le même.
 
 Vous avez perdu 10 clients Simple et 0 client Premium :
 
