@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Fonds de capital-risque
+decription: Les fonds de capital-risque (VC) proposent des financements dilutifs.
 image: /assets/images/cards/card-financements-fonds-capital-risque.png
 parent: Financements
 ---

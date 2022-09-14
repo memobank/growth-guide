@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Gage-espèces
+description: Définition du gage-espèces, un type de garantie bancaire.
 image: /assets/images/cards/card-garanties-gage-especes.png
 parent: Garanties
 ---

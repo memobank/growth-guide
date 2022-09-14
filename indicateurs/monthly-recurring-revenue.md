@@ -1,6 +1,7 @@
 ---
 layout: default
 title: MRR
+description: Découvrez comment calculer votre revenu mensuel récurrent.
 image: /assets/images/cards/card-indicateurs-monthly-recurring-revenue.png
 parent: Indicateurs
 ---

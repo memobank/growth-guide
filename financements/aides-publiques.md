@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Aides publiques
+description: Les aides publiques sont un type de financement non-dilutif.
 image: /assets/images/cards/card-financements-aides-publiques.png
 parent: Financements
 ---

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Financements
+description: Découvrez les financements les plus courants pour les PME.
 image: /assets/images/cards/card-financements-index.png
 nav_order: 2
 has_children: true

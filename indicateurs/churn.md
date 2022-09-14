@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Churn
+description: Découvrez comment calculer votre taux d’attrition (churn).
 image: /assets/images/cards/card-indicateurs-churn.png
 parent: Indicateurs
 ---

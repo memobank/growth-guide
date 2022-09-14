@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Famille et amis
+decription: La famille et les amis peuvent être une source de financement.
 image: /assets/images/cards/card-financements-famille-amis.png
 parent: Financements
 ---

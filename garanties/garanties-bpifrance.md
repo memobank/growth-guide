@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Garanties Bpifrance
+description: Définition des garanties Bpifrance, les contre-garanties de la BPI.
 image: /assets/images/cards/card-garanties-garanties-bpifrance.png
 parent: Garanties
 ---

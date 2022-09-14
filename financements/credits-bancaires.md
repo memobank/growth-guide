@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Crédits bancaires
+description: Les crédits bancaires sont un type de financement non-dilutif.
 image: /assets/images/cards/card-financements-credits-bancaires.png
 parent: Financements
 ---
