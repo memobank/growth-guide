@@ -41,14 +41,14 @@ Pour prétendre à la garantie FEI, votre entreprise doit :
 
 ## La garantie FEI chez Memo Bank
 
-Memo Bank propose des crédits assortis d’une garantie FEI. Nous les octroyons notamment dans le cadre du [Rocket Pack](https://memo.bank/rocket-pack), notre offre destinée aux entreprises technologiques en forte croissance. Si votre entreprise a levé des fonds au cours des 12 derniers mois, vous pourriez bénéficier grâce au Rocket Pack de financements qui s’élèvent jusqu’à 25 % du montant de votre dernière levée de fonds (pour un montant maximum de 3 millions d’euros).
+Memo Bank propose des crédits assortis d’une garantie FEI. Nous les octroyons notamment dans le cadre du [Rocket Pack](https://memo.bank/rocket-pack), notre offre destinée aux entreprises technologiques en forte croissance. Si votre entreprise a levé des fonds au cours des 12 derniers mois, vous pourriez bénéficier grâce au [Rocket Pack](https://memo.bank/rocket-pack) de financements qui s’élèvent jusqu’à 25 % du montant de votre dernière levée de fonds (pour un montant maximum de 3 millions d’euros).
 
-Les financements que nous accordons dans le cadre du Rocket Pack sont divisés en deux prêts :
+Les financements que nous accordons dans le cadre du [Rocket Pack](https://memo.bank/rocket-pack) sont divisés en deux prêts :
 
 - un prêt garanti par le FEI, pour 80 % du montant total financé ;
 - un prêt garanti à 50 % en gage-espèces, pour 20 % du montant total financé.
 
-Par exemple, si votre entreprise lève 5 millions d’euros auprès d’investisseurs, nous pourrons vous prêter jusqu’à 1,25 million d’euros (25 % de 5 millions). Ce financement de 1,25 millions d’euros sera divisé en deux : un prêt avec une garantie FEI de 1 million d’euros (80 % de 1,25 million), et un prêt de 250 000 euros (20 % de 1,25 million), garanti à 50 % en [gage-espèces](https://memo.bank/gage-especes).
+Par exemple, si votre entreprise lève 5 millions d’euros auprès d’investisseurs, nous pourrons vous prêter jusqu’à 1,25 million d’euros (25 % de 5 millions). Ce financement de 1,25 millions d’euros sera divisé en deux : un prêt avec une garantie FEI de 1 million d’euros (80 % de 1,25 million), et un prêt de 250 000 € (20 % de 1,25 million), garanti à 50 % en [gage-espèces](https://memo.bank/gage-especes).
 
 ## Pour aller plus loin
 

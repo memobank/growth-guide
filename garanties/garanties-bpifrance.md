@@ -46,7 +46,7 @@ Si vous souhaitez bénéficier d’une garantie Bpifrance pour faciliter votre p
 
 2. Contacter le [bureau de Bpifrance de votre région](https://www.bpifrance.fr/contactez-nous).
 
-Sachez que pour des crédits inférieurs à 100 000 euros, les banques bénéficient d’une délégation de Bpifrance. Cela signifie que c’est la banque elle-même qui détermine si vous êtes éligible à une garantie de Bpifrance, en fonction des critères d’éligibilité établis par Bpifrance.
+Sachez que pour des crédits inférieurs à 100 000 €, les banques bénéficient d’une délégation de Bpifrance. Cela signifie que c’est la banque elle-même qui détermine si vous êtes éligible à une garantie de Bpifrance, en fonction des critères d’éligibilité établis par Bpifrance.
 
 ## Pour aller plus loin
 
