@@ -79,15 +79,15 @@ Sur le mois de mars, vous avez conquis 12 nouveaux clients. Votre CAC est donc �
 
 Il n’y a pas de « bonne » valeur de CAC : tout dépend de ce que vous rapportent vos clients — et du temps que vos clients mettent à générer ce revenu. C’est en comparant votre CAC à d’autres indicateurs que vous pouvez juger si vos dépenses marketing et commerciales sont correctement calibrées.
 
-### Ratio LTV / CAC)
+### Ratio LTV / CAC
 
-Le ratio LTV / CAC (auquel nous avons consacré un article) compare les dépenses marketing et commerciales que vous engagez pour conquérir un client, à ce que ce client vous rapportera tout au long de sa vie.
+Le [ratio LTV / CAC]({{ 'indicateurs/ratio-ltv-cac' | relative_url }}) compare les dépenses marketing et commerciales que vous engagez pour conquérir un client, à ce que ce client vous rapportera tout au long de sa vie.
 
-Si votre CAC est supérieur à votre LTV, vous avez un gros problème : chaque fois que vous dépensez de l’argent pour acquérir un client, le revenu que ce client générera ne compensera jamais votre investissement initial. Chaque nouveau client vous fait perdre de l’argent.
+Si votre [CAC]({{ 'indicateurs/cout-acquisition-client' | relative_url }}) est supérieur à votre [LTV]({{ 'indicateurs/customer-lifetime-value' | relative_url }}), vous avez un gros problème : chaque fois que vous dépensez de l’argent pour acquérir un client, le revenu que ce client générera ne compensera jamais votre investissement initial. Chaque nouveau client vous fait perdre de l’argent.
 
-Mais vous n’avez pas un problème que dans le cas où votre CAC est supérieur à votre LTV. Vous avez également un problème si votre CAC n’est pas _assez_ inférieur à votre LTV. En effet, pour que votre entreprise soit rentable, les revenus de vos clients ne doivent pas seulement compenser votre CAC, ils doivent aussi compenser les autres coûts d’exploitation de votre entreprise : salaires des autres équipes, coûts liés au _cloud_, loyer… Dans l’industrie du SaaS, la règle générale est que le ratio LTV / CAC doit être supérieur à 3.
+Mais vous n’avez pas un problème que dans le cas où votre CAC est supérieur à votre LTV. Vous avez également un problème si votre CAC n’est pas _assez_ inférieur à votre LTV. En effet, pour que votre entreprise soit rentable, les revenus de vos clients ne doivent pas seulement compenser votre CAC, ils doivent aussi compenser les autres coûts d’exploitation de votre entreprise : salaires des autres équipes, coûts liés au _cloud_, loyer… Dans l’industrie du SaaS, la règle générale est que le [ratio LTV / CAC]({{ 'indicateurs/ratio-ltv-cac' | relative_url }}) doit être supérieur à 3.
 
-Ce ratio est donc un très bon indicateur de la profitabilité de votre entreprise, et de la pertinence de votre stratégie d’acquisition — il est d’ailleurs l’un des principaux indicateurs regardés par les investisseurs dans les entreprises innovantes. Vous devriez calculer régulièrement le ratio LTV / CAC, au moins chaque mois ou chaque trimestre, et chercher à optimiser votre stratégie d’acquisition, vos revenus, votre churn, afin de maintenir ce ratio le plus haut possible.
+Ce ratio est donc un très bon indicateur de la profitabilité de votre entreprise, et de la pertinence de votre stratégie d’acquisition — il est d’ailleurs l’un des principaux indicateurs regardés par les investisseurs dans les entreprises innovantes. Vous devriez calculer régulièrement le [ratio LTV / CAC]({{ 'indicateurs/ratio-ltv-cac' | relative_url }}), au moins chaque mois ou chaque trimestre, et chercher à optimiser votre stratégie d’acquisition, vos revenus, votre [churn]({{ 'indicateurs/churn' | relative_url }}), afin de maintenir ce ratio le plus haut possible.
 
 ### Le CAC Payback Period
 
@@ -103,7 +103,7 @@ Le revenu moyen par utilisateur est un indicateur désigné sous le nom de ARPU,
 
 #### Exemple de calcul
 
-Vous êtes une entreprise SaaS dont le coût d’acquisition mensuel par client est de 10 000 €. Vous avez 100 clients, qui vous rapportent chaque mois un revenu mensuel récurrent (MRR) de 70 000 €. Votre revenu moyen par utilisateur (ici votre MRR par client), est donc : ARPU = 70 000 € / 100 = 700 €.
+Vous êtes une entreprise SaaS dont le coût d’acquisition mensuel par client est de 10 000 €. Vous avez 100 clients, qui vous rapportent chaque mois un [revenu mensuel récurrent]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}) (MRR) de 70 000 €. Votre revenu moyen par utilisateur (ici votre MRR par client), est donc : ARPU = 70 000 € / 100 = 700 €.
 
 Votre CAC Payback Period est donc :
 
@@ -133,7 +133,7 @@ Ce résultat signifie que la marge qu’il vous reste effectivement après avoir
 
 ### Le CAC Payback Period est un indicateur de risque
 
-Vous devez considérer le CPP comme une mesure de risque, et non comme une mesure de profitabilité. Le nombre de mois que vous obtenez comme résultat de votre CPP ne signifie pas qu’au bout de tel nombre de mois, vous aurez _forcément_ obtenu un retour sur investissement. Pourquoi ? Parce que le CPP ne prend pas en compte le churn de votre entreprise. Le CPP mesure le temps que mettent en moyenne vos clients à vous rembourser — mais encore faut-il qu’ils soient encore vos clients à la fin de la période déterminée par le CPP.
+Vous devez considérer le CPP comme une mesure de risque, et non comme une mesure de profitabilité. Le nombre de mois que vous obtenez comme résultat de votre CPP ne signifie pas qu’au bout de tel nombre de mois, vous aurez _forcément_ obtenu un retour sur investissement. Pourquoi ? Parce que le CPP ne prend pas en compte le [churn]({{ 'indicateurs/churn' | relative_url }}) de votre entreprise. Le CPP mesure le temps que mettent en moyenne vos clients à vous rembourser — mais encore faut-il qu’ils soient encore vos clients à la fin de la période déterminée par le CPP.
 
 Imaginons que vous êtes une entreprise SaaS, et que vous souhaitez calculer votre CAC Payback Period. Vous avez acquis 10 clients lors du mois de mars, qui paient chacun un abonnement mensuel de 700 €. Votre coût d’acquisition est de 10 000 €.
 
@@ -143,12 +143,12 @@ Votre CAC Payback Period est :
 
 Au bout de 14,3 mois, en théorie, le revenu moyen généré par l’un de vos clients acquis au mois de mars compensera le coût d’acquisition que vous avez payé pour acquérir ce client.
 
-Supposons maintenant que votre churn mensuel soit égal à 5 %. Sur la cohorte de 10 clients que vous avez acquis lors du mois de mars, combien vous en reste-t-il au bout de 15 mois ?
+Supposons maintenant que votre [churn]({{ 'indicateurs/churn' | relative_url }}) mensuel soit égal à 5 %. Sur la cohorte de 10 clients que vous avez acquis lors du mois de mars, combien vous en reste-t-il au bout de 15 mois ?
 
 - Nombre de clients au bout de 15 mois = (Nombre de clients au 31 mars) \* (1 - Churn)^15 = 10 \* (1 - 5 %)^15 = 10 \* 0,49 = 4 clients
 
-Vous avez donc dépensé 100 000 € au mois de mars pour acquérir 10 clients. Au bout de 15 mois, ces 10 clients auraient pu vous générer 15 \* 700 \* 10 = 105 000 €, soit davantage que le coût que vous avez payé pour acquérir ces 10 clients. Sauf qu’en raison de votre churn de 5 %, vous n’avez plus au bout de 15 mois que 4 clients, qui vous rapportent 15 \* 700 \* 4 = 42 000 €.
+Vous avez donc dépensé 100 000 € au mois de mars pour acquérir 10 clients. Au bout de 15 mois, ces 10 clients auraient pu vous générer 15 \* 700 \* 10 = 105 000 €, soit davantage que le coût que vous avez payé pour acquérir ces 10 clients. Sauf qu’en raison de votre [churn]({{ 'indicateurs/churn' | relative_url }}) de 5 %, vous n’avez plus au bout de 15 mois que 4 clients, qui vous rapportent 15 \* 700 \* 4 = 42 000 €.
 
-Plutôt qu’un indicateur du retour sur investissement que vous pouvez espérer de la part de vos clients acquis (ROI qui dépend fortement de votre churn), le CAC Payback Period est une mesure de risque. Il vous montre le niveau de risque que vous prenez en engageant un montant donné de coût d’acquisition. Plus votre CPP s’allonge, plus votre risque financier augmente, parce que vous devez « tenir » plus longtemps sans retour sur investissement — et parce que vos clients pourraient vous quitter.
+Plutôt qu’un indicateur du retour sur investissement que vous pouvez espérer de la part de vos clients acquis (ROI qui dépend fortement de votre [churn]({{ 'indicateurs/churn' | relative_url }})), le CAC Payback Period est une mesure de risque. Il vous montre le niveau de risque que vous prenez en engageant un montant donné de coût d’acquisition. Plus votre CPP s’allonge, plus votre risque financier augmente, parce que vous devez « tenir » plus longtemps sans retour sur investissement — et parce que vos clients pourraient vous quitter.
 
 Un CAC Payback Period élevé vous indique aussi que vous aurez besoin de beaucoup de capital pour croître — puisque le revenu généré par vos clients ne sera pas suffisant pour compenser vos coûts.

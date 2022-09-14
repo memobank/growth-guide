@@ -50,7 +50,7 @@ Devriez-vous plutôt utiliser le MRR, qui calcule vos revenus récurrents sur un
 
 Si vos clients paient au mois, et peuvent résilier leur contrat à l’issue d’un délai d’un mois ou moins, le MRR est sans doute l’indicateur le plus approprié pour votre entreprise. Le MRR d’une entreprise innovante, notamment dans ses premières années, varie fortement d’un mois à l’autre — ce qui fera varier l’ARR encore plus fortement. Le MRR est un bon indicateur des prochains mois, mais est trop volatile pour vous indiquer de façon fiable le montant de revenu récurrent que vous avez sécurisé pour les 12 prochains mois, voire les prochaines années — ce qui est le rôle de l’ARR.
 
-L’ARR peut néanmoins être un indicateur important pour valoriser votre entreprise. Les investisseurs analysent les entreprises SaaS en multipliant leur ARR, et en comparant la valorisation obtenue avec d’autres entreprises SaaS.
+L’ARR peut néanmoins être un indicateur important pour valoriser votre entreprise. Les investisseurs analysent les entreprises SaaS en multipliant leur [ARR]({{ 'indicateurs/annual-recurring-revenue' | relative_url }}), et en comparant la valorisation obtenue avec d’autres entreprises SaaS.
 
 ### L’ARR est idéal pour les abonnements annuels
 
@@ -160,7 +160,7 @@ Votre _Churn MRR_ est donc :
 
 Churn MRR = 5 \* 50 € + 5 \* 100 € = 750 €.
 
-#### Intérêt du churn MRR
+#### Intérêt du Churn MRR
 
 Le _Churn MRR_ vous permet de suivre chaque mois les conséquences de la perte de clients sur votre revenu récurrent. Le _Churn MRR_ complète utilement le _churn_, ou taux d’attrition, qui se calcule comme le rapport entre vos clients partis et vos clients existants. Si vous possédez des formules d’abonnement, et des produits différents, le _churn_ ne vous permet pas de comprendre l’impact de cette perte de clients en matière de revenu récurrent.
 
