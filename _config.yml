@@ -31,8 +31,14 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://guide.memo.bank" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: memobank
 email: contact@memo.bank
-markdown: GFM
-highlighter: rouge
+
+# Conversion
+markdown: kramdown
+
+# Markdown Processors
+kramdown:
+  input: GFM
+  auto_ids: true
 
 # SEO
 ## Twitter metadata
@@ -75,6 +81,7 @@ remote_theme: just-the-docs/just-the-docs@v0.4.0.rc2
 plugins:
   - jekyll-github-metadata
   - jekyll-seo-tag
+  - kramdown
   - jekyll-sitemap
 
 # Exclude from processing.

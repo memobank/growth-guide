@@ -30,7 +30,7 @@ Les plateformes de _crowdlending_ conviennent aux entreprises qui :
 Les plateformes de _crowdlending_ ont l’avantage d’être :
 
 - **efficaces** : dans le cas de prêts participatifs, les meilleures plateformes peuvent débloquer vos fonds en quelques jours seulement ;
-- **accessibles** : elles permettent de financer des entreprises ou des dépenses que les banques rechignent à financer et elles n’exigent pas de caution personnelle ;
+- **accessibles** : elles permettent de financer des entreprises ou des dépenses que les banques rechignent à financer et elles n’exigent pas de [caution personnelle]({% link garanties/caution-personnelle.md %}) ;
 - **régulées** : en France, le financement participatif est encadré par la loi, vous bénéficiez donc d’un cadre légal établi ;
 - **visibles** : une campagne de _crowdlending_ réussie peut déboucher sur d’autres financements plus traditionnels.
 
@@ -69,7 +69,7 @@ Le délai d’octroi dépend principalement de la durée de la campagne de colle
 
 #### Cas des prêts participatifs
 
-Dans le cas d’un prêt participatif, la plateforme de _crowdlending_ ne vous demandera sans doute pas de caution personnelle du dirigeant, contrairement à ce que les banques font couramment. Comme vous empruntez en dehors du cadre bancaire, vous n’aurez pas non plus besoin de souscrire à tel ou tel produit bancaire pour faire plaisir à votre banquier.
+Dans le cas d’un prêt participatif, la plateforme de _crowdlending_ ne vous demandera sans doute pas de [caution personnelle du dirigeant]({% link garanties/caution-personnelle.md %}), contrairement à ce que les banques font couramment. Comme vous empruntez en dehors du cadre bancaire, vous n’aurez pas non plus besoin de souscrire à tel ou tel produit bancaire pour faire plaisir à votre banquier.
 
 Les contreparties que vous devrez honorer se limiteront :
 
@@ -79,7 +79,7 @@ Les contreparties que vous devrez honorer se limiteront :
 
 #### Cas de l’ouverture de capital
 
-Dans le cas d’une ouverture de capital aux particuliers, c’est vous qui fixez la part réservée aux particuliers. Les entreprises qui ont recours à ce financement attirent généralement une petite centaine de particuliers, qui misent environ 4 000 € chacun. À vous de voir si vous souhaitez verser des dividendes à vos futurs actionnaires ou non. Et libre à vous de fixer les conditions de cession des actions que vous proposez aux investisseurs particuliers — la plateforme que vous choisirez pourra sans doute vous aider à bien ficeler votre dossier.
+Dans le cas d’une ouverture de capital aux particuliers, c’est vous qui fixez la part réservée aux particuliers. Les entreprises qui ont recours à ce financement attirent généralement une petite centaine de particuliers, qui misent environ 4 000 € chacun. À vous de voir si vous souhaitez verser des dividendes à vos futurs actionnaires ou non. Et libre à vous de fixer les conditions de cession des actions que vous proposez aux investisseurs particuliers — la plateforme que vous choisirez pourra sans doute vous aider à bien ficeler votre dossier.
 
 ### Documents de référence
 
