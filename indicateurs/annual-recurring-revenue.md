@@ -21,7 +21,7 @@ La manière dont vous calculerez votre ARR dépendra de la manière dont vous pe
 - Si vous percevez vos revenus récurrents sur une base mensuelle (vos clients paient leurs abonnements en ligne au mois), calculez d’abord votre [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}), et multipliez-le par 12. Pour la plupart des entreprises, le [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}) sera dans ce cas l’indicateur le plus pertinent — cf. ci-dessous.
 - Si vous percevez vos revenus récurrents sur une base annuelle ou pluriannuelle (vos clients paient leurs abonnements en ligne avec une ou plusieurs années d’avance), calculez directement votre ARR en additionnant et en annualisant vos revenus récurrents.
 
-### Calcul de l’ARR si vos clients vous paient au mois (MRR x 12)
+### Calcul de l’ARR si vos clients vous paient au mois (MRR × 12)
 
 La formule générale du [MRR]({{ 'indicateurs/monthly-recurring-revenue' | relative_url }}) est :
 

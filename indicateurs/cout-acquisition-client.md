@@ -167,7 +167,7 @@ Nombre de clients au bout de 15 mois = (Nombre de clients au 31 mars) * (1 - Chu
 				     = 4 clients
 ```
 
-Vous avez donc dépensé 100 000 € au mois de mars pour acquérir 10 clients. Au bout de 15 mois, ces 10 clients auraient pu vous générer 15 x 700 x 10 = 105 000 €, soit davantage que le coût que vous avez payé pour acquérir ces 10 clients. Sauf qu’en raison de votre [churn]({{ 'indicateurs/churn' | relative_url }}) de 5 %, vous n’avez plus au bout de 15 mois que 4 clients, qui vous rapportent 15 x 700 x 4 = 42 000 €.
+Vous avez donc dépensé 100 000 € au mois de mars pour acquérir 10 clients. Au bout de 15 mois, ces 10 clients auraient pu vous générer 15 × 700 × 10 = 105 000 €, soit davantage que le coût que vous avez payé pour acquérir ces 10 clients. Sauf qu’en raison de votre [churn]({{ 'indicateurs/churn' | relative_url }}) de 5 %, vous n’avez plus au bout de 15 mois que 4 clients, qui vous rapportent 15 × 700 × 4 = 42 000 €.
 
 Plutôt qu’un indicateur du retour sur investissement que vous pouvez espérer de la part de vos clients acquis (ROI qui dépend fortement de votre [churn]({{ 'indicateurs/churn' | relative_url }})), le CAC Payback Period est une mesure de risque. Il vous montre le niveau de risque que vous prenez en engageant un montant donné de coût d’acquisition. Plus votre CPP s’allonge, plus votre risque financier augmente, parce que vous devez « tenir » plus longtemps sans retour sur investissement — et parce que vos clients pourraient vous quitter.
 

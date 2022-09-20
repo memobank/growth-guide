@@ -177,7 +177,7 @@ Churn MRR = 5 * 50 € + 5 * 100 € = 750 €
 
 Le Churn MRR vous permet de suivre chaque mois les conséquences de la perte de clients sur votre revenu récurrent. Le Churn MRR complète utilement le _churn_, ou taux d’attrition, qui se calcule comme le rapport entre vos clients partis et vos clients existants. Si vous possédez des formules d’abonnement, et des produits différents, le _churn_ ne vous permet pas de comprendre l’impact de cette perte de clients en matière de revenu récurrent.
 
-Reprenons notre exemple précédent : vous avez 100 clients au mois de février. Vous perdez sur le mois suivant 10 clients : votre _churn_ est donc de 10 / (50 + 50) x 100 = 10 %.
+Reprenons notre exemple précédent : vous avez 100 clients au mois de février. Vous perdez sur le mois suivant 10 clients : votre _churn_ est donc de 10 / (50 + 50) × 100 = 10 %.
 
 Toutefois, votre perte de revenu sera très différentes en fonction du type de clients que vous avez perdus — alors que le _churn_ restera le même.
 
