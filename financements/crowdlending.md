@@ -30,7 +30,7 @@ Les plateformes de _crowdlending_ conviennent aux entreprises qui :
 Les plateformes de _crowdlending_ ont l’avantage d’être :
 
 - **efficaces** : dans le cas de prêts participatifs, les meilleures plateformes peuvent débloquer vos fonds en quelques jours seulement ;
-- **accessibles** : elles permettent de financer des entreprises ou des dépenses que les banques rechignent à financer et elles n’exigent pas de [caution personnelle]({{ 'garanties/caution-personnelle' | relative_url }}) ;
+- **accessibles** : elles permettent de financer des entreprises ou des dépenses que les banques rechignent à financer et elles n’exigent pas de [caution personnelle]({% link garanties/caution-personnelle.md %}) ;
 - **régulées** : en France, le financement participatif est encadré par la loi, vous bénéficiez donc d’un cadre légal établi ;
 - **visibles** : une campagne de _crowdlending_ réussie peut déboucher sur d’autres financements plus traditionnels.
 
@@ -69,7 +69,7 @@ Le délai d’octroi dépend principalement de la durée de la campagne de colle
 
 #### Cas des prêts participatifs
 
-Dans le cas d’un prêt participatif, la plateforme de _crowdlending_ ne vous demandera sans doute pas de [caution personnelle du dirigeant]({{ 'garanties/caution-personnelle' | relative_url }}), contrairement à ce que les banques font couramment. Comme vous empruntez en dehors du cadre bancaire, vous n’aurez pas non plus besoin de souscrire à tel ou tel produit bancaire pour faire plaisir à votre banquier.
+Dans le cas d’un prêt participatif, la plateforme de _crowdlending_ ne vous demandera sans doute pas de [caution personnelle du dirigeant]({% link garanties/caution-personnelle.md %}), contrairement à ce que les banques font couramment. Comme vous empruntez en dehors du cadre bancaire, vous n’aurez pas non plus besoin de souscrire à tel ou tel produit bancaire pour faire plaisir à votre banquier.
 
 Les contreparties que vous devrez honorer se limiteront :
 

@@ -14,12 +14,12 @@ Il existe plusieurs centaines de fonds de capital-risque en France. Certains son
 
 ## Différences avec les _business angels_
 
-Bien que les fonds de capital-risque semblent similaires aux [business angels]({{ 'financements/business-angels' | relative_url }}) sur le papier, deux caractéristiques permettent de les distinguer :
+Bien que les fonds de capital-risque semblent similaires aux [business angels]({% link financements/business-angels.md %}) sur le papier, deux caractéristiques permettent de les distinguer :
 
-1. **La provenance des fonds**. — Les fonds de capital-risque financent des entreprises avec les sommes qu’ils collectent auprès de leur _limited partners_ (LPs), des investisseurs privés qui placent une partie de leur épargne dans des fonds de capital-risque. De leur côté, les [business angels]({{ 'financements/business-angels' | relative_url }}) investissent leur propre argent. Dans la pratique, il arrive que des entrepreneurs à succès capitalisent sur leur réseau pour créer leur propre fonds de capital-risque, ce qui les situe à mi-chemin entre les fonds traditionnels et les [business angels]({{ 'financements/business-angels' | relative_url }}) qui agissent pour leur seul compte.
-2. **Les cycles d’investissement**. — Les fonds de capital-risque peuvent injecter de l’argent dans une entreprise à plusieurs reprises, lors de plusieurs « tours » d’investissement, espacés de quelques années à chaque fois. Plus le temps va passer, plus l’entreprise financée va grandir, et plus les fonds de capital-risque y injecteront des sommes conséquentes dans l’espoir d’en faire un acteur incontournable — et de réaliser une plus-value à la revente de leurs parts. Ce cycle dure 5 à 7 ans au total. De leur côté les [business angels]({{ 'financements/business-angels' | relative_url }}) n’investissent qu’une seule fois dans une entreprise, au tout début de l’aventure, et souvent pour des durées plus courtes (3 à 5 ans).
+1. **La provenance des fonds**. — Les fonds de capital-risque financent des entreprises avec les sommes qu’ils collectent auprès de leur _limited partners_ (LPs), des investisseurs privés qui placent une partie de leur épargne dans des fonds de capital-risque. De leur côté, les [business angels]({% link financements/business-angels.md %}) investissent leur propre argent. Dans la pratique, il arrive que des entrepreneurs à succès capitalisent sur leur réseau pour créer leur propre fonds de capital-risque, ce qui les situe à mi-chemin entre les fonds traditionnels et les [business angels]({% link financements/business-angels.md %}) qui agissent pour leur seul compte.
+2. **Les cycles d’investissement**. — Les fonds de capital-risque peuvent injecter de l’argent dans une entreprise à plusieurs reprises, lors de plusieurs « tours » d’investissement, espacés de quelques années à chaque fois. Plus le temps va passer, plus l’entreprise financée va grandir, et plus les fonds de capital-risque y injecteront des sommes conséquentes dans l’espoir d’en faire un acteur incontournable — et de réaliser une plus-value à la revente de leurs parts. Ce cycle dure 5 à 7 ans au total. De leur côté les [business angels]({% link financements/business-angels.md %}) n’investissent qu’une seule fois dans une entreprise, au tout début de l’aventure, et souvent pour des durées plus courtes (3 à 5 ans).
 
-Bien que distincts sur le papier, [business angels]({{ 'financements/business-angels' | relative_url }}) et fonds de capital-risque se complètent en réalité. Par exemple, un premier investissement réalisé par des [business angels]({{ 'financements/business-angels' | relative_url }}) est souvent suivi d’un _seed round_ (une première levée) menée par un fonds de capital-risque. Les deux milieux sont poreux.
+Bien que distincts sur le papier, [business angels]({% link financements/business-angels.md %}) et fonds de capital-risque se complètent en réalité. Par exemple, un premier investissement réalisé par des [business angels]({% link financements/business-angels.md %}) est souvent suivi d’un _seed round_ (une première levée) menée par un fonds de capital-risque. Les deux milieux sont poreux.
 
 ## Le financement en séries
 
@@ -44,12 +44,12 @@ Les fonds de capital-risque s’intéressent aux entreprises qui :
 
 Les fonds de capital-risque peuvent constituer une bonne source de financement pour les raisons suivantes :
 
-- vous n’avez rien à rembourser en fin de mois, contrairement à un [crédit bancaire]({{ 'financements/credits-bancaires' | relative_url }}), et généralement pas de dividendes à verser aux fonds non plus ;
+- vous n’avez rien à rembourser en fin de mois, contrairement à un [crédit bancaire]({% link financements/credits-bancaires.md %}), et généralement pas de dividendes à verser aux fonds non plus ;
 - vous n’avez pas besoin d’attendre de dégager des profits, voire des revenus, pour qu’un fonds accepte de vous financer ;
 - vous pouvez compter sur le soutien et le réseau de l’équipe qui gère le fonds ;
 - vous pouvez lever des millions d’euros sans céder une part trop importante de votre société (10 à 25 %) ;
 - vous embarquez un nouvel administrateur qui peut vous conseiller en plus de vous financer (_board member_) ;
-- vous donnez de la crédibilité à votre projet, ce qui peut vous permettre d’aller chercher un [prêt bancaire]({{ 'financements/credits-bancaires' | relative_url }}) dans la foulée, comme notre [Rocket Pack](https://memo.bank/rocket-pack).
+- vous donnez de la crédibilité à votre projet, ce qui peut vous permettre d’aller chercher un [prêt bancaire]({% link financements/credits-bancaires.md %}) dans la foulée, comme notre [Rocket Pack](https://memo.bank/rocket-pack).
 
 ## Inconvénients
 

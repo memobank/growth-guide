@@ -16,7 +16,7 @@ LTV (Customer Lifetime Value) / CAC (coût d’acquisition client)
 
 Le ratio LTV / CAC vous aide à comprendre si vos dépenses pour acquérir des clients sont cohérentes avec le revenu généré par ces clients gagnés. Par exemple, si votre ratio LTV / CAC est inférieur à 1, cela signifie que vous dépensez de l’argent pour conquérir un client, qui ne générera jamais au cours de sa relation avec votre entreprise, un revenu qui compense votre investissement de départ. Chaque nouveau client vous fait perdre de l’argent. Imaginons par exemple que votre coût d’acquisition soit de 5 000 €, et que votre LTV soit égale à 3 000 €. L’acquisition de chaque nouveau client vous fait perdre 2 000 €.
 
-Que votre [LTV]({{ 'indicateurs/customer-lifetime-value' | relative_url }}) soit supérieure à votre [CAC]({{ 'indicateurs/cout-acquisition-client' | relative_url }}), c’est-à-dire que votre ratio LTV / CAC soit supérieur à 1, ne signifie pas que vous soyez tiré d’affaire — il faut que votre LTV soit _largement_ supérieure à votre CAC. Pour que votre entreprise gagne de l’argent, les revenus de vos clients ne doivent pas seulement compenser votre CAC, mais tous les coûts d’exploitation de votre entreprise : salaires des autres équipes, coûts liés au cloud, loyer. Dans l’industrie du SaaS, la règle générale est que le ratio LTV/CAC doit être supérieur à 3.
+Que votre [LTV]({% link indicateurs/customer-lifetime-value.md %}) soit supérieure à votre [CAC]({% link indicateurs/cout-acquisition-client.md %}), c’est-à-dire que votre ratio LTV / CAC soit supérieur à 1, ne signifie pas que vous soyez tiré d’affaire — il faut que votre LTV soit _largement_ supérieure à votre CAC. Pour que votre entreprise gagne de l’argent, les revenus de vos clients ne doivent pas seulement compenser votre CAC, mais tous les coûts d’exploitation de votre entreprise : salaires des autres équipes, coûts liés au cloud, loyer. Dans l’industrie du SaaS, la règle générale est que le ratio LTV/CAC doit être supérieur à 3.
 
 #### Exemple de calcul
 
@@ -57,7 +57,7 @@ LTV / CAC = (ARPU / Churn) / (Dépenses marketing et commerciales / Nombre de cl
 Tous ces éléments agissent donc sur la qualité de votre ratio LTV/CAC — et vous pouvez agir de la façon suivante sur ces éléments pour améliorer votre ratio :
 
 - augmenter votre revenu moyen par utilisateur ;
-- baisser votre [churn]({{ 'indicateurs/churn' | relative_url }}) ;
+- baisser votre [churn]({% link indicateurs/churn.md %}) ;
 - diminuer vos dépenses marketing et commerciales ;
 - augmenter votre nombre de clients.
 
@@ -75,4 +75,4 @@ Vous pouvez aussi utiliser le ratio LTV/CAC pour déterminer le montant maximum 
 
 ### Lever des fonds
 
-Le ratio LTV/CAC est l’un des principaux indicateurs regardés par les investisseurs dans les entreprises innovantes. Vous devez particulièrement soigner ce ratio si vous souhaitez attirer des investisseurs en capital dans de bonnes conditions. Calculez régulièrement le ratio LTV/CAC, au moins chaque mois ou chaque trimestre, et cherchez à optimiser votre stratégie d’acquisition, vos revenus, votre [churn]({{ 'indicateurs/churn' | relative_url }}), afin de maintenir ce ratio le plus haut possible.
+Le ratio LTV/CAC est l’un des principaux indicateurs regardés par les investisseurs dans les entreprises innovantes. Vous devez particulièrement soigner ce ratio si vous souhaitez attirer des investisseurs en capital dans de bonnes conditions. Calculez régulièrement le ratio LTV/CAC, au moins chaque mois ou chaque trimestre, et cherchez à optimiser votre stratégie d’acquisition, vos revenus, votre [churn]({% link indicateurs/churn.md %}), afin de maintenir ce ratio le plus haut possible.
