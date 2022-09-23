@@ -129,7 +129,7 @@ En calculant votre CPP à partir de votre ARPU, vous mesurez le temps moyen que 
 Certaines entreprises considèrent que le CAC Payback Period est par définition calculé à partir de la marge brute, tandis que d’autres appellent le CAC Payback Period calculé à partir de la marge brute le _Gross Margin-Adjusted CAC Payback Period_. Cet indicateur se calcule comme suit :
 
 ```
-CAC Payback Period (marge brute) = CAC / (Revenu moyen par utilisateur * Marge brute)
+CAC Payback Period (marge brute) = CAC / (Revenu moyen par utilisateur × Marge brute)
 ```
 
 #### Exemple de calcul
@@ -139,7 +139,7 @@ Votre coût d’acquisition est de 10 000 €, et votre ARPU est de 700 €. 
 Votre CAC Payback Period calculé à partir de la marge brute est donc :
 
 ```
-CPP = CAC / (ARPU * 70 %) = 10 000 / (700 * 70 %) = 20,4 mois
+CPP = CAC / (ARPU × 70 %) = 10 000 / (700 × 70 %) = 20,4 mois
 ```
 
 Ce résultat signifie que la marge qu’il vous reste effectivement après avoir soustrait les coûts d’exploitation de votre revenu moyen par utilisateur, met plus de 20 mois à couvrir votre coût d’acquisition.
@@ -161,9 +161,9 @@ Au bout de 14,3 mois, en théorie, le revenu moyen généré par l’un de vos c
 Supposons maintenant que votre [churn]({% link indicateurs/churn.md %}) mensuel soit égal à 5 %. Sur la cohorte de 10 clients que vous avez acquis lors du mois de mars, combien vous en reste-t-il au bout de 15 mois ?
 
 ```
-Nombre de clients au bout de 15 mois = (Nombre de clients au 31 mars) * (1 - Churn)^15
-				     = 10 * (1 - 5 %)^15
-				     = 10 * 0,49
+Nombre de clients au bout de 15 mois = (Nombre de clients au 31 mars) × (1 - Churn)^15
+				     = 10 × (1 - 5 %)^15
+				     = 10 × 0,49
 				     = 4 clients
 ```
 

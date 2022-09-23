@@ -23,7 +23,7 @@ Vous souhaitez calculer le MRR de votre entreprise sur le mois de février. Vous
 Votre MRR est donc :
 
 ```
-MRR = 50 * 50 € + 50 * 100 € = 7 500 €
+MRR = 50 × 50 € + 50 × 100 € = 7 500 €
 ```
 
 ## Choses à ignorer dans votre MRR
@@ -88,7 +88,7 @@ Dans notre exemple précédent, vous aviez sur le mois de février 100 clients 
 Votre Nouveau MRR est donc :
 
 ```
-Nouveau MRR = 5 * 50 € + 5 * 100 € = 750 €
+Nouveau MRR = 5 × 50 € + 5 × 100 € = 750 €
 ```
 
 #### Intérêt du nouveau MRR
@@ -118,7 +118,7 @@ Au mois de mars, 5 de vos clients qui étaient en période d’essai, souscriven
 Votre Expansion MRR est donc :
 
 ```
-Expansion MRR = 5 * 50 + 10 * (100 - 50) = 1 000 €
+Expansion MRR = 5 × 50 + 10 × (100 - 50) = 1 000 €
 ```
 
 Ne prenez en compte dans votre Expansion MRR que les revenus _additionnels_. Si certains de vos clients sont passés d’un abonnement à 50 € à un abonnement à 100 €, ne comptez pas les 100 € dans votre Expansion MRR, mais le revenu additionnel de ce passage à plan supérieur, soit 100 - 50 = 50 €.
@@ -150,7 +150,7 @@ Sur le mois de mars, 10 de vos clients abonnés à votre formule Simple passent 
 Votre Contraction MRR est donc :
 
 ```
-Contraction MRR = 10 * (50 € - 0 €) + 15 * (100 - 50) = 1 250 €
+Contraction MRR = 10 × (50 € - 0 €) + 15 × (100 - 50) = 1 250 €
 ```
 
 #### Intérêt du contraction MRR
@@ -170,7 +170,7 @@ Sur le mois de mars, vous avez perdu 10 de vos clients existants : 5 abonnés �
 Votre Churn MRR est donc :
 
 ```
-Churn MRR = 5 * 50 € + 5 * 100 € = 750 €
+Churn MRR = 5 × 50 € + 5 × 100 € = 750 €
 ```
 
 #### Intérêt du Churn MRR
@@ -184,19 +184,19 @@ Toutefois, votre perte de revenu sera très différentes en fonction du type de 
 Vous avez perdu 10 clients Simple et 0 client Premium :
 
 ```
-Churn MRR = 10 * 50 + 0 * 100 = 500 €
+Churn MRR = 10 × 50 + 0 × 100 = 500 €
 ```
 
 Vous avez perdu 5 clients Simple et 5 clients Premium :
 
 ```
-Churn MRR : 5 * 50 + 5 * 100 = 750 €
+Churn MRR : 5 × 50 + 5 × 100 = 750 €
 ```
 
 Vous avez perdu 0 client Simple et 10 clients Premium :
 
 ```
-Churn MRR = 0 * 50 + 10 * 100 = 1 000 €
+Churn MRR = 0 × 50 + 10 × 100 = 1 000 €
 ```
 
 ### Net New MRR (Nouveau MRR net)
