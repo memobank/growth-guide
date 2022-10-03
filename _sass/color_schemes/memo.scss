@@ -23,19 +23,19 @@ $grey-dk-200: #797e86; // grayscale tertiary
 $blue-300: #0d4189; // blue dark
 $blue-200: #0b5dd0; // blue memo
 $blue-000: #f0f6fe; // blue light
-$sidebar-color: $blue-000;
+$sidebar-color: $grey-dk-300;
 $body-heading-color: $grey-dk-300;
 $body-text-color: $grey-dk-250;
 $link-color: $blue-200;
 $btn-primary-color: $blue-200;
-$feedback-color: darken($sidebar-color, 3%);
+$feedback-color: darken($sidebar-color, 0%);
 $search-result-preview-color: $blue-200;
 $nav-child-link-color: $grey-dk-250;
 // Borders
 $border: 0.5px solid;
 // Grid system
-$nav-width: 248px;
-$nav-width-md: 232px;
+$nav-width: 240px;
+$nav-width-md: 240px;
 $nav-list-item-height: $sp-7;
-$content-width: 720px;
-$header-height: 80px;
+$content-width: 700px;
+$header-height: 72px;

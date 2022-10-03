@@ -107,7 +107,7 @@ plugins:
 # Just-the-docs specific configuration parameters
 #
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/logo-memo-bank-black.svg"
+logo: "/assets/images/logo-memo-bank-white.svg"
 #
 # Color scheme
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom
