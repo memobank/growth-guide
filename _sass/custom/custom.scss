@@ -9,6 +9,7 @@
 
 a.nav-list-link {
   color: $grey-dk-200 !important;
+  font-size: $font-size-4;
   &:hover {
     background-image: none ;
     color: white ;
@@ -30,11 +31,32 @@ a.nav-list-expander {
   }
 }
 
+ul.nav-list {
+  li {
+    &:last-child {
+      margin-bottom: 1.5rem;
+    }
+    a {
+          line-height: 1.25rem !important;
+          vertical-align: bottom;
+          display: flex !important;
+          align-items: center;
+
+    }
+    a.nav-list-expander {
+
+    }
+  }
+}
 .side-bar {
   @include mq(lg) {
     width: $nav-width;
     min-width: $nav-width;
   }
+}
+
+.site-nav {
+  padding-top: 1.5rem;
 }
 
 .site-logo {
@@ -45,7 +67,7 @@ a.nav-list-expander {
   background-position: left;
 }
 
-.site-header {
+.site-header, .main-header {
   border-bottom: none;
 }
 
@@ -76,7 +98,7 @@ h1 {
 
 h2 {
   font-size: 25px !important;
-  line-height: 2rem;
+  line-height: 2.25rem;
   font-weight: 300;
   margin-bottom: 2rem !important;
 
@@ -85,5 +107,21 @@ h2 {
 .main-content {
   p {
     line-height: 25px !important;
+  }
+}
+
+.breadcrumb-nav {
+  margin-top: 0;
+}
+.breadcrumb-nav-list-item {
+  font-size: $font-size-3 !important;
+  line-height: 15px;
+}
+
+.aux-nav-list-item {
+  a {
+    &:hover {
+      background: none;
+    }
   }
 }
