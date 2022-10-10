@@ -12,9 +12,17 @@ h2 {
   font-weight: 300;
   @include mq(sm) {
     line-height: 2rem;
-    margin-top: 2rem !important;
+    margin-top: 3rem !important;
     margin-bottom: 1rem !important;
   }
+}
+h4,
+.text-delta {
+  font-size: 15px !important;
+  font-weight: 600;
+  text-transform: none;
+  letter-spacing: 0em;
+  margin-bottom: 1rem !important;
 }
 
 // Search
