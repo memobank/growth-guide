@@ -13,10 +13,10 @@ $content-line-height: 1.6; // Line height of main content (articles)
 $body-heading-line-height: 1.25; // Line height of large body titles
 $font-size-1: 11px;
 $font-size-1-sm: 11px;
-$font-size-2: 11px; // h4 - uppercased!, h6 not uppercased, text-small
-$font-size-3: 12px; // h5
-$font-size-4: 14px; // h4 + body copy (small screen) & nav links
-$font-size-5: 15px; // h3 (large screen) & body copy + h4 (large screen)
+$font-size-2: 11px; // h4 (small screen) & h6 (small screen)
+$font-size-3: 12px; // h5 (small screen) & h4 + h6 (large screen)
+$font-size-4: 14px; // body (small screen) & h5 (large screen) & nav links
+$font-size-5: 15px; // h3 (small screen) & body (large screen)
 $font-size-6: 18px; // h2 (small screen) & h3 (large screen)
 $font-size-7: 25px; // h2 (large screen)
 $font-size-8: 35px; // h1 (small screen)
