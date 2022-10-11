@@ -1,14 +1,17 @@
 // Typography
 // Add Inter typeface using Inter's CDN
 @import url("https://rsms.me/inter/inter.css");
-// Change the style of h1 and h2 inside articles
-h1 {
+// Change the style of h1, h2, and h2 inside articles
+// mq(sm) means: is applied above 500px of screen width
+h1,
+.text-alpha {
   @include mq(sm) {
     line-height: 4.7rem;
     margin-bottom: 4.7rem !important;
   }
 }
-h2 {
+h2,
+.text-beta {
   font-weight: 300;
   @include mq(sm) {
     line-height: 2rem;
@@ -18,11 +21,14 @@ h2 {
 }
 h4,
 .text-delta {
-  font-size: 15px !important;
+  font-size: $font-size-4 !important;
   font-weight: 600;
   text-transform: none;
   letter-spacing: 0em;
   margin-bottom: 1rem !important;
+  @include mq(sm) {
+    font-size: $font-size-5 !important;
+  }
 }
 
 // Search
