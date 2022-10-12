@@ -1,8 +1,134 @@
+// Typography
 // Add Inter typeface using Inter's CDN
 @import url("https://rsms.me/inter/inter.css");
+// Change the style of h1, h2, and h2 inside articles
+// mq(sm) means: is applied above 500px of screen width
+h1,
+.text-alpha {
+  @include mq(sm) {
+    line-height: 4.7rem;
+    margin-bottom: 4.7rem !important;
+  }
+}
+h2,
+.text-beta {
+  font-weight: 300;
+  @include mq(sm) {
+    line-height: 2rem;
+    margin-top: 3rem !important;
+    margin-bottom: 1rem !important;
+  }
+}
+h4,
+.text-delta {
+  font-size: $font-size-4 !important;
+  font-weight: 600;
+  text-transform: none;
+  letter-spacing: 0em;
+  margin-bottom: 1rem !important;
+  @include mq(sm) {
+    font-size: $font-size-5 !important;
+  }
+}
 
+// Search
 // Increase the size of external navigation link and search input
 .aux-nav-list-item,
 .search-input {
   font-size: $font-size-4;
+}
+// Change background color of search results
+.search-result {
+  &:hover,
+  &.active {
+    background-color: $grey-lt-000;
+  }
+}
+// Change the color of external link on small screen and default to blue elsewhere
+.aux-nav-list-item > a.site-button {
+  color: $grey-dk-200 !important;
+  &:hover {
+    background: none;
+  }
+  @include mq(md) {
+    color: $link-color !important;
+  }
+}
+// Change the color of the hamburger button displayed on small screens
+.site-button {
+  .icon {
+    color: $grey-dk-200 !important;
+    &:hover {
+      background-image: none;
+      color: $white !important;
+    }
+  }
+  &.nav-open {
+    .icon {
+      color: $white !important;
+    }
+  }
+}
+
+// Sidebar
+// Change the color of lateral navigation links
+.nav-list-link {
+  color: $grey-dk-200;
+  font-size: $font-size-5;
+  &:hover {
+    background-image: none;
+    color: $white !important;
+  }
+  &.active {
+    color: $white !important;
+    font-weight: 300;
+  }
+}
+// Change the color of lateral navigation expander icons (>)
+.nav-list-expander {
+  color: $grey-dk-200 !important  ;
+  &:hover {
+    background-image: none;
+    color: $white !important;
+  }
+  &.active {
+    color: $white !important;
+    font-weight: 300;
+  }
+}
+// Change the color of lateral navigation footer content
+.site-footer {
+  color: $grey-dk-200;
+}
+// Reduce the size of Memo Bank's logo
+.site-logo {
+  max-height: 1.6rem;
+}
+// Increase the bottom margin below the last link of a category
+.nav-list-item:last-child {
+  margin-bottom: 1.5rem;
+}
+// Stick sidebar to the left of the screen and reduce its width
+.side-bar {
+  @include mq(lg) {
+    width: $nav-width;
+    align-items: flex-start;
+  }
+}
+
+// Main
+// Reduce left-margin of main container below large screens (lg)
+.main {
+  @include mq(lg) {
+    margin-left: calc(#{$nav-width} + 4rem);
+  }
+}
+// Remove negative margin-top on breadcrumb navigation (was -1rem)
+.breadcrumb-nav {
+  margin-top: 0;
+}
+// Set style of breadcrumb type
+.breadcrumb-nav-list-item {
+  font-size: $font-size-3 !important;
+  line-height: 1rem;
 }

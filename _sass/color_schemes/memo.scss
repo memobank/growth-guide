@@ -1,41 +1,53 @@
+// This file overrides the default theme variables
+// https://github.com/just-the-docs/just-the-docs/blob/main/_sass/support/_variables.scss
+
 // Change default font family
 $body-font-family: "Inter", system-ui, -apple-system, blinkmacsystemfont,
   "Segoe UI", roboto, "Helvetica Neue", arial, sans-serif;
+
 // Typography
 // `-sm` suffix is the size at the small (and above) media query
 $root-font-size: 15px; // Base font-size for rems
+$body-line-height: 1.5; // Line eight of body element (articles + sidebar)
+$content-line-height: 1.6; // Line height of main content (articles)
+$body-heading-line-height: 1.25; // Line height of large body titles
 $font-size-1: 11px;
 $font-size-1-sm: 11px;
-$font-size-2: 11px; // h4 - uppercased!, h6 not uppercased, text-small
-$font-size-3: 11px; // h5
-$font-size-4: 15px;
-$font-size-5: 15px; // h3
-$font-size-6: 18px; // h2
-$font-size-7: 23px;
-$font-size-8: 35px; // h1
-$font-size-9: 40px;
-$font-size-10: 45px;
-$font-size-10-sm: 50px;
+$font-size-2: 11px; // h4 (small screen) & h6 (small screen)
+$font-size-3: 12px; // h5 (small screen) & h4 + h6 (large screen)
+$font-size-4: 14px; // body (small screen) & h5 (large screen) & nav links
+$font-size-5: 15px; // h3 (small screen) & body (large screen)
+$font-size-6: 18px; // h2 (small screen) & h3 (large screen)
+$font-size-7: 25px; // h2 (large screen)
+$font-size-8: 35px; // h1 (small screen)
+$font-size-9: 65px; // h1 (large screen)
+$font-size-10: 40px;
+$font-size-10-sm: 45px;
+
 // Colors
 $grey-dk-300: #18191b; // grayscale primary
 $grey-dk-250: #303236; // grayscale secondary
-$grey-dk-200: #797e86; // grayscale tertiary
+$grey-dk-200: #868b92; // grayscale tertiary
 $blue-300: #0d4189; // blue dark
 $blue-200: #0b5dd0; // blue memo
 $blue-000: #f0f6fe; // blue light
-$sidebar-color: $blue-000;
+$sidebar-color: $grey-dk-300;
 $body-heading-color: $grey-dk-300;
 $body-text-color: $grey-dk-250;
 $link-color: $blue-200;
 $btn-primary-color: $blue-200;
-$feedback-color: darken($sidebar-color, 3%);
+$feedback-color: darken($sidebar-color, 0%);
 $search-result-preview-color: $blue-200;
-$nav-child-link-color: $grey-dk-250;
+$nav-child-link-color: $grey-dk-200;
+
 // Borders
-$border: 0.5px solid;
+$border: none; // Hide site-header and main-header bottom border
+
 // Grid system
-$nav-width: 248px;
-$nav-width-md: 232px;
-$nav-list-item-height: $sp-7;
-$content-width: 720px;
-$header-height: 80px;
+$gutter-spacing: $sp-6; // 30px
+$gutter-spacing-sm: $sp-4; // 15px
+$nav-width: 360px;
+$nav-width-md: 300px;
+$nav-list-item-height: $sp-7; // 37,5px
+$content-width: 700px;
+$header-height: 72px;

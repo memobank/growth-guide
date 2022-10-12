@@ -107,7 +107,7 @@ plugins:
 # Just-the-docs specific configuration parameters
 #
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/logo-memo-bank-black.svg"
+logo: "/assets/images/logo-memo-bank-white.svg"
 #
 # Color scheme
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom
@@ -120,7 +120,7 @@ aux_links:
   "vers memo.bank →":
     - "https://memo.bank"
 # Makes aux links open in a new tab. Default is false.
-aux_links_new_tab: true
+aux_links_new_tab: false
 #
 # Heading anchor links
 # Links that appear on hover over h1-h6 tags in page content allowing users to
@@ -130,5 +130,5 @@ heading_anchors: true
 # External navigation links
 nav_external_links:
   - title: memo.bank
-    url: https://memo.bank
+    url: "https://memo.bank"
     hide_icon: false # set to true to hide the external link icon - defaults to false
