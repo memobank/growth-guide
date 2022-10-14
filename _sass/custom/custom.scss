@@ -133,11 +133,6 @@ h4,
   line-height: 1rem;
 }
 // Disable anchor links on h1 titles
-h1:hover > .anchor-heading {
-  pointer-events: none;
-  cursor: default;
+h1 > .anchor-heading {
   display: none;
-  svg {
-    visibility: hidden;
-  }
 }
