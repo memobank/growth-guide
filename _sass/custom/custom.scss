@@ -132,3 +132,7 @@ h4,
   font-size: $font-size-3 !important;
   line-height: 1rem;
 }
+// Disable anchor links on h1 titles
+h1 > .anchor-heading {
+  display: none;
+}
