@@ -2,7 +2,7 @@
 
 Memo Bank's growth guide is a financing guide aimed at established companies that are still growing fast (“scaling“ companies). The guide is maintained by [Memo Bank](https://memo.bank/en), a French bank built by entrepreneurs, for entrepreneurs who run small and medium businesses.
 
-This repository contains the code used to publish our guide at:[guide.memo.bank](https://guide.memo.bank). We use [Jekyll](https://jekyllrb.com) with the [Just the Docs](https://just-the-docs.github.io/just-the-docs/) theme. This site is built and served by [GitHub Page](https://pages.github.com).
+This repository contains the code used to publish our guide at: [guide.memo.bank](https://guide.memo.bank). We use [Jekyll](https://jekyllrb.com) with the [Just the Docs](https://just-the-docs.github.io/just-the-docs/) theme. This site is built and served by [GitHub Page](https://pages.github.com).
 
 ## TL;DR
 
@@ -13,7 +13,7 @@ Here's how to get started in no time:
 
 There's no step 3. 🙂
 
-## A beginner's guide to installing and running the site
+## A beginner's guide to GitHub
 
 To install and run the guide locally (on your computer) for the first time, you're going to need:
 
@@ -84,7 +84,7 @@ To clone your fork locally:
 
 ### Syncing your fork
 
-GitHub Desktop has done is magic and now your personal fork should be synced with Memo Bank's version of the guide. This mean that you'll be able to update your fork every time someone else updates the main version of the guide.
+GitHub Desktop has done its magic and now your personal fork should be synced with Memo Bank's version of the guide. This means that you'll be able to update your fork every time someone else updates the main version of the guide.
 
 To update your fork:
 
@@ -93,7 +93,7 @@ To update your fork:
 
 Note: if you've just forked our `growth-guide` repository and cloned it on your Mac, then your local clone should be up to date with Memo Bank's main version. Fetching Memo Bank's main repository is only useful if you haven't updated your fork in a long while.
 
-### Installing computer stuff on your Mac
+## Installing and running the guide
 
 Now that the code of our guide lives on your computer, you need to install a few things on your Mac to run the guide locally.
 
@@ -105,7 +105,7 @@ Here's what you'll need to install:
 
 The good news is: you only have to do these tedious steps once. So hang on.
 
-#### Installing Homebrew
+### Installing Homebrew
 
 Homebrew is a tool that allows you to install other tools on your Mac, using the Terminal. Think of it as an App Store, but for developers.
 
@@ -118,7 +118,7 @@ To install Homebrew:
 
 ⚠️ Nothing will show up on your screen when you'll start typing your password in the Terminal, that's normal. This is a security feature. Just type your password and hit **Enter** again when you're done.
 
-👉 [See how to troubleshoot common Homebrew erros](https://github.com/lewagon/setup/blob/master/macos.md#homebrew)
+👉 [See how to troubleshoot common Homebrew errors](https://github.com/lewagon/setup/blob/master/macos.md#homebrew)
 
 Once you've installed Homebrew, paste the following lines in your terminal (all at once). It will install [Git](https://git-scm.com) and [GitHub command line interface](https://cli.github.com) on your Mac.
 
@@ -131,7 +131,7 @@ You may quit your Terminal after that (`command` + `Q`).
 
 ☝️ Note that “Terminal apps“ don't show up in your `Applications` folder. They're development tools, not real apps with a visual interface like Slack, iMovie, or Figma.
 
-#### Installing Ruby
+### Installing Ruby
 
 To install Ruby on your Mac:
 
@@ -157,9 +157,9 @@ You should see something like: `ruby 3.1.2p20 (2022-04-12 revision 4491bb740a)`.
 
 👉 [See Jekyll's installation documentation](https://jekyllrb.com/docs/installation/macos/)
 
-#### Installing Jekyll
+### Installing Jekyll
 
-Jekyll ([jekyllrb.com](https://jekyllrb.com)) is the static site generator behind our guide. Thinks of Jekyll as the software that turns our Markdown articles (text files) into a complete website with HTML pages (web files).
+Jekyll ([jekyllrb.com](https://jekyllrb.com)) is the static site generator behind our guide. Think of Jekyll as the software that turns our Markdown articles (text files) into a complete website with HTML pages (web files).
 
 To install Jekyll on your Mac:
 
@@ -170,7 +170,7 @@ You may quit your Terminal after that (`command` + `Q`).
 
 ### Running the guide
 
-You're now all set up to run our guide locally: you've got the code of the guide, you've got a Ruby environnement that allows you to run Jekyll, and you've installed Jekyll itself too.
+You're now all set up to run our guide locally: you've got the code of the guide, you've got a Ruby environment that allows you to run Jekyll, and you've installed Jekyll itself too.
 
 To run the guide on your Mac:
 
@@ -184,7 +184,7 @@ To run the guide on your Mac:
 
 As long as your Terminal is open and running, you can browse your site. To turn your local site off, hit `control` + `C` or just close your Terminal app (`command` + `Q`).
 
-⚠️ The site you're seing in your web browser is your own copy of Memo Bank's guide. Unlike most websites, this site only lives on your computer. Nobody else can see it, because your site isn't “served” on the web—it's only “served“ on your own Mac.
+⚠️ The site you're seeing in your web browser is your own copy of Memo Bank's guide. Unlike most websites, this site only lives on your computer. Nobody else can see it, because your site isn't “served” on the web—it's only “served“ on your own Mac.
 
 🤓 You don't have to write the `bundle exec jekyll serve` command on a Post-It note. Let your Terminal do the heavy lifting for you. By hitting the up key (`↑`), you can browse through the Terminal command you previously entered. Since you've just entered the `bundle exec jekyll serve` command, just hit the up key (`↑`) next time you open the Terminal and your site will be up and running in no time.
 
@@ -208,7 +208,7 @@ Our articles live in Markdown files (`.md`).
 
 Our site uses the [Just the Docs](https://just-the-docs.github.io/just-the-docs/) theme, a documentation theme designed for Jekyll. What Jekyll does is that it fetches the remote files of the theme when the site is created (built), that's why you **will not** find the theme main stylesheets in our site's folder. In other words, our site's folder only contains the content of our guide. The style applied to our guide lives in the theme's [main repository](https://github.com/just-the-docs/just-the-docs).
 
-That being said, if you want to edit the way our guide look, you may do so by editing _our_ site directly. That's what the `_sass` folder is made for.
+That being said, if you want to edit the way our guide looks, you may do so by editing _our_ site directly. That's what the `_sass` folder is made for.
 
 The `_sass` folder contains:
 
@@ -231,20 +231,12 @@ Our Jekyll configuration lives in the `_config.yml` file. There's no need for yo
 
 👉 [See the theme's built-in configuration options](https://just-the-docs.github.io/just-the-docs/docs/configuration/)
 
-## Editing the guide
+## Editing the guide locally
 
-If you want to edit the content of the guide, or its design, you need to edit the files that make up the guide—mostly Markdown and CSS (SASS) files.
-
-To do so, you can either:
-
-1. Edit the guide **locally**, and push your edits on github.com once you're done. This will allow you to run the site locally and preview your changes in your web browser. Ideal if you want to edit the style or the layout of the guide.
-2. Edit the guide **online**, on [github.com](https://github.com/memobank/growth-guide) directly, and create a pull request directly in your browser. This won't allow you to preview your changes locally, though. Ideal if you just want to make a quick content edit in a Markdown file.
-
-### Editing the guide locally
-
+You can edit the guide **locally**, and push your edits on github.com once you're done. This will allow you to run the site locally and preview your changes in your web browser. This is ideal if you want to edit the style or the layout of the guide.
 To edit the code of the guide locally, you need a code editor like Sublime Text.
 
-#### Installing SublimeText
+### Installing SublimeText
 
 To install Sublime Text 4:
 
@@ -253,7 +245,7 @@ To install Sublime Text 4:
 3. Drag and drop `Sublime Text.app` into your `Applications` folder.
 4. Double click on `Sublime Text.app` to start the app.
 
-#### Configuring Sublime Text
+### Configuring Sublime Text
 
 To change the way your code looks in Sublime Text, you may edit Sublime's default settings.
 
@@ -294,21 +286,16 @@ To do so:
   "color_scheme": "Breakers.sublime-color-scheme",
   "dark_theme": "Default.sublime-theme",
   "light_theme": "Default.sublime-theme",
-  "ignored_packages":
-  [
-    "Vintage",
-  ],
 }
-
 ```
 
 When you're done, save your new settings (`command` + `S`).
 
-#### Installing Sublime packages
+### Installing Sublime packages
 
 Now that you have a brand new code editor, install a few extensions to make Sublime even more powerful. Sublime Text needs to be open for you to install Sublime packages.
 
-##### Package control
+#### Package control
 
 Start by installing Sublime Text's package manager.
 
@@ -318,11 +305,9 @@ To do so:
 2. Paste `Install Package Control` in the console and hit **Enter**.
 3. Quit Sublime Text (`command` + `Q`) and restart it.
 
-You can nom use Sublime Text's package manager to install packages.
+You can now use Sublime Text's package manager to install packages.
 
-##### Useful Sublime Text packages
-
-###### Sass
+#### Sass
 
 The Sass package will add relevant syntax highlighting to your scss files.
 
@@ -334,7 +319,7 @@ To install the Sass package:
 
 👉 [See the homepage of the Sass package](https://packagecontrol.io/packages/Sass)
 
-###### Prettier
+#### Prettier
 
 Prettier will auto-format your code according to rules shared by your colleagues. Think of it as a way to enforce coherence across our many files and projects.
 
@@ -360,7 +345,7 @@ To set up the Prettier package:
 
 Then save your settings (`command` + `S`).
 
-###### FileIcons
+#### FileIcons
 
 The FileIcons package will replace Sublime Text's default icons with nicer-looking ones.
 
@@ -374,7 +359,7 @@ You may restart Sublime Text after that.
 
 👉 [See the homepage of the FileIcons package](https://packagecontrol.io/packages/FileIcons)
 
-#### Setting Sublime as your default editor
+### Setting Sublime as your default editor
 
 To tell GitHub Desktop that you're using Sublime Text as your main code editor:
 
@@ -385,7 +370,7 @@ To tell GitHub Desktop that you're using Sublime Text as your main code editor:
 
 You may restart GitHub Desktop after that. This will allow you to open files in Sublime Text _directly_ from GitHub Desktop.
 
-#### Opening the site's folder in Sublime
+### Opening the site's folder in Sublime
 
 To open the site's folder in Sublime Text:
 
@@ -395,7 +380,7 @@ To open the site's folder in Sublime Text:
 
 Sublime Text should open and you should be able to see the content of the site's folder in your code editor.
 
-#### Understanding the GitHub flow
+### Understanding the GitHub flow
 
 Here's how the typical GitHub flow works in our case:
 
@@ -412,7 +397,7 @@ Think of it as a triangle between:
 
 👉 [Learn more about the GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)
 
-#### Creating a new local branch
+### Creating a new local branch
 
 Think of branches as different versions of the same document. Here's the definition of a branch according to GitHub:
 
@@ -420,7 +405,7 @@ Think of branches as different versions of the same document. Here's the definit
 
 — [About branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches) (GitHub)
 
-As a general rule, you should not edit your repository's main branch (called `main` or `master`), even if you're working on your fork. The main branch of your repository is your reference branch, you may merge pull request into it, but you may not edit it _directly_.
+As a general rule, you should not edit your repository's main branch (called `main` or `master`), even if you're working on your fork. The main branch of your repository is your reference branch, you may merge pull requests into it, but you may not edit it _directly_.
 
 So if you want to edit your fork, you're first going to create a new local branch in your fork—to keep your main branch clean.
 
@@ -432,11 +417,11 @@ To do so:
 4. Click on the **New branch** outlined button.
 5. Name your new branch. Use only small caps and separate words using hyphens. Give it a descriptive name, like `edit-bank-loans-article`.
 6. Click on the **Create branch** button.
-7. If you're prompted, chose `Bring my changes to {branch_name}` and hit **Switch Branch**.
+7. If you're prompted, choose `Bring my changes to {branch_name}` and hit **Switch Branch**.
 
 Well done, you're now working on a branch that is not your reference branch. You can mess things up without affecting the main branch of your repository.
 
-#### Commit your local changes to your branch
+### Commit your local changes to your branch
 
 You've edited a few files locally on your new branch, you've saved your edits in Sublime text. Now what? Now, you need to “record” your changes. Think of it as taking a picture of what you've changed, in order for you to be able to compare what you have _now_ with what you had _before_—before you implemented your edits. In Git, taking a picture of your most recent edits is called “making a commit“.
 
@@ -446,7 +431,7 @@ Here's the definition of a commit according to GitHub:
 
 — [About commits](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits) (GitHub)
 
-You can make several commits in a row on a same branch. The smaller your commit, the better. If you've edited the content of an article and the design of a page, it's better to create a first commit for your content edits and a second one for your design edits.
+You can make several commits in a row on the same branch. The smaller your commit, the better. If you've edited the content of an article and the design of a page, it's better to create a first commit for your content edits and a second one for your design edits.
 
 To commit your changes on your local branch:
 
@@ -457,9 +442,9 @@ To commit your changes on your local branch:
 5. Add an optional description to your commit message. Explain what you did.
 6. Hit the **Commit to {new_branch_name}** button.
 
-Good job. You've create a new local commit on your new local branch. You may repeat this step as many times as needed.
+Good job. You've created a new local commit on your new local branch. You may repeat this step as many times as needed.
 
-#### Pushing your local changes to GitHub
+### Pushing your local changes to GitHub
 
 For the time being, your commit only lives on your Mac. For github.com to be aware of the changes you just made, you need to _push_ your commit onto github.com. This amounts to pushing your changes from your _local_ fork to your _remote_ fork, the one that lives on github.com.
 
@@ -469,11 +454,11 @@ To push your local commit onto github.com:
 2. Make sure you're on the branch where you commited your local changes.
 3. Hit the **Push origin** button.
 
-Your local commit will be pushed onto your github.com fork.
+Your local commit will be pushed on your github.com fork.
 
 👉 [See GitHub's detailed documentation about commits](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project)
 
-#### Opening a pull request on github.com
+### Opening a pull request on github.com
 
 Now that you've edited your github.com fork, GitHub will notice that there's a difference between your fork and the main version of the guide (Memo Bank's version). As a consequence, GitHub will ask if you want to open a pull request in order to integrate your edits into the main version of the guide—Memo Bank's version.
 
@@ -494,9 +479,9 @@ To create a pull request from your fork:
 
 👉 [See how to create a pull request from a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork)
 
-### Editing the guide online
+## Editing the guide online
 
-If you only have a quick content edit to make, or if you'd rather stay away from a code editor, you may edit the content of our guide directly on github.com.
+You can also edit the guide **online**, on [github.com](https://github.com/memobank/growth-guide) directly, and create a pull request directly in your browser. This won't allow you to preview your changes locally, though, but it may come in handy if you just want to make a quick content edit in a Markdown file.
 
 To edit a file on github.com:
 
@@ -511,18 +496,18 @@ To edit a file on github.com:
 
 Congratulations, you've just created a pull request. If your pull request gets merged, your edit will be integrated into the site's live content.
 
-#### Direct access to content files
+### Direct access to content files
 
 Skip the browsing part and go straight to the file you want to edit by using the direct links listed below.
 
-##### Homepages
+#### Homepages
 
 - [Edit the main homepage](https://github.com/memobank/growth-guide/blob/main/index.md)
 - [Edit the Financements' category homepage](https://github.com/memobank/growth-guide/blob/main/financements/index.md)
 - [Edit the Garanties' category homepage](https://github.com/memobank/growth-guide/blob/main/garanties/index.md)
 - [Edit the Indicateurs' category homepage](https://github.com/memobank/growth-guide/blob/main/indicateurs/index.md)
 
-##### Article pages
+#### Article pages
 
 - [Edit one of the Financements' articles](https://github.com/memobank/growth-guide/tree/main/financements)
 - [Edit one of the Garanties' articles](https://github.com/memobank/growth-guide/tree/main/garanties)
