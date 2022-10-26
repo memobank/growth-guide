@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Ce guide s’adresse aux entreprises qui souhaitent financer leur
   développement, garantir leurs crédits, et mesurer leurs progrès à l’aide
   d’indicateurs financiers.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/growth-guide" # the subpath of your site, e.g. /blog
 url: "https://guide.memo.bank" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: memobank
 email: contact@memo.bank
