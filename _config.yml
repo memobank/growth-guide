@@ -76,11 +76,14 @@ read_more: Lire notre article
 
 # Build settings
 # Jekyll feature allowing to build sites with GitHub-hosted themes.
+# We rely on "remote_theme" (instead of "theme") because the theme we're using
+# isn't natively supported by GitHub Pages. We have to load it remotely.
 remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
-# The list of Jekyll plugins we rely on.
+# The list of Jekyll plugins we rely on (as listed in our gemfile).
 plugins:
   - jekyll-github-metadata
   - jekyll-seo-tag
+  - jekyll-remote-theme
   - kramdown
   - jekyll-sitemap
 
