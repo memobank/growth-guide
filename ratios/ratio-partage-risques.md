@@ -8,8 +8,6 @@ parent: Ratios
 
 # Le ratio de partage des risques (ou ratio d’endettement)
 
-## Définition
-
 Le ratio de partage des risques est égal au rapport entre la somme de vos dettes bancaires, et la sommes de vos fonds propres :
 
 ```

@@ -8,8 +8,6 @@ parent: Ratios
 
 # Le ratio du coût de la dette bancaire
 
-## Définition
-
 Le ratio du coût de la dette bancaire est égal au rapport entre la somme de vos dettes et votre excédent brut d’exploitation (EBE) :
 
 ```

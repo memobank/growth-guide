@@ -8,8 +8,6 @@ parent: Ratios
 
 # Le ratio de capacité de remboursement
 
-## Définition
-
 Le ratio de capacité de remboursement est égal au rapport entre la somme de vos dettes, et votre capacité d’autofinancement :
 
 ```

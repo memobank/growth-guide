@@ -8,8 +8,6 @@ parent: Ratios
 
 # Le ratio d’autonomie financière
 
-## Définition
-
 Le ratio d’autonomie financière est égal au rapport entre la somme de vos fonds propres et le total de votre bilan :
 
 ```
