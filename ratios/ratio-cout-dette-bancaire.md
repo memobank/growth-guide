@@ -8,13 +8,13 @@ parent: Ratios
 
 # Le ratio du coût de la dette bancaire
 
-Le ratio du coût de la dette bancaire est égal au rapport entre la somme de vos dettes et votre excédent brut d’exploitation (EBE) :
+Le ratio du coût de la dette bancaire est égal au rapport entre la somme de vos dettes et votre excédent brut d’exploitation (EBE) :
 
 ```
 Ratio du coût de la dette bancaire = Dettes / Excédent brut d’exploitation
 ```
 
-Pour calculer le ratio de capacité de remboursement, vous devez donc connaître votre excédent brut d’exploitation, aussi appelé EBE. Mais qu’est-ce que l’EBE et comment se calcule-t-il ?
+Pour calculer le ratio de capacité de remboursement, vous devez donc connaître votre excédent brut d’exploitation, aussi appelé EBE. Mais qu’est-ce que l’EBE et comment se calcule-t-il ?
 
 ### Définition de l’excédent brut d’exploitation (EBE)
 
@@ -44,7 +44,7 @@ Plus le ratio est élevé, plus l’entreprise est donc fragile : elle n’inve
 
 ### Exemple
 
-Imaginons un club de football amateur, que nous appellerons le FC Cigale. Le FC Cigale a fait de nombreux emprunts par le passé, si bien que le club paye 10 000 € d’intérêts bancaires par an. L’EBE dégagé par le club provient essentiellement de sa billetterie et s’élève à 20 000 € par an. Le ratio du coût de la dette bancaire du FC Cigale atteint donc 50 %, ce qui est supérieur aux 33 % recommandés. Concrètement, cela signifie que le FC Cigale consacre un jour sur deux d’exploitation (50 % de son temps) au paiement de ses intérêts bancaires, ce qui ne laisse au club que la moitié de son temps pour préparer l’avenir. Pour un banquier qui examinerait les comptes du FC Cigale, ce ratio est inquiétant, car il peut se lire comme le signe que le FC Cigale n’a pas suffisamment de marge de manœuvre pour investir et grandir.
+Imaginons un club de football amateur, que nous appellerons le FC Cigale. Le FC Cigale a fait de nombreux emprunts par le passé, si bien que le club paye 10 000 € d’intérêts bancaires par an. L’EBE dégagé par le club provient essentiellement de sa billetterie et s’élève à 20 000 € par an. Le ratio du coût de la dette bancaire du FC Cigale atteint donc 50 %, ce qui est supérieur aux 33 % recommandés. Concrètement, cela signifie que le FC Cigale consacre un jour sur deux d’exploitation (50 % de son temps) au paiement de ses intérêts bancaires, ce qui ne laisse au club que la moitié de son temps pour préparer l’avenir. Pour un banquier qui examinerait les comptes du FC Cigale, ce ratio est inquiétant, car il peut se lire comme le signe que le FC Cigale n’a pas suffisamment de marge de manœuvre pour investir et grandir.
 
 ## Valeur à viser
 
