@@ -50,7 +50,7 @@ On retrouve notamment dans les produits non encaissables :
 
 Les banquiers utilisent la CAF pour mettre en regard les excédents de trésorerie d’une entreprise avec ses dettes, grâce au calcul du ratio de capacité de remboursement (dettes/CAF).
 
-Le ratio de capacité de remboursement donne aux banquiers le nombre d’années que mettrait votre entreprise à rembourser ses dettes — si ces dettes n’augmentaient pas, et que votre CAF restait la même au cours des prochaines années. Il renseigne votre banquier sur la capacité de votre entreprise à dégager de la trésorerie, et donc,_ in fine_, à rembourser ses crédits — car votre entreprise pioche dans sa trésorerie pour rembourser ses prêts.
+Le ratio de capacité de remboursement donne aux banquiers le nombre d’années que mettrait votre entreprise à rembourser ses dettes — si ces dettes n’augmentaient pas, et que votre CAF restait la même au cours des prochaines années. Il renseigne votre banquier sur la capacité de votre entreprise à dégager de la trésorerie, et donc, _in fine_, à rembourser ses crédits — car votre entreprise pioche dans sa trésorerie pour rembourser ses prêts.
 
 ### Exemple
 
