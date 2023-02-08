@@ -2,6 +2,7 @@
 layout: default
 title: Ratio d'autonomie financière
 description: Découvrez ce qu'est le ratio d'autonomie financière, et comment le calculer.
+image: /assets/images/cards/card-ratios-autonomie-financiere.png
 parent: Ratios
 ---
 
@@ -19,17 +20,17 @@ Ce ratio compare les différentes ressources qu’utilise votre entreprise pour 
 
 Les fonds propres de votre entreprise se composent de :
 
-* son capital social ;
-* ses réserves ;
-* son résultat ;
-* ses provisions réglementées ;
-* ses subventions d’investissement.
+- son capital social ;
+- ses réserves ;
+- son résultat ;
+- ses provisions réglementées ;
+- ses subventions d’investissement.
 
 D’autre part, votre entreprise se finance grâce à des financements externes, des dettes :
 
-* dettes court terme : les dettes inférieures à un an ;
-* dettes à moyen ou long termes : emprunt bancaire, crédit-bail, location financière… ;
-* dettes d'exploitation : dettes fournisseurs, dettes sociales, dettes fiscales, dettes sur immobilisation.
+- dettes court terme : les dettes inférieures à un an ;
+- dettes à moyen ou long termes : emprunt bancaire, crédit-bail, location financière… ;
+- dettes d'exploitation : dettes fournisseurs, dettes sociales, dettes fiscales, dettes sur immobilisation.
 
 ## Pourquoi les banquiers s’intéressent au ratio d’autonomie financière
 

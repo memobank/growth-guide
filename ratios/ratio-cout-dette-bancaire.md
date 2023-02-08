@@ -2,6 +2,7 @@
 layout: default
 title: Ratio du coût de la dette bancaire
 description: Découvrez ce qu'est le ratio du coût de la dette bancaire, et comment le calculer.
+image: /assets/images/cards/card-ratios-cout-dette-bancaire.png
 parent: Ratios
 ---
 
@@ -21,7 +22,7 @@ Pour calculer le ratio de capacité de remboursement, vous devez donc connaître
 
 L’excédent brut d’exploitation est égal aux excédents de trésorerie que génère le cycle d’exploitation de votre entreprise sur une année, c’est-à-dire à la différence entre vos encaissements (issus de la vente de vos produits ou services) et vos décaissements (achats de matériel, dépenses de publicité, abonnements à des outils SaaS…).
 
-L’EBE s’intéresse uniquement aux recettes et aux dépenses liées *strictement* à votre exploitation. Il ne s’intéresse pas aux produits et aux charges dits « exceptionnels » (comme la vente d’une immobilisation par exemple), ni aux produits et aux charges financiers (les intérêts de vos emprunts bancaires par exemple). L’EBE intègre en revanche les impôts et les taxes. L’objectif de l’EBE est d’évaluer la capacité de votre exploitation à dégager des excédents de trésorerie — tous les revenus et toutes les dépenses qui ne sont pas directement liées à l’exploitation de votre modèle d’affaires ne rentrent donc pas dans l’EBE.
+L’EBE s’intéresse uniquement aux recettes et aux dépenses liées _strictement_ à votre exploitation. Il ne s’intéresse pas aux produits et aux charges dits « exceptionnels » (comme la vente d’une immobilisation par exemple), ni aux produits et aux charges financiers (les intérêts de vos emprunts bancaires par exemple). L’EBE intègre en revanche les impôts et les taxes. L’objectif de l’EBE est d’évaluer la capacité de votre exploitation à dégager des excédents de trésorerie — tous les revenus et toutes les dépenses qui ne sont pas directement liées à l’exploitation de votre modèle d’affaires ne rentrent donc pas dans l’EBE.
 
 ### Calcul de l’excédent brut d’exploitation (EBE)
 

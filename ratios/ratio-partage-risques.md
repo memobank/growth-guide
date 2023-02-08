@@ -2,6 +2,7 @@
 layout: default
 title: Ratio de partage des risques
 description: Découvrez ce qu'est le ratio de partage des risques (ou ratio d’endettement), et comment le calculer.
+image: /assets/images/cards/card-ratios-partage-risques.png
 parent: Ratios
 ---
 
@@ -19,16 +20,16 @@ Ce ratio compare les deux principales ressources qu’utilise votre entreprise p
 
 Les fonds propres de votre entreprise se composent de :
 
-* son capital social ;
-* ses réserves ;
-* son résultat ;
-* ses provisions réglementées ;
-* ses subventions d’investissement.
+- son capital social ;
+- ses réserves ;
+- son résultat ;
+- ses provisions réglementées ;
+- ses subventions d’investissement.
 
 Les dettes bancaires intègrent :
 
-* les dettes court terme : les dettes inférieures à un an, comme les autorisations de découvert ;
-* les dettes à moyen ou long termes : emprunt bancaire, crédit-bail, location financière.
+- les dettes court terme : les dettes inférieures à un an, comme les autorisations de découvert ;
+- les dettes à moyen ou long termes : emprunt bancaire, crédit-bail, location financière.
 
 ## Intérêt du ratio pour la banque
 
