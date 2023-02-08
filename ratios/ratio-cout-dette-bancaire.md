@@ -1,27 +1,26 @@
 ---
 layout: default
 title: Ratio du coût de la dette bancaire
-description: Découvrez ce qu'est le ratio du coût de la dette bancaire, et comment le calculer.
+description: Découvrez ce qu’est le ratio du coût de la dette bancaire, et comment le calculer.
+image: /assets/images/cards/card-ratios-cout-dette-bancaire.png
 parent: Ratios
 ---
 
 # Le ratio du coût de la dette bancaire
 
-## Définition
-
-Le ratio du coût de la dette bancaire est égal au rapport entre la somme de vos dettes et votre excédent brut d’exploitation (EBE) :
+Le ratio du coût de la dette bancaire est égal au rapport entre la somme de vos dettes et votre excédent brut d’exploitation (EBE) :
 
 ```
 Ratio du coût de la dette bancaire = Dettes / Excédent brut d’exploitation
 ```
 
-Pour calculer le ratio de capacité de remboursement, vous devez donc connaître votre excédent brut d’exploitation, aussi appelé EBE. Mais qu’est-ce que l’EBE et comment se calcule-t-il ?
+Pour calculer le ratio de capacité de remboursement, vous devez donc connaître votre excédent brut d’exploitation, aussi appelé EBE. Mais qu’est-ce que l’EBE et comment se calcule-t-il ?
 
 ### Définition de l’excédent brut d’exploitation (EBE)
 
 L’excédent brut d’exploitation est égal aux excédents de trésorerie que génère le cycle d’exploitation de votre entreprise sur une année, c’est-à-dire à la différence entre vos encaissements (issus de la vente de vos produits ou services) et vos décaissements (achats de matériel, dépenses de publicité, abonnements à des outils SaaS…).
 
-L’EBE s’intéresse uniquement aux recettes et aux dépenses liées *strictement* à votre exploitation. Il ne s’intéresse pas aux produits et aux charges dits « exceptionnels » (comme la vente d’une immobilisation par exemple), ni aux produits et aux charges financiers (les intérêts de vos emprunts bancaires par exemple). L’EBE intègre en revanche les impôts et les taxes. L’objectif de l’EBE est d’évaluer la capacité de votre exploitation à dégager des excédents de trésorerie — tous les revenus et toutes les dépenses qui ne sont pas directement liées à l’exploitation de votre modèle d’affaires ne rentrent donc pas dans l’EBE.
+L’EBE s’intéresse uniquement aux recettes et aux dépenses liées _strictement_ à votre exploitation. Il ne s’intéresse pas aux produits et aux charges dits « exceptionnels » (comme la vente d’une immobilisation par exemple), ni aux produits et aux charges financiers (les intérêts de vos emprunts bancaires par exemple). L’EBE intègre en revanche les impôts et les taxes. L’objectif de l’EBE est d’évaluer la capacité de votre exploitation à dégager des excédents de trésorerie — tous les revenus et toutes les dépenses qui ne sont pas directement liées à l’exploitation de votre modèle d’affaires ne rentrent donc pas dans l’EBE.
 
 ### Calcul de l’excédent brut d’exploitation (EBE)
 
@@ -45,7 +44,7 @@ Plus le ratio est élevé, plus l’entreprise est donc fragile : elle n’inve
 
 ### Exemple
 
-Imaginons un club de football amateur, que nous appellerons le FC Cigale. Le FC Cigale a fait de nombreux emprunts par le passé, si bien que le club paye 10 000 € d’intérêts bancaires par an. L’EBE dégagé par le club provient essentiellement de sa billetterie et s’élève à 20 000 € par an. Le ratio du coût de la dette bancaire du FC Cigale atteint donc 50 %, ce qui est supérieur aux 33 % recommandés. Concrètement, cela signifie que le FC Cigale consacre un jour sur deux d’exploitation (50 % de son temps) au paiement de ses intérêts bancaires, ce qui ne laisse au club que la moitié de son temps pour préparer l’avenir. Pour un banquier qui examinerait les comptes du FC Cigale, ce ratio est inquiétant, car il peut se lire comme le signe que le FC Cigale n’a pas suffisamment de marge de manœuvre pour investir et grandir.
+Imaginons un club de football amateur, que nous appellerons le FC Cigale. Le FC Cigale a fait de nombreux emprunts par le passé, si bien que le club paye 10 000 € d’intérêts bancaires par an. L’EBE dégagé par le club provient essentiellement de sa billetterie et s’élève à 20 000 € par an. Le ratio du coût de la dette bancaire du FC Cigale atteint donc 50 %, ce qui est supérieur aux 33 % recommandés. Concrètement, cela signifie que le FC Cigale consacre un jour sur deux d’exploitation (50 % de son temps) au paiement de ses intérêts bancaires, ce qui ne laisse au club que la moitié de son temps pour préparer l’avenir. Pour un banquier qui examinerait les comptes du FC Cigale, ce ratio est inquiétant, car il peut se lire comme le signe que le FC Cigale n’a pas suffisamment de marge de manœuvre pour investir et grandir.
 
 ## Valeur à viser
 
