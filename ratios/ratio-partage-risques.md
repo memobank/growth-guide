@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ratio de partage des risques
-description: Découvrez ce qu'est le ratio de partage des risques (ou ratio d’endettement), et comment le calculer.
+description: Découvrez ce qu’est le ratio de partage des risques (ou ratio d’endettement), et comment le calculer.
 image: /assets/images/cards/card-ratios-partage-risques.png
 parent: Ratios
 ---

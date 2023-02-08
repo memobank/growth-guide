@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ratio du coût de la dette bancaire
-description: Découvrez ce qu'est le ratio du coût de la dette bancaire, et comment le calculer.
+description: Découvrez ce qu’est le ratio du coût de la dette bancaire, et comment le calculer.
 image: /assets/images/cards/card-ratios-cout-dette-bancaire.png
 parent: Ratios
 ---

@@ -10,7 +10,7 @@ has_toc: false
 
 # À propos des ratios
 
-## Ratio d'autonomie financière
+## Ratio d’autonomie financière
 
 Ce ratio compare les différentes ressources qu’utilise votre entreprise pour se financer.
 

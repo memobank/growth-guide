@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Ratio de capacité de remboursement
-description: Découvrez ce qu'est le ratio de capacité de remboursement, et comment le calculer.
+description: Découvrez ce qu’est le ratio de capacité de remboursement, et comment le calculer.
 image: /assets/images/cards/card-ratios-capacite-remboursement.png
 parent: Ratios
 ---
