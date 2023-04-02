@@ -23,10 +23,12 @@ lang: fr
 title: Guide Memo Bank
 tagline: >- # the tagline is a short description
   Le guide Memo Bank des entreprises en croissance
+
+
 description: >- # this means to ignore newlines until "baseurl:"
-  Ce guide s’adresse aux entreprises qui souhaitent financer leur
-  développement, garantir leurs crédits, et mesurer leurs progrès à l’aide
-  d’indicateurs financiers.
+  Ce guide s’adresse aux entreprises qui souhaitent financer leur développement, garantir leurs crédits, et mesurer leurs progrès à l’aide d’indicateurs financiers.
+
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://guide.memo.bank" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: memobank
@@ -78,7 +80,7 @@ read_more: Lire notre article
 # Jekyll feature allowing to build sites with GitHub-hosted themes.
 # We rely on "remote_theme" (instead of "theme") because the theme we're using
 # isn't natively supported by GitHub Pages. We have to load it remotely.
-remote_theme: just-the-docs/just-the-docs@v0.4.0.rc3
+remote_theme: just-the-docs/just-the-docs@v0.4.1
 # The list of Jekyll plugins we rely on (as listed in our gemfile).
 plugins:
   - jekyll-github-metadata
@@ -116,6 +118,10 @@ logo: "/assets/images/logo-memo-bank-white.svg"
 # Color scheme currently only supports "dark", "light"/nil (default), or a custom
 # scheme that you define
 color_scheme: memo
+#
+# Copy button
+# Copy button for code blocks (requires JavaScript).
+enable_copy_code_button: false
 #
 # Aux links
 # Aux links are located in the upper right navigation
