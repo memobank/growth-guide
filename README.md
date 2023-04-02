@@ -233,8 +233,7 @@ Our Jekyll configuration lives in the `_config.yml` file. There's no need for yo
 
 ## Editing the guide locally
 
-You can edit the guide **locally**, and push your edits on github.com once you're done. This will allow you to run the site locally and preview your changes in your web browser. This is ideal if you want to edit the style or the layout of the guide.
-To edit the code of the guide locally, you need a code editor like Sublime Text.
+You can edit the guide **locally**, and push your edits on github.com once you're done. This will allow you to run the site locally and preview your changes in your web browser. This is ideal if you want to edit the style or the layout of the guide. To edit the code of the guide locally, you need a code editor like Sublime Text.
 
 ### Installing SublimeText
 
