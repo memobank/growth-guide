@@ -36,3 +36,4 @@ Nous listons ici les concours ouverts aux entreprises innovantes spécifiquement
 - [Trophées PME RMC](https://tropheespmermc.com) (RMC)
 - [Total Edhec Entreprendre](https://www.concourstee.fr) (EDHEC)
 - [Innover à la campagne](https://innoveralacampagne.fr) (Tiers-lieu le 21)
+- [La Bourse Shine](https://www.shine.fr/bourse-2023/) (Shine)

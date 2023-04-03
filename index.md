@@ -22,6 +22,7 @@ Bonne lecture.
 
 ## Contenu du guide
 
-- [Voir nos articles sur le financement]({% link financements/index.md %})
-- [Voir nos articles sur les garanties]({% link garanties/index.md %})
-- [Voir nos articles sur les indicateurs]({% link indicateurs/index.md %})
+- [Voir nos articles sur les offres de financement]({% link financements/index.md %})
+- [Voir nos articles sur les garanties financières]({% link garanties/index.md %})
+- [Voir nos articles sur les indicateurs à suivre de votre côté]({% link indicateurs/index.md %})
+- [Voir nos articles sur les ratios utilisés par les banquiers]({% link indicateurs/index.md %})
