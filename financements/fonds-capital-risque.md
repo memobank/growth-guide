@@ -49,7 +49,9 @@ Les fonds de capital-risque peuvent constituer une bonne source de financement p
 - vous pouvez compter sur le soutien et le réseau de l’équipe qui gère le fonds ;
 - vous pouvez lever des millions d’euros sans céder une part trop importante de votre société (10 à 25 %) ;
 - vous embarquez un nouvel administrateur qui peut vous conseiller en plus de vous financer (_board member_) ;
-- vous donnez de la crédibilité à votre projet, ce qui peut vous permettre d’aller chercher un [prêt bancaire]({% link financements/credits-bancaires.md %}) dans la foulée, comme notre [Rocket Pack](https://memo.bank/rocket-pack).
+- vous donnez de la crédibilité à votre projet, ce qui peut vous permettre d’aller chercher un [prêt bancaire]({% link financements/credits-bancaires.md %}) dans la foulée. Chez Memo Bank par exemple, si votre entreprise a levé des fonds au cours des 12 derniers mois, vous pouvez accéder à un financement qui peut s’élever jusqu’à 500 000 euros.
+
+.
 
 ## Inconvénients
 
