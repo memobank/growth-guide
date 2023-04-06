@@ -16,4 +16,4 @@ Si la somme d’argent _gagée_ est apportée par votre entreprise (et non par u
 
 Chez Memo Bank, nous utilisons le gage-espèces dans le cadre de notre offre de financement destinée aux entreprises technologiques en forte croissance. Si votre entreprise a levé des fonds au cours des 12 derniers mois, vous pourriez bénéficier grâce à Memo Bank d’un financement qui peut s’élever jusqu’à 500 000 euros.
 
-Ce financement est garanti en partie par une [garantie Bpifrance](https://guide.memo.bank/garanties/garanties-bpifrance), et en partie en gage-espèces.
+Ce financement est garanti en partie par une [garantie Bpifrance]({% link garanties/garanties-bpifrance.md %}), et en partie en gage-espèces.
