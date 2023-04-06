@@ -14,11 +14,6 @@ Si la somme d’argent _gagée_ est apportée par votre entreprise (et non par u
 
 ## Le gage-espèces chez Memo Bank
 
-Chez Memo Bank, nous utilisons le gage-espèces dans le cadre du [Rocket Pack](https://memo.bank/rocket-pack), notre offre destinée aux entreprises technologiques en forte croissance. Si votre entreprise a levé des fonds au cours des 12 derniers mois, vous pourriez bénéficier grâce au [Rocket Pack](https://memo.bank/rocket-pack) de financements qui s’élèvent jusqu’à 25 % du montant de votre dernière levée de fonds (pour un montant maximum de 3 millions d’euros).
+Chez Memo Bank, nous utilisons le gage-espèces dans le cadre de notre offre de financement destinée aux entreprises technologiques en forte croissance. Si votre entreprise a levé des fonds au cours des 12 derniers mois, vous pourriez bénéficier grâce à Memo Bank d’un financement qui peut s’élever jusqu’à 500 000 euros.
 
-Les financements que nous accordons dans le cadre du [Rocket Pack](https://memo.bank/rocket-pack) sont divisés en deux prêts :
-
-- un prêt garanti par le Fonds européen d’investissement (« garantie FEI »), pour 80 % du montant total financé ;
-- un prêt garanti à 50 % en gage-espèces, pour 20 % du montant total financé.
-
-Par exemple, si votre entreprise lève 5 millions d’euros auprès d’investisseurs, nous pourrons vous prêter jusqu’à 1,25 million d’euros(25 % de 5 millions). Ce financement de 1,25 millions d’euros sera divisé en deux : un prêt avec une garantie FEI de 1 million d’euros (80 % de 1,25 million), et un prêt de 250 000 € (20 % de 1,25 million), garanti à 50 % en gage-espèces — donc garanti à 125 000 € en gage-espèces.
+Ce financement est garanti en partie par une [garantie Bpifrance]({% link garanties/garanties-bpifrance.md %}), et en partie en gage-espèces.
