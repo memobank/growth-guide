@@ -1,6 +1,6 @@
 # Memo Bank's growth guide
 
-Memo Bank's growth guide is a financing guide aimed at established companies that are still growing fast (“scaling“ companies). The guide is maintained by [Memo Bank](https://memo.bank/en), a French bank built by entrepreneurs, for entrepreneurs who run small and medium businesses.
+Memo Bank's growth guide is a financing guide aimed at established companies that are still growing fast (“scaling“ companies). The guide is maintained by [Memo Bank](https://memo.bank/en), a French bank built by entrepreneurs, for entrepreneurs.
 
 This repository contains the code used to publish our guide at: [guide.memo.bank](https://guide.memo.bank). We use [Jekyll](https://jekyllrb.com) with the [Just the Docs](https://just-the-docs.github.io/just-the-docs/) theme. This site is built using GitHub Actions and served by [GitHub Page](https://pages.github.com).
 
@@ -37,7 +37,7 @@ If you want to run the guide on your computer, you'll first need to create your 
 
 — [About forks](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks) (GitHub)
 
-Forking the guide will allow you to edit your own personal copy of the guide, without interfering with Memo Bank's version of the guide. We'll see how to sync your fork with Memo Bank's main version, but first we'll create your fork.
+Forking the guide will allow you to edit your own personal copy of the guide, without interfering with Memo Bank's version of the guide. We'll see how to sync your fork with Memo Bank's main version, but first let's create your own fork.
 
 To create a fork of Memo Bank's guide:
 
@@ -50,7 +50,7 @@ To create a fork of Memo Bank's guide:
 
 ### Cloning the guide locally
 
-Now that you've forked Memo Bank's guide on github.com, you own a copy of the guide. But for the time being, your copy only lives on github.com. It's a remote copy, not a local one. To edit your fork on your Mac (locally), you need to download it from github.com. In GitHub's jargon, downloading a remote repository locally is called “making a clone” or just “cloning” it.
+Now that you've forked Memo Bank's guide on github.com, you own a copy of the guide. But for the time being, your copy only lives on github.com. It's a _remote_ copy, not a _local_ one, it lives on GitHub's servers, not on your own computer. To edit your fork on your Mac (locally), you need to download it from github.com. In GitHub's jargon, downloading a remote repository locally is called “making a clone” or just “cloning” it.
 
 Here's the definition of a clone, according to GitHub:
 
@@ -64,7 +64,7 @@ To clone your remote fork locally:
 2. Click on the green **Code** button and select **Open with GitHub Desktop**.
 3. Click on **Choose…** and select the local folder where you want your fork to live.
 4. Click on **Clone** and when asked hit **To contribute to the parent project**.
-5. Click on **Continue** and you're done. Good job! You've just cloned your fork. 👏
+5. Click on **Continue** and you're done. Good job! You've just cloned your fork locally. 👏
 
 Think as the relationship between all those repos as a triangle:
 
@@ -76,7 +76,7 @@ Think as the relationship between all those repos as a triangle:
 
 GitHub Desktop has done its magic and now your local fork is linked to:
 
-- Memo Bank's main repo (`upstream` in GitHub's jargon). That will allow you to get the latest version of the main repo, in case someone else updates it.
+- Memo Bank's main repo (`upstream` in GitHub's jargon). That will allow you to get the latest version of the main repo, in case someone else updates it for example.
 - Your remote fork, the one that lives on github.com (`origin` in GitHub's jargon). That will allow you to “push” the edits you made locally on github.com, in order to open a pull request from there—more on that later.
 
 To update your fork:
@@ -84,7 +84,7 @@ To update your fork:
 1. Open **GitHub Desktop** and navigate to your `growth-guide` repository.
 2. Click on the **Fetch origin** button and let GitHub Desktop do its magic for you.
 
-Note: if you've just forked our `growth-guide` repository and cloned it on your Mac, then your local clone should be up to date with Memo Bank's main version. Fetching Memo Bank's main repository is only useful if you haven't updated your fork in a long while.
+Note: if you've just forked our `growth-guide` repository and cloned it on your Mac, then your local clone should be up to date with Memo Bank's main version. Fetching Memo Bank's main repository is only useful if you haven't updated your local fork in a long while.
 
 ## Installing and running the guide
 
@@ -93,8 +93,8 @@ Now that the code of our guide lives on your computer, you need to install a few
 Here's what you'll need to install:
 
 1. Homebrew (a sort of tech App store).
-2. Ruby (the language Jekyll is written in).
-3. Jekyll (the engine that powers our site).
+2. Jekyll (the engine that powers our site).
+3. Ruby (the language Jekyll is written in).
 
 The good news is: you only have to do these tedious steps once. So hang on.
 
@@ -136,7 +136,7 @@ brew install chruby ruby-install xz
 Then install Ruby itself by pasting the following line in your Terminal and hitting **Enter**.
 
 ```
-ruby-install ruby
+ruby-install ruby 3.1.3
 ```
 
 Let your Terminal do the work (do not quit it). Installation may take a few minutes. Once new lines stop appearing on your Terminal, it means that Ruby has been installed. You're almost done. Just paste the following lines (all at once) in your Terminal and hit **Enter** one last time.
@@ -144,7 +144,7 @@ Let your Terminal do the work (do not quit it). Installation may take a few minu
 ```
 echo "source $(brew --prefix)/opt/chruby/share/chruby/chruby.sh" >> ~/.zshrc
 echo "source $(brew --prefix)/opt/chruby/share/chruby/auto.sh" >> ~/.zshrc
-echo "chruby ruby-3.1.2" >> ~/.zshrc # run 'chruby' to see actual version
+echo "chruby ruby-3.1.3" >> ~/.zshrc # run 'chruby' to see actual version
 ```
 
 Then quit and reopen your Terminal (to reset it). This is important. And then just paste the following line and hit **Enter**.
@@ -153,14 +153,14 @@ Then quit and reopen your Terminal (to reset it). This is important. And then ju
 ruby -v
 ```
 
-You should see something like: `ruby 3.1.2p20 (2022-04-12 revision 4491bb740a)`. If you don't, quit and reopen your Terminal, and then try again (`ruby -v`).
+You should see something like: `3.1.3p185 (2022-11-24 revision 1a6b16756e)` or a newer version. If you don't, quit and reopen your Terminal, and then try again (`ruby -v`).
 
 #### Troubleshooting Ruby installation errors
 
 If you get an error that says: `ld: symbol(s) not found for architecture arm64`, try to install Ruby one more time by pasting the following line in your Terminal and hitting **Enter**.
 
 ```
-ruby-install 3.1.2 -- --enable-shared
+ruby-install 3.1.3 -- --enable-shared
 ```
 
 Again, this might take a while. When you're done, quit your Terminal, restart it, paste the following line and hit **Enter**.
@@ -169,7 +169,7 @@ Again, this might take a while. When you're done, quit your Terminal, restart it
 ruby -v
 ```
 
-You should now see something like: `ruby 3.1.2p20 (2022-04-12 revision 4491bb740a)`.
+You should now see something like: `3.1.3p185 (2022-11-24 revision 1a6b16756e)`.
 
 👉 [See Jekyll's installation documentation](https://jekyllrb.com/docs/installation/macos/)
 
@@ -217,7 +217,7 @@ As long as your Terminal is open and running, you can browse your site. To turn 
 
 ## Editing the guide locally
 
-You can edit the guide **locally**, and push your edits on github.com once you're done. Editing the guide locally will allow you to preview your changes in your web browser before pushing them to github.com. This is ideal if you want to edit the style, content structure, or layout of the guide. To edit the code of the guide locally, you'll need a code editor like Sublime Text.
+You can edit the guide **locally**, and push your edits on github.com once you're done. Editing the guide locally will allow you to preview your changes in your web browser before pushing them to github.com—on your remote fork. This is ideal if you want to edit the style, content structure, or layout of the guide. To edit the code of the guide locally, you'll need a code editor like Sublime Text.
 
 ### Installing SublimeText
 
@@ -393,7 +393,7 @@ Sublime Text should open and you should be able to see the content of the site's
 Here's how the typical GitHub flow works in our case:
 
 1. You edit your local copy of the guide (your local fork) using a text editor.
-2. You _push_ your edits onto your fork (that lives on github.com).
+2. You _push_ your edits onto your remote fork (that lives on github.com).
 3. You open a _pull request_ to update Memo Bank's main repository using the code you just pushed to your remote fork (which lives on github.com too).
 
 👉 [Learn more about the GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)
@@ -424,7 +424,7 @@ Well done, you're now working on a branch that is not your reference branch. You
 
 ### Commit your local changes to your new branch
 
-You've edited a few files locally on your new branch, you've saved your edits in Sublime text. Now what? Well, now you need to “record” your changes. Think of it as taking a picture of what you've changed, in order for you to be able to compare what you have now with what you had before. In Git, taking a picture of your most recent edits is called “making a commit”.
+You've edited a few files locally on your new branch, you've saved your edits in Sublime text. Now what? Well, now you need to “record” your changes. Think of it as taking a picture of what you've changed, in order for you to be able to compare what you now have with what you had before. In Git, taking a picture of your most recent edits is called “making a commit”.
 
 Here's the definition of a commit according to GitHub:
 
@@ -461,7 +461,7 @@ Your local commit will be pushed on your github.com fork—which is called `orig
 
 ### Opening a pull request on github.com
 
-Now that you've edited your github.com fork, GitHub will notice that there's a difference between your fork and the main version of the guide (Memo Bank's version).
+Now that you've edited your github.com fork, GitHub will notice that there's a difference between your remote fork and the main version of the guide (Memo Bank's version).
 
 As a consequence, GitHub will ask if you want to open a pull request in order to integrate your edits into the main version of the guide—Memo Bank's version. Think of pull request as a collaborative review step before the introduction of any change into the main version of the guide.
 
@@ -498,23 +498,6 @@ To edit a file on github.com:
 8. Click on **Propose changes**.
 
 Congratulations, you've just created a pull request. If your pull request gets merged, your edit will be integrated into the site's live content.
-
-### Direct access to content files
-
-Skip the browsing part and go straight to the file you want to edit by using the direct links listed below.
-
-#### Homepages
-
-- [Edit the main homepage](https://github.com/memobank/growth-guide/blob/main/index.md)
-- [Edit the Financements' category homepage](https://github.com/memobank/growth-guide/blob/main/financements/index.md)
-- [Edit the Garanties' category homepage](https://github.com/memobank/growth-guide/blob/main/garanties/index.md)
-- [Edit the Indicateurs' category homepage](https://github.com/memobank/growth-guide/blob/main/indicateurs/index.md)
-
-#### Article pages
-
-- [Edit one of the Financements' articles](https://github.com/memobank/growth-guide/tree/main/financements)
-- [Edit one of the Garanties' articles](https://github.com/memobank/growth-guide/tree/main/garanties)
-- [Edit one of the Indicateurs' articles](https://github.com/memobank/growth-guide/tree/main/indicateurs)
 
 ## Understanding the structure of the site
 
