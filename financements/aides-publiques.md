@@ -50,7 +50,6 @@ Dans le cadre d’un prêt à taux zéro, la seule contrepartie à fournir consi
 
 #### Prêts garantis
 
-- [Rocket Pack](https://memo.bank/rocket-pack) (Memo Bank)
 - [Prêt innovation FEI](https://www.bpifrance.fr/catalogue-offres/soutien-a-linnovation/pret-innovation) (Bpifrance)
 - [Prêt innovation](https://www.caisse-epargne.fr/entreprises/financer-investissements/pret-innovation/) (Caisse d’Épargne)
 
