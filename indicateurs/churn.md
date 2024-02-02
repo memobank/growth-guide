@@ -233,7 +233,7 @@ Le _churn_ de revenu est également corrélé avec le revenu moyen par utilisate
 - les entreprises dont le revenu moyen par utilisateur est entre 50 et 500 dollars ont un _churn_ compris entre 3 % et 14 %, et un _churn_ médian entre 6 et 7 % ;
 - les entreprises dont le revenu moyen est supérieur à 500 $ ont un _churn_ compris entre 2 % et 7 %, et un _churn_ médian entre 2,5 % et 5 %.
 
-Autre source comparative disponible en ligne : [l’édition 2021](https://www.key.com/kco/images/2021_kbcm_saas_survey_final.pdf) de l’étude annuelle sur le SaaS de la banque Key Bank, menée auprès de 166 entreprises SaaS qui ont un [MRR]({% link indicateurs/monthly-recurring-revenue.md %}) supérieur à 5 millions de $. Dans cette étude, les entreprises interrogées ont un _churn_ médian de 12,6 %.
+Autre source comparative disponible en ligne : [l’édition 2021](https://www.key.com/) de l’étude annuelle sur le SaaS de la banque Key Bank, menée auprès de 166 entreprises SaaS qui ont un [MRR]({% link indicateurs/monthly-recurring-revenue.md %}) supérieur à 5 millions de $. Dans cette étude, les entreprises interrogées ont un _churn_ médian de 12,6 %.
 
 ## Comprendre votre churn avec les cohortes
 
